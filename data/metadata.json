@@ -1,0 +1,11 @@
+{
+  "title": "科技八卦局",
+  "subtitle": "每天一期 · 瓜仔聊科技圈的人和事",
+  "author": "Adam Le",
+  "explicit": false,
+  "language": "zh-CN",
+  "categories": ["Technology", "Podcasts:Technology:IT & Software"],
+  "base_url": "https://lehaoda.github.io/tech-gossip",
+  "description": "每天一期 10-20 分钟的娱乐科技节目「科技八卦局」:首席吃瓜官瓜仔带你聊科技大佬的争议与故事、大厂竞争内幕、AI 创业圈秘闻。素材来自 TechCrunch、The Verge、WIRED、量子位、IT之家、Hacker News 等公开报道与社区讨论,事实与传闻分开表述,每集描述附原始来源链接。",
+  "owner_email": "lehaoda@gmail.com"
+}

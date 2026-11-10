@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+episodes/*/tmp/
+episodes/*/episode.mp3
+data/seen.json
+.DS_Store

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:image="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>科技八卦局</title>
+    <description>每天一期 10-20 分钟的娱乐科技节目「科技八卦局」:首席吃瓜官瓜仔带你聊科技大佬的争议与故事、大厂竞争内幕、AI 创业圈秘闻。素材来自 TechCrunch、The Verge、WIRED、量子位、IT之家、Hacker News 等公开报道与社区讨论,事实与传闻分开表述,每集描述附原始来源链接。</description>
+    <link>https://lehaoda.github.io/tech-gossip</link>
+    <language>zh-CN</language>
+    <lastBuildDate>Tue, 10 Nov 2026 14:25:34 -0600</lastBuildDate>
+    <image>
+      <url>https://lehaoda.github.io/tech-gossip/cover.png</url>
+      <title>科技八卦局</title>
+      <link>https://lehaoda.github.io/tech-gossip</link>
+    </image>
+    <generator>tech-gossip pipeline</generator>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:author>Adam Le</itunes:author>
+    <itunes:title>科技八卦局</itunes:title>
+    <itunes:subtitle>每天一期 · 瓜仔聊科技圈的人和事</itunes:subtitle>
+    <itunes:owner>
+      <itunes:name>Adam Le</itunes:name>
+      <itunes:email>lehaoda@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Technology"/><itunes:category text="IT &amp; Software"/>
+    <itunes:image href="https://lehaoda.github.io/tech-gossip/cover.png"/>
+  <item>
+    <title>科技八卦局 2026-11-10 · 第1期</title>
+    <description><![CDATA[<p>本期吃瓜原料与原始来源:</p><ul><li>Anthropic IPO 定价区间 70–78 美元,完全摊薄估值 1.404 万亿美元 <a href="https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/">Anthropic IPO 定价区间 70–78 美元,完全摊薄估值 1.404 万亿美元</a></li><li>曝 Anthropic 拟通过 IPO 筹集最多 644 亿美元(国内交叉印证) <a href="https://www.ithome.com/1/025/127.htm">曝 Anthropic 拟通过 IPO 筹集最多 644 亿美元(国内交叉印证)</a></li><li>Anthropic 七位创始人 IPO 各套现约 2.5 亿美元 <a href="https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/">Anthropic 七位创始人 IPO 各套现约 2.5 亿美元</a></li><li>高盛预计 Anthropic 2030 年营收突破 6000 亿美元(据英《金融时报》) <a href="https://www.ithome.com/1/025/190.htm">高盛预计 Anthropic 2030 年营收突破 6000 亿美元(据英《金融时报》)</a></li><li>黄仁勋与疑为中国间谍的关系:时间线(出轨为其本人承认;间谍指控系美方官员"相信",司法未决) <a href="https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/">黄仁勋与疑为中国间谍的关系:时间线(出轨为其本人承认;间谍指控系美方官员"相信",司法未决)</a></li><li>The US is winning the AI race. Jensen Huang could have blown it <a href="https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy">The US is winning the AI race. Jensen Huang could have blown</a></li><li>阿里巴巴:拟分拆平头哥于香港联交所主板独立上市(公司公告,财联社/21世纪经济报道/第一财经交叉核实) <a href="https://www.ithome.com/1/025/147.htm">阿里巴巴:拟分拆平头哥于香港联交所主板独立上市(公司公告,财联社/21世纪经济报道/第一财经交叉核实)</a></li><li>Meta AI 助手 Muse 登陆 Apple Watch 与 Wear OS <a href="https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/">Meta AI 助手 Muse 登陆 Apple Watch 与 Wear OS</a></li><li>OpenAI 上线 Business Hub 企业资料卡(渐似 Google) <a href="https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/">OpenAI 上线 Business Hub 企业资料卡(渐似 Google)</a></li><li>Anthropic 发布 Claude Meetings / Whiteboards / Sheets <a href="https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/">Anthropic 发布 Claude Meetings / Whiteboards / Sheets</a></li><li>小米 SU7 Ultra Extreme 现身北京工厂(谍照,新车上市时间等传闻部分已标注) <a href="https://www.ithome.com/1/025/168.htm">小米 SU7 Ultra Extreme 现身北京工厂(谍照,新车上市时间等传闻部分已标注)</a></li></ul>]]></description>
+    <link>https://lehaoda.github.io/tech-gossip/#2026-11-10</link>
+    <guid isPermaLink="true">https://lehaoda.github.io/tech-gossip/#2026-11-10</guid>
+    <pubDate>Tue, 10 Nov 2026 14:25:34 -0600</pubDate>
+    <enclosure url="https://podcast.lehaoda.com/tech_gossip/episodes/2026-11-10.m4a" type="audio/mp4" length="5791709"/>
+    <itunes:duration>717</itunes:duration>
+    <itunes:image href="https://lehaoda.github.io/tech-gossip/cover.png"/>
+  </item>
+  </channel>
+</rss>
