@@ -1,0 +1,278 @@
+{
+ "date": "2026-11-12",
+ "window_hours": 24,
+ "fetched_at": "2026-11-12T14:01:02.139986+00:00",
+ "failed_feeds": [],
+ "candidates": [
+  {
+   "title": "Nvidia CEO Jensen Huang resigns amid spy, affair scandals",
+   "source": "The Verge",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1031689/jensen-huang-fired-nvidia",
+   "published": "2026-11-12T13:53:16+00:00",
+   "age_hours": 0.1,
+   "score": 10.5,
+   "summary": "Nvidia's board has separated from Jensen Huang, its longtime co-founder, president, and CEO, after reports of two extramarital affairs - one with an alleged Chinese spy and one with an Nvidia executive who reported to Huang. A press release published Thursday following a late Wednesday night board m"
+  },
+  {
+   "title": "广汽埃安 Ray 7 车型上市：华为 192 线激光雷达、搭文远知行 L4 级 Robotaxi 同源大模型，限时价 11.47 万元起",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/026/385.htm",
+   "published": "2026-11-12T13:05:37+00:00",
+   "age_hours": 0.9,
+   "score": 10.0,
+   "summary": "IT之家 11 月 12 日消息，广汽宣布旗下埃安 Ray 7 车型现已正式上市，该车是 Ray 系列的首款中大型纯电轿车，车长近 5 米，采用低趴宽体设计，风阻系数低至 0.22Cd，面向年轻市场打造，定价为 12.38 万元起，上市限时价格 11.47 万元起，IT之家整理价格如下： 车型版本 原价 上市限时价 702 后驱驾趣宁德版 13.38 万元 12.47 万元 702 后驱激光宁德版 14.38 万元 13.47 万元 702 后驱 EMB 激光宁德版 15.38 万元 14.47 万元 530 后驱驾趣版 12.38 万元 11.47 万元 530 后驱激光版 13.38 万元"
+  },
+  {
+   "title": "出轨丑闻爆发前黄仁勋曾谈及接班安排：希望下一任 CEO 来自英伟达内部",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/026/381.htm",
+   "published": "2026-11-12T12:39:57+00:00",
+   "age_hours": 1.4,
+   "score": 10.0,
+   "summary": "IT之家 11 月 12 日消息，英伟达 CEO 黄仁勋在婚外情风波震动公司前数周， 曾谈到自己的接班问题 。在 10 月 14 日录制、今天发布的彭博社《The Circuit》节目采访中，黄仁勋谈及自己的继任安排：“ 就像我可能被解雇一样，下一任 CEO 也得由公司聘请 。” 执掌英伟达 33 年的黄仁勋有一双儿女，且都在英伟达从事工作。女儿黄敏珊担任具身智能产品营销高级总监，儿子黄胜斌则担任机器人产品总监。 在被问及女儿是否会接自己的班时，黄仁勋回答：“首先，我并不希望她接手这份工作。因为如果黄胜斌或黄敏珊有这样的志向， 就必须靠自己去争取 。” 综合IT之家近期的报道，这段采访内容公开"
+  },
+  {
+   "title": "西门子 CEO 博乐仁：无论黄仁勋是否离职，与英伟达的合作都不会受影响",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/026/374.htm",
+   "published": "2026-11-12T12:10:00+00:00",
+   "age_hours": 1.9,
+   "score": 10.0,
+   "summary": "IT之家 11 月 12 日消息，据路透社报道，西门子 CEO 博乐仁（Roland Busch）表示，无论英伟达最终如何决定其创始人兼 CEO 黄仁勋（Jensen Huang）的去留，西门子都将继续与这家 AI 芯片巨头保持合作。 此前，有报道称黄仁勋涉及两起婚外情。面对相关风波，英伟达董事会正在考虑是否解除黄仁勋的 CEO 职务。 IT之家注意到，博乐仁在西门子公布第四季度业绩后接受记者采访时表示：“我们讨论的是一家规模相当大的企业，拥有一支庞大的团队。因此，我们正在推进的项目不会因为英伟达内部发生什么变化而停止。” 博乐仁强调，西门子与全球领先的 AI 芯片供应商英伟达之间的合作，包括"
+  },
+  {
+   "title": "Epic CEO 斯威尼力挺黄仁勋：英伟达若罢免他，堪比当年苹果解雇乔布斯",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/026/363.htm",
+   "published": "2026-11-12T11:48:31+00:00",
+   "age_hours": 2.2,
+   "score": 10.0,
+   "summary": "IT之家 11 月 12 日消息，继不久前承认有过一段婚外情后，英伟达 CEO 黄仁勋又传出另一起婚外情的疑云，英伟达董事会因此考虑将他解职。 消息一出，科技界多位重量级人物在 X 上纷纷发声。这其中，Epic Games CEO 蒂姆 · 斯威尼的态度尤为鲜明。 斯威尼在推文中呼吁“救救黄仁勋”。“如果英伟达董事会真的这么做，那就跟当年 苹果解雇史蒂夫 · 乔布斯 一样愚蠢，还会严重损害美国的利益。从游戏 GPU 时代到 CUDA，再到 AI 超级计算机，老黄始终是一位 富有远见、引领科技未来发展 的人物。” 同一天，有 X 用户向埃隆 · 马斯克提议聘用黄仁勋。马斯克回应：“那将是我的荣幸"
+  },
+  {
+   "title": "迪拜富豪萨基瓦尼：光是投资 OpenAI、SpaceX 和 Anthropic，我们就赚了几十亿美元",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/026/286.htm",
+   "published": "2026-11-12T09:35:59+00:00",
+   "age_hours": 4.4,
+   "score": 10.0,
+   "summary": "IT之家 11 月 12 日消息，据彭博社今天（12 日）报道，迪拜富豪、达马克集团创始人侯赛因 · 萨基瓦尼预计，投资 Anthropic 等 AI 公司有望带来数十亿美元收益。 近年来押注科技巨头的部分投资者，正从中获得丰厚回报。萨基瓦尼在彭博迪拜投资论坛上说：“光是 OpenAI、SpaceX 和 Anthropic 这三家公司， 我们就赚了数十亿美元 。” 达马克集团以迪拜房地产业务起家，近年来逐步将投资范围扩大到科技和数据中心领域。此前消息称，Anthropic 的 IPO 获得数倍超额认购，市场对这场有望成为史上最大规模 IPO 的交易热情持续高涨。 迪拜房地产市场多年来的繁荣，也"
+  },
+  {
+   "title": "Meta 基础设施负责人将卸任：掌舵 17 年后交棒，亚马逊老将接任",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/026/276.htm",
+   "published": "2026-11-12T09:16:28+00:00",
+   "age_hours": 4.7,
+   "score": 10.0,
+   "summary": "IT之家 11 月 12 日消息，Meta 一位推动公司成长为社交媒体和科技行业巨头的关键人物即将离职。 Meta 向科技媒体 TechCrunch 证实，公司长期负责基础设施业务、同时担任工程部门联合负责人的桑托什 · 贾纳尔丹（Santosh Janardhan）将卸任现有职务。接替他的是戴夫 · 布朗（Dave Brown），布朗今年早些时候加入 Meta，担任基础设施副总裁。 在加入 Meta 之前，布朗曾在亚马逊工作 19 年，主要负责计算基础设施、云计算和人工智能相关业务。 贾纳尔丹短期内不会立即离开 Meta，但预计将在明年正式离职。Meta 一名发言人表示：“桑托什将在过渡期间"
+  },
+  {
+   "title": "The unfolding Jensen Huang scandal: a timeline",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+   "published": "2026-11-11T23:50:00+00:00",
+   "age_hours": 14.2,
+   "score": 10.0,
+   "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure."
+  },
+  {
+   "title": "Anthropic启动IPO路演，估值已缩水6000亿美元",
+   "source": "量子位",
+   "link": "https://www.qbitai.com/2026/11/509381.html",
+   "published": "2026-11-12T10:11:29+00:00",
+   "age_hours": 3.8,
+   "score": 9.5,
+   "summary": "全世界都在踩刹车，达里奥一个人踩油门"
+  },
+  {
+   "title": "黄仁勋去留悬而未决，外媒盘点英伟达潜在接班人",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/026/264.htm",
+   "published": "2026-11-12T09:08:59+00:00",
+   "age_hours": 4.9,
+   "score": 9.0,
+   "summary": "IT之家 11 月 12 日消息，英伟达解雇其明星 CEO 黄仁勋，原本是一件几乎难以想象的事情。但如今，这种可能性似乎正在逼近。 在预测市场 Kalshi 上，黄仁勋本周能否留任的概率已经跌至 30%。尽管他一手打造了这家全球最具价值的企业之一，而且在许多人看来，英伟达如今的影响力甚至已经大到令人担忧，但眼下围绕他的风波正在不断发酵。 黄仁勋已经承认自己存在婚外情，但截至当地时间周三下午，他所指的对象究竟是谁，仍然没有明确答案：是黄乐（Alice Huang），还是直接向黄仁勋汇报的英伟达高管金伯莉 · 鲍威尔（Kimberly Powell）？《纽约时报》在一篇最新报道中援引 5 名知情人"
+  },
+  {
+   "title": "Anthropic IPO",
+   "source": "Hacker News (frontpage)",
+   "link": "https://ipo.anthropic.com/us/",
+   "published": "2026-11-12T11:46:41+00:00",
+   "age_hours": 2.2,
+   "score": 8.5,
+   "summary": "Article URL: https://ipo.anthropic.com/us/ Comments URL: https://news.ycombinator.com/item?id=50465829 Points: 203 # Comments: 237"
+  },
+  {
+   "title": "I tried Google’s AI glasses and Meta’s finally got real competition",
+   "source": "The Verge",
+   "link": "https://www.theverge.com/tech/1031647/google-android-xr-warby-parker-gentle-monster-hands-on",
+   "published": "2026-11-12T14:00:00+00:00",
+   "age_hours": 0.0,
+   "score": 8.0,
+   "summary": "It's a weird time to launch a new pair of smart glasses. These last few years, Meta has been the dominant player in pushing a fragile smart glasses resurgence. Unfortunately, its privacy reputation led to the \"pervert glasses\" moniker. Smart glasses have never been more unpopular. But in the past we"
+  },
+  {
+   "title": "Apple’s HomeView is my new favorite smart display — but not my daughter’s",
+   "source": "The Verge",
+   "link": "https://www.theverge.com/tech/1031726/apple-homeview-review-smart-display-homekit",
+   "published": "2026-11-12T14:00:00+00:00",
+   "age_hours": 0.0,
+   "score": 8.0,
+   "summary": "The HomeView nails everything I want from a smart display. It's superb at controlling my smart home; it's an excellent hands-free kitchen companion, a good speaker, and a gorgeous digital photo frame. It's also the first Apple smart speaker with Siri AI, which is an improvement, if still slow at tim"
+  },
+  {
+   "title": "早报｜苹果支持社区将关停/曝英伟达董事会考虑罢免黄仁勋/余承东官宣华为子品牌OSTA星芒",
+   "source": "爱范儿",
+   "link": "https://www.ifanr.com/1689051?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "published": "2026-11-12T00:24:22+00:00",
+   "age_hours": 13.6,
+   "score": 8.0,
+   "summary": "· 余承东官宣华为子品牌 OSTA 星芒，11 月 20 日首秀 · 张雪机车第 10 万台整车在重庆下线 · 曝 Anthropic 承销商考虑上调 IPO 发行价 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+  },
+  {
+   "title": "京东完成对德国消费电子零售商 Ceconomy 收购要约，13.35 亿欧元获 59.8% 股本及投票权",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/026/393.htm",
+   "published": "2026-11-12T13:50:11+00:00",
+   "age_hours": 0.2,
+   "score": 7.5,
+   "summary": "IT之家 11 月 12 日消息，京东集团今日宣布，完成对德国消费电子零售商 Ceconomy 的收购要约，以总对价 13.35 亿欧元 （IT之家注：现汇率约合 99.14 亿元人民币） 收购 Ceconomy 59.8% 的股本及投票权。随着本次收购完成， Ceconomy 成为京东集团子公司 。 连同京东集团合作伙伴 Convergenta 保留的 25.3% 股权，此项收购使双方在 Ceconomy 的合计持股比例达 85.2%。 Ceconomy 旗下拥有 MediaMarkt、Saturn、MediaWorld 品牌，经营手机、电脑及各类家电。在 11 个国家及地区运营着 1,00"
+  },
+  {
+   "title": "AMD 拟入股量子计算公司 PsiQuantum，将扩大合作、共同开发基础设施",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/026/390.htm",
+   "published": "2026-11-12T13:22:02+00:00",
+   "age_hours": 0.7,
+   "score": 7.5,
+   "summary": "IT之家 11 月 12 日消息，据路透社报道，AMD 与量子计算公司 PsiQuantum 今天（12 日）宣布扩大合作，共同开发实用级量子计算机所需的基础设施。AMD 还计划入股 PsiQuantum。 随着企业和政府希望利用量子计算机解决传统计算机难以应对的复杂科研及商业问题，量子计算领域吸引了越来越多投资者。 近年来的技术突破，也进一步提振了外界对量子计算应用前景的信心，潜在应用领域包括 药物研发、金融建模和密码学等 。 美国商务部今年 5 月宣布，计划依据《芯片法案》投资 20 亿美元 （IT之家注：现汇率约合 133.72 亿元人民币） ，取得 9 家量子计算公司的少数股权，其中包"
+  },
+  {
+   "title": "上汽大众“超能纯电 SUV”ID. ERA 5X 上市，限时 9.99 万-13.99 万元",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/026/379.htm",
+   "published": "2026-11-12T12:24:45+00:00",
+   "age_hours": 1.6,
+   "score": 7.5,
+   "summary": "IT之家 11 月 12 日消息，今天（12 日）晚间，上汽大众 ID. ERA 5X 正式上市，限时权益价 9.99-13.99 万元。 IT之家附不同车型的配置信息如下图： Pro：9.99 万元 Pro+：11.59 万元 Max：12.79 万元 Ultra：13.99 万元 新车是 ID. ERA 家族首款纯电车型，定位“超能纯电 SUV”，配备激光雷达，搭载行云智行智能辅助驾驶系统，拥有 2815mm 轴距，配备宁德时代电池。 据IT之家了解， ID.ERA 5X 配备 192 线激光雷达、地平线征程 6H 芯片、标配 4 纳米 MTK 8676 车规级座舱芯片，搭载“行云智行”智"
+  },
+  {
+   "title": "消息称 2027 年安卓旗舰手机在重新评估双层 OLED 屏幕",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/026/364.htm",
+   "published": "2026-11-12T11:51:43+00:00",
+   "age_hours": 2.2,
+   "score": 7.5,
+   "summary": "IT之家 11 月 12 日消息，博主 @数码闲聊站 今日爆料， 2027 年安卓旗舰在重新评估双层 OLED 屏幕 。 有网友表示“目前只有京东方和维信诺能做吧”，博主在评论区进一步补充称“华星和天马也有了”。 IT之家注：荣耀 Magic6 RSR 保时捷设计是全球首款在手机端量产商用双层 OLED 的机型（此外还有荣耀 Magic6 至臻版），这块屏幕与京东方联合研发，命名为“叠光绿洲护眼屏”，HDR 峰值亮度可达 5000nits，屏幕寿命提升至 600%。 而到了下一代的荣耀 Magic7 RSR，荣耀取消了双层 OLED 方案，采用单层 绿洲护眼屏 。 此外，本月发布的 摩托罗拉 "
+  },
+  {
+   "title": "AWS 首席 AI 和技术官马特 · 伍德：优秀的工程师要爱上问题，而非现成解法",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/026/359.htm",
+   "published": "2026-11-12T11:31:53+00:00",
+   "age_hours": 2.5,
+   "score": 7.5,
+   "summary": "IT之家 11 月 12 日消息，据《商业内幕》今天（12 日）晚间报道，亚马逊云科技（AWS）首席 AI 与技术官马特 · 伍德认为，真正优秀的工程师应该更关注要解决的问题，而不是执着于某一种解决办法。“我们希望工程师 不要太迷恋自己提出的具体方案，而是把更多热情放在问题本身 。” 在他看来，优秀工程师不会只用 AI 写代码， 还会利用 AI 深入分析问题，并尝试不同的解决思路 。 过去，软件开发成本较高，团队集中资源实施一种解决方案往往更划算。借助 AI， 开发者不仅能把问题研究得更透彻，还能同时尝试多种解决办法 。 亚马逊也在重新调整对软件工程师的要求。上个月，公司发布备忘录公布新版岗位"
+  },
+  {
+   "title": "OpenAI CEO 奥尔特曼现身超跑聚会，身旁停着数百万美元柯尼塞格",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/026/355.htm",
+   "published": "2026-11-12T11:08:23+00:00",
+   "age_hours": 2.9,
+   "score": 7.5,
+   "summary": "IT之家 11 月 12 日消息，萨姆 · 奥尔特曼（Sam Altman）不仅是硅谷科技圈的风云人物，也是一位不折不扣的汽车发烧友。 上周日，一名 TikTok 用户发布了一段视频，展示了一场颇为壮观的跑车聚会。视频中，大量跑车和豪华超跑停在一条蜿蜒的公路旁，车型从福特 Mustang、讴歌 NSX，到帕加尼 Utopia 和柯尼塞格 Regera。 而就在一辆银色雷克萨斯 LFA 旁边，站着一位意想不到的人物：OpenAI CEO 萨姆 · 奥尔特曼。 据视频发布者米格尔 · 戈迪内斯（Miguel Godinez）向 Business Insider 透露，这场聚会完全是偶然发生的。 当"
+  },
+  {
+   "title": "Anthropic 被曝为 Claude 加入限制：禁止生成宝可梦相关游戏素材",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/026/348.htm",
+   "published": "2026-11-12T10:45:49+00:00",
+   "age_hours": 3.3,
+   "score": 7.5,
+   "summary": "IT之家 11 月 12 日消息，随着 AI 被广泛用于生成艺术作品、视频乃至电子游戏素材，相关技术的发展速度已经超过了版权限制措施的完善速度。如今，游戏行业也开始采取行动。最新迹象显示，Claude 的开发商 Anthropic 已经为其大语言模型加入限制，禁止用户利用宝可梦（Pokémon）相关知识产权生成游戏素材。 IT之家注意到，这一发现最初来自日本媒体 Automaton 收集的用户反馈。多名用户发现，当他们尝试使用 Claude 开发受宝可梦启发的粉丝自制游戏时，Claude 会直接拒绝提供帮助。 一名名为 Big Kid Nation 的用户似乎正在借助 AI 开发一款非官方宝可"
+  },
+  {
+   "title": "摩根大通：到 2030 年，美国人形机器人产量将达 30 万至 40 万台",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/026/334.htm",
+   "published": "2026-11-12T10:21:04+00:00",
+   "age_hours": 3.7,
+   "score": 7.5,
+   "summary": "IT之家 11 月 12 日消息，据路透社今天（12 日）报道，摩根大通最新预测显示，随着人形机器人从技术展示走向商业化应用，美国人形机器人产量 到 2030 年将达到 30 万至 40 万台 ，2035 年进一步增至约 150 万台。 劳动力短缺、使用成本下降和产能扩大，正推动制造、物流和仓储企业采用人形机器人，以替代重复性人工劳动。 不过，人形机器人的大规模应用仍面临 硬件、AI 训练数据、算力和产能 等方面的限制。除特斯拉外，美国大多数厂商的年产量目标 仅为 1 万至 3 万台 。 摩根大通估计，人形机器人的使用成本已逐渐接近人工成本。如果安排机器人多班次作业，每家客户每年可节省约 10"
+  },
+  {
+   "title": "Dbrand 推出首款经谷歌认证的 Fitbit Air 第三方表带 Pulse Band，采用“医疗级”硅胶材质",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/026/327.htm",
+   "published": "2026-11-12T10:19:12+00:00",
+   "age_hours": 3.7,
+   "score": 7.5,
+   "summary": "IT之家 11 月 12 日消息，外设品牌 Dbrand 宣布与谷歌合作，推出首款专为 Fitbit Air 手环设计的第三方表带 Pulse Band，售价为 34.95 美元 （IT之家注：现汇率约合 233.7 元人民币） 。 Pulse Band 采用简约的哑光黑色外观，内侧设有排汗导流槽，配备扁平式扣具和双重收纳卡槽。腕带采用“医疗级”硅胶材质，重量为 14.8 克，并使用模压纸浆包装。产品提供两种尺寸，配有多档调节孔位，可适配腕围 130 至 210 毫米的用户。 作为参考，目前谷歌提供多款腕带配件。其中，Performance Loop 随售价 99.99 美元 （现汇率约合 6"
+  },
+  {
+   "title": "消息称二手交易平台转转已秘密提交香港 IPO 申请，拟募集 5 亿美元",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/026/300.htm",
+   "published": "2026-11-12T10:08:25+00:00",
+   "age_hours": 3.9,
+   "score": 7.5,
+   "summary": "IT之家 11 月 12 日消息，据彭博社今日报道，知情人士透露，北京转转精神科技有限公司（IT之家注：二手交易平台“转转”的运营主体）已秘密递交香港 IPO 申请，最快可能于明年上市。 上述人士表示，这家电子商务公司可能通过此次 IPO 募集高达 5 亿美元 （现汇率约合 33.43 亿元人民币） 。 转转官网显示，该集团旗下拥有转转、找靓机、采货侠、红布林等多个二手电商品牌，业务覆盖手机、3C 数码、奢侈品、图书、服装鞋帽、母婴用品、家具家电等。到 2025 年，服务超过 5000 万交易用户。 2025 年 9 月， 转转宣布逐步关停个人对个人“自由市场” ，全面转向“官方验”业务模式。"
+  },
+  {
+   "title": "“行业 AI 梦工厂”首款昇腾原生世界模型，华为云 CloudRobo 具身世界模型发布会定档 11 月 16 日",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/026/288.htm",
+   "published": "2026-11-12T09:37:33+00:00",
+   "age_hours": 4.4,
+   "score": 7.5,
+   "summary": "IT之家 11 月 12 日消息，华为云今日宣布，华为云 CloudRobo 具身世界模型发布会将于 11 月 16 日 14:00-15:30 在线上直播。 海报显示，届时将发布“行业 AI 梦工厂”首款昇腾原生世界模型，具体名称为 CloudRobo-WM1.2 。 IT之家注：行业 AI 梦工厂是华为推出的行业 AI 平台，设计用于降低各行业应用 AI 的门槛。 2026 年 2 月 1 日，华为云发布“行业 AI 梦工厂”首个落地专区 —— 智慧医疗专区，并于 2026 年 6 月 5 日在华为云 INSPIRE 创想者大会上正式上线智慧医疗、具身智能、智能制造、科学计算四大专区。 2"
+  },
+  {
+   "title": "历时近 4 年，三星反向无线充电专利诉讼达成和解",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/026/285.htm",
+   "published": "2026-11-12T09:32:06+00:00",
+   "age_hours": 4.5,
+   "score": 7.5,
+   "summary": "IT之家 11 月 12 日消息，三星已经就 Galaxy 手机的 Wireless PowerShare（无线共享充电）功能相关专利侵权诉讼达成和解。这场法律纠纷持续了近四年，涉及三星自 2019 年以来推出的多款设备，包括 Galaxy S10 系列和 Galaxy Note 20 系列等。 Wireless PowerShare 是三星 Galaxy 手机的一项反向无线充电功能。用户只需将 Galaxy Watch、Galaxy Buds、支持无线充电的其他 Galaxy 手机，以及符合 Qi 无线充电标准的设备放在手机背面，就能利用手机为这些设备无线充电。 据IT之家了解，这起诉讼由 "
+  },
+  {
+   "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
+   "published": "2026-11-11T23:17:05+00:00",
+   "age_hours": 14.7,
+   "score": 7.5,
+   "summary": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate."
+  },
+  {
+   "title": "Nvidia is reportedly preparing to fire Jensen Huang",
+   "source": "The Verge",
+   "link": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
+   "published": "2026-11-11T22:44:36+00:00",
+   "age_hours": 15.3,
+   "score": 7.5,
+   "summary": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from The New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The Wall Street Journal reports. The second alleged affair was wit"
+  },
+  {
+   "title": "United won’t let your AI agent book your flight",
+   "source": "The Verge",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+   "published": "2026-11-11T21:54:21+00:00",
+   "age_hours": 16.1,
+   "score": 7.5,
+   "summary": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns. The company says it hasn't yet seen many people try to use AI agents to book their flights, The Wall Street Journal reports, in line with observations from other businesses like "
+  },
+  {
+   "title": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/",
+   "published": "2026-11-11T19:22:22+00:00",
+   "age_hours": 18.6,
+   "score": 7.5,
+   "summary": "Nvidia CEO Jensen Huang has until the end of the day Wednesday to answer a call from House Republicans for a closed-door briefing on his affair with alleged Chinese spy."
+  }
+ ]
+}
