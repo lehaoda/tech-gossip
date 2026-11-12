@@ -24,7 +24,7 @@ pipeline/publish.py      # 音频写 Mac Studio 硬盘 → 重建 feed.xml/index
 | RSS feed | https://lehaoda.github.io/tech-gossip/feed.xml |
 | 节目页 | https://lehaoda.github.io/tech-gossip/ |
 | 音频(硬盘 + nginx + Cloudflare) | https://podcast.lehaoda.com/tech_gossip/episodes/ |
-| 封面(硬盘母版) | /Volumes/Immich-HDD-Temp/podcast/tech_gossip/cover/cover.png |
+| 封面(硬盘母版) | /Volumes/DataVault/podcast/tech_gossip/cover/cover.png |
 
 ## 内容规矩
 
