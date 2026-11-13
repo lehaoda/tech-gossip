@@ -1,0 +1,278 @@
+{
+ "date": "2026-11-13",
+ "window_hours": 24,
+ "fetched_at": "2026-11-13T14:02:22.918126+00:00",
+ "failed_feeds": [],
+ "candidates": [
+  {
+   "title": "Anthropic 连发多条故障通报：微软服务中断波及 Claude",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/026/948.htm",
+   "published": "2026-11-13T13:10:18+00:00",
+   "age_hours": 0.9,
+   "score": 10.0,
+   "summary": "IT之家 11 月 13 日消息，微软 Microsoft 365 遭遇了近年来最严重的服务故障之一，Exchange Online、Outlook、SharePoint 及部分 Teams 服务中断近一天半。今天早些时候，微软一名高管为此次故障致歉，并对事态表示遗憾，基本承认短时间内无法解决问题。 Anthropic 将自身部分服务的故障归咎于 Microsoft 365 连接，并通过 Claude Status 页面陆续发布了以下通报： 调查中： 我们正在调查 Microsoft 365 连接器错误率升高、响应缓慢的问题。用户通过连接器访问邮件、SharePoint、Teams 聊天和日历"
+  },
+  {
+   "title": "Blackmagic Ambisonic Microphone 专业麦克风发布：内置 108 个 MEMS 单元，主打空间音频采集，1695 美元",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/026/929.htm",
+   "published": "2026-11-13T10:52:36+00:00",
+   "age_hours": 3.2,
+   "score": 10.0,
+   "summary": "IT之家 11 月 13 日消息，Blackmagic Design 今日发布了一款面向专业影视制作领域的全新麦克风 Blackmagic Ambisonic Microphone，主打空间音频采集，支持为沉浸式视频内容录制音频，并原生兼容苹果 Vision Pro 头显，售价为 1,695 美元 （IT之家注：现汇率约合 11,331 元人民币） ，将于 12 月上市。 据介绍，Blackmagic Ambisonic Microphone 定位专业市场。采用 Ambisonics 全景声麦克风阵列设计，内置多达 108 个数字 MEMS 麦克风，可用于采集完整的声场信息。 该设备内置处理单"
+  },
+  {
+   "title": "韩国有关部门：黄仁勋离任 CEO 不影响英伟达 26 万块 GPU 供应计划",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/026/927.htm",
+   "published": "2026-11-13T10:51:53+00:00",
+   "age_hours": 3.2,
+   "score": 10.0,
+   "summary": "IT之家 11 月 13 日消息，据路透社报道，韩国科学技术信息通信部部长裴庆勋表示，英伟达确认将按计划向韩国供应 26 万块先进 GPU，履行此前作出的承诺。 裴庆勋在 X 上发文称，英伟达 CEO 黄仁勋的辞职不会影响上述供应计划。 ▲ IT之家注：第二段首句应为“自从黄仁勋宣布辞职以来” 去年，黄仁勋访韩出席亚太经合组织（APEC）会议期间， 英伟达与韩国达成了 26 万块 GPU 的供应协议 。双方还将继续推进多项合作，包括将韩国生产的 AI 芯片与英伟达平台对接、建设 AI 算力基础设施，以及联合开展物理 AI 研究和人才培养。 相关阅读： 《 韩国政府牵头成立 GPU 工作组，联合"
+  },
+  {
+   "title": "Claude 出现大量报错，Anthropic 官方公告称正在调查",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/026/905.htm",
+   "published": "2026-11-13T10:31:18+00:00",
+   "age_hours": 3.5,
+   "score": 10.0,
+   "summary": "IT之家 11 月 13 日消息，根据 Claude Status 网站，网友反馈 claude.ai 、Claude Code 和 platform.claude.com 上出现大量错误。 Anthropic 官方公告称：“我们正在调查用户在 Claude.ai 和 Claude Code 上 进行身份验证时遇到的问题 。我们将尽快提供最新进展。” IT之家获悉，此次事件波及 claude.ai 、Claude Console ( platform.claude.com )、Claude Code 和 Claude Cowork 。"
+  },
+  {
+   "title": "今年下半年唯一国产旗舰机：消息称华为 Pura X View 阔直板激活销量破百万",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/026/869.htm",
+   "published": "2026-11-13T09:22:54+00:00",
+   "age_hours": 4.7,
+   "score": 10.0,
+   "summary": "IT之家 11 月 13 日消息，今天（13 日）傍晚，@数码闲聊站 爆料称，华为 Pura X View 阔直板手机上市 66 天， 激活销量已突破 100 万台 。该机截至今年第 45 周累计激活为 96.4 万台，百万台大关是在第 46 周突破的。 @数码闲聊站 在评论区透露，今年下半年达成单品百万激活的只有 iPhone 18 Pro Max、iPhone 18 Pro、华为 Pura X View 三款机型，而华为 Pura X View 就是 下半年唯一百万激活的国产旗舰机 。 第 45 周，苹果的首款折叠屏手机 iPhone Duo 累计激活量约为 35 万台，单周销量被华为 P"
+  },
+  {
+   "title": "消息称字节跳动规划新一轮股票回购，4000 亿美元估值较去年增长两成",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/026/803.htm",
+   "published": "2026-11-13T08:05:53+00:00",
+   "age_hours": 5.9,
+   "score": 10.0,
+   "summary": "IT之家 11 月 13 日消息，彭博社北京时间今日援引 The Information 报道称，字节跳动在致投资者信中表示， 该企业计划进行新一轮 60 亿美元股票回购 。 字节跳动此轮回购价为每股 241.35 美元，对应 4,000 亿美元 （IT之家注：现汇率约合 2.67 万亿元人民币） 的整体估值。 这一数额相较一年前上轮回购时的水平高出 20% 。 知情人士透露，字节跳动还提议将“上市或授予外部股东出售全部持股的权利”的截止日期推迟四年至 2030 年 12 月 11 日；该企业还在文件中详细描述了向 AI 部门员工提供总计 3 亿股与 AI 业务价值挂钩的股份的计划。"
+  },
+  {
+   "title": "Donald Trump really wants Tim Cook to run Nvidia",
+   "source": "The Verge",
+   "link": "https://www.theverge.com/tech/1032774/president-donald-trump-tim-cook-nvidia-jensen-huang",
+   "published": "2026-11-13T00:46:07+00:00",
+   "age_hours": 13.3,
+   "score": 10.0,
+   "summary": "Jensen Huang resigned this morning as Nvidia's CEO following reports of affairs, including one with an alleged Chinese spy. Right now, the company is being led by its CFO on an interim basis. But President Donald Trump is already throwing around one person he thinks should take over the chipmaking g"
+  },
+  {
+   "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+   "published": "2026-11-12T22:42:51+00:00",
+   "age_hours": 15.3,
+   "score": 10.0,
+   "summary": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke."
+  },
+  {
+   "title": "The unfolding Jensen Huang scandal: a timeline",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+   "published": "2026-11-12T21:35:00+00:00",
+   "age_hours": 16.5,
+   "score": 10.0,
+   "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure."
+  },
+  {
+   "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
+   "published": "2026-11-12T18:39:23+00:00",
+   "age_hours": 19.4,
+   "score": 10.0,
+   "summary": "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition."
+  },
+  {
+   "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
+   "published": "2026-11-12T17:36:40+00:00",
+   "age_hours": 20.4,
+   "score": 10.0,
+   "summary": "Hugging Face's CEO pledged to keep fighting for open source AI after Huang's exit, raising questions about Nvidia's $12.9 billion acquisition."
+  },
+  {
+   "title": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/",
+   "published": "2026-11-12T16:32:33+00:00",
+   "age_hours": 21.5,
+   "score": 10.0,
+   "summary": "Nvidia's ousted CEO Jensen Huang's downfall isn’t just your run-of-the-mill salacious billionaire sex scandal. He was using his influence to push the AI industry in some very specific ways."
+  },
+  {
+   "title": "黄仁勋辞职，英伟达33年首换帅，市值蒸发超3万亿",
+   "source": "量子位",
+   "link": "https://www.qbitai.com/2026/11/509995.html",
+   "published": "2026-11-13T09:02:39+00:00",
+   "age_hours": 5.0,
+   "score": 9.5,
+   "summary": "一个时代结束了"
+  },
+  {
+   "title": "鸿蒙智行问界新 M8 正式上市，37.98 万-46.98 万元",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/026/799.htm",
+   "published": "2026-11-13T07:54:43+00:00",
+   "age_hours": 6.1,
+   "score": 9.5,
+   "summary": "IT之家 11 月 13 日现场消息，今天（13 日）下午，鸿蒙智行问界新 M8 正式上市。新车定位家庭智慧旗舰 SUV，面向 L3 级自动驾驶架构设计，搭载华为乾崑智驾 ADS 5、新一代全向立体融合感知系统，号称研发投入 15 亿元，拥有 126 项创新技术。 IT之家从发布会现场获悉，问界新 M8 的售价如下： 增程版 阔五座：Max 售 37.98 万元，Max+ 售 39.98 万元，Ultra 售 44.98 万元 享六座：Max 售 38.98 万元，Max+ 售 41.98 万元，Ultra 售 46.98 万元 纯电版 阔五座：Max+ 售 39.98 万元，Ultra 售 "
+  },
+  {
+   "title": "Jensen Huang Is Out. Will Nvidia’s Rivals Cash In?",
+   "source": "WIRED",
+   "link": "https://www.wired.com/story/uncanny-valley-podcast-jensen-huang-is-out-will-nvidias-rivals-cash-in/",
+   "published": "2026-11-12T22:14:41+00:00",
+   "age_hours": 15.8,
+   "score": 9.5,
+   "summary": "In a special episode of “Uncanny Valley,” we break down Jensen Huang’s resignation from Nvidia, what comes next for the company, and where the AI industry goes from here."
+  },
+  {
+   "title": "Meet Colette Kress, Nvidia’s New Interim CEO",
+   "source": "WIRED",
+   "link": "https://www.wired.com/story/who-is-colette-kress-the-woman-who-could-succeed-jensen-huang/",
+   "published": "2026-11-12T14:14:33+00:00",
+   "age_hours": 23.8,
+   "score": 9.5,
+   "summary": "Nvidia’s longtime chief financial officer helped transform the company into an AI powerhouse. Now she’s taking the reins following Jensen Huang’s resignation on Thursday."
+  },
+  {
+   "title": "899 美元微软 25 周年纪念版 XBOX Series X 上市，玩家亦可单独购买 X25 特别版手柄无线控制器",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/026/932.htm",
+   "published": "2026-11-13T11:09:34+00:00",
+   "age_hours": 2.9,
+   "score": 9.0,
+   "summary": "IT之家 11 月 13 日消息，微软宣布旗下 25 周年纪念版 XBOX Series X 主机现已正式上市，定价为 899.99 美元 （IT之家注：现汇率约合 6,016 元人民币） 。 这款纪念主机搭载 1TB 存储，外观采用致敬初代 XBOX 的经典半透明绿色（“OG Green”）设计。每台主机附带一份《光环：战役进化》完整游戏下载码。 另外，XBOX 无线控制器 X25 特别版也可单独购买，京东显示 558 元。除此之外，微软之前还推出了限定款键盘、鼠标、耳机等产品。 京东 微软（Microsoft）XBOX 无线游戏手柄 X25 无线控制器 25 周年定制手柄 蓝牙适配 XBO"
+  },
+  {
+   "title": "苹果为 HomeView 智能家居设备推出首个固件更新 Software Version 27.2，聚焦修复安全漏洞",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/026/839.htm",
+   "published": "2026-11-13T08:48:58+00:00",
+   "age_hours": 5.2,
+   "score": 9.0,
+   "summary": "IT之家 11 月 13 日消息，苹果首款智能家居设备 HomeView 现已正式发售，官方同步为相应产品推出上市以来的首个更新“HomeView Software Version 27.2”（内部版本号 24V526），主要聚焦于安全修复。 具体来看，本次修复的漏洞涉及多个系统组件。其中一项漏洞可能允许远程攻击者加入 iMessage 群聊并接收群内消息；另一项漏洞则可能允许恶意蓝牙设备在未经用户交互的情况下完成配对。此外，部分漏洞还可能导致攻击者绕过配对验证码尝试次数限制、破坏进程内存，或使应用访问用户敏感数据。 苹果还在今天确认，计划于下个月为 HomeView 带来功能更新，主要为 S"
+  },
+  {
+   "title": "早报｜黄仁勋仍为英伟达最大个人股东/豆包工作接入多款第三方模型/微信「看一看」测试短剧入口",
+   "source": "爱范儿",
+   "link": "https://www.ifanr.com/1689292?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "published": "2026-11-13T00:00:46+00:00",
+   "age_hours": 14.0,
+   "score": 9.0,
+   "summary": "· 接近腾讯人士称「裁员 50%」传闻不实，管理层提出两条 AI 转型路线 · 张雪：今年已经挣到了「一个小目标」 · Claude 10 月网站访问量增近 24%，增幅超过 ChatGPT 和 Gemini #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+  },
+  {
+   "title": "Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/",
+   "published": "2026-11-12T15:37:29+00:00",
+   "age_hours": 22.4,
+   "score": 9.0,
+   "summary": "Nvidia CFO Colette Kress is taking over as an interim replacement for longtime CEO Jensen Huang, who is embroiled in scandal."
+  },
+  {
+   "title": "Nvidia CEO Jensen Huang has resigned",
+   "source": "Ars Technica",
+   "link": "https://arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia/",
+   "published": "2026-11-12T14:05:17+00:00",
+   "age_hours": 24.0,
+   "score": 9.0,
+   "summary": "Nvidia CEO also had an affair with a senior executive at the firm."
+  },
+  {
+   "title": "能否探讨一下皮衣黄离职，对英伟达的影响和对 AI 行业的影响？",
+   "source": "V2EX 热议",
+   "link": "https://www.v2ex.com/t/1256671",
+   "published": "2026-11-13T00:54:19+00:00",
+   "age_hours": 13.1,
+   "score": 8.5,
+   "summary": "V2EX 热议话题, 207 条回复"
+  },
+  {
+   "title": "Silicon Valley Is Still Defending Jensen Huang",
+   "source": "WIRED",
+   "link": "https://www.wired.com/story/silicon-valley-is-still-defending-jensen-huang/",
+   "published": "2026-11-12T22:29:43+00:00",
+   "age_hours": 15.5,
+   "score": 8.5,
+   "summary": "Nvidia employees and tech insiders never thought the chip king would lose his job. Despite his sudden resignation, many of them are still in denial."
+  },
+  {
+   "title": "Jensen Huang Didn’t Name His Own Replacement as One of Tech’s Most Powerful Women",
+   "source": "WIRED",
+   "link": "https://www.wired.com/story/jensen-huang-colette-kress-replacement-powerful-women-in-tech/",
+   "published": "2026-11-12T20:35:11+00:00",
+   "age_hours": 17.5,
+   "score": 8.5,
+   "summary": "A recent WIRED investigation explored the complicated definition of “power” for women in the industry. Jensen Huang’s answers now appear to show his blind spots."
+  },
+  {
+   "title": "Jensen Huang Basically Lit More Than $1 Trillion on Fire in Less Than a Month",
+   "source": "WIRED",
+   "link": "https://www.wired.com/story/jensen-huang-tanked-a-trillion-dollars-in-less-than-a-month/",
+   "published": "2026-11-12T17:59:15+00:00",
+   "age_hours": 20.1,
+   "score": 8.5,
+   "summary": "Since the scandal involving an alleged Chinese spy began, Nvidia has lost an eye-watering sum from its market value."
+  },
+  {
+   "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
+   "source": "The Verge",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
+   "published": "2026-11-13T14:00:00+00:00",
+   "age_hours": 0.0,
+   "score": 8.0,
+   "summary": "Normally, the products I test don't offer to help me write up my experience with them. Duet is different. Claude Duet is Anthropic's AI agent for consumers, the latest attempt by an AI company to try to convince us that agents can be useful for people who don't write code. It's been an interesting c"
+  },
+  {
+   "title": "Microsoft’s latest email outage turned into a full blown global cloud crisis",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis/",
+   "published": "2026-11-13T13:15:20+00:00",
+   "age_hours": 0.8,
+   "score": 8.0,
+   "summary": "Microsoft's day-long outage began with Outlook and Teams, and ended up taking much of the company's cloud services offline. Microsoft says it's gradually restoring service."
+  },
+  {
+   "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
+   "published": "2026-11-13T12:52:19+00:00",
+   "age_hours": 1.2,
+   "score": 8.0,
+   "summary": "Given Nvidia’s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure."
+  },
+  {
+   "title": "Microsoft’s massive Outlook outage continues",
+   "source": "The Verge",
+   "link": "https://www.theverge.com/tech/1032862/microsoft-outlook-down-outage",
+   "published": "2026-11-13T12:48:03+00:00",
+   "age_hours": 1.2,
+   "score": 8.0,
+   "summary": "Service is gradually starting to recover for Microsoft Outlook and 365 after an almost two-day outage impacting millions of users around the world. While some apps and features are still running in a degradated state, some people (including Verge staffers) are reporting that access to their emails h"
+  },
+  {
+   "title": "Let’s talk about Jensen Huang’s many affairs!",
+   "source": "The Verge",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow",
+   "published": "2026-11-13T12:00:00+00:00",
+   "age_hours": 2.0,
+   "score": 8.0,
+   "summary": "Usually, we'd be offering to answer your questions about a news event, but honestly we don't really have any answers about what the hell is going on over at Nvidia. I can't speak for Nilay but at the rate Jensen Huang's new mistresses are dropping, I am concerned we are approaching an affair Singula"
+  }
+ ]
+}

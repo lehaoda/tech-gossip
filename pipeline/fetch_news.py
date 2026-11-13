@@ -121,9 +121,12 @@ def regex_items(raw):
 
 
 def fetch_feed(name, url, weight, kind):
-    req = urllib.request.Request(url, headers=UA)
-    with urllib.request.urlopen(req, timeout=20, context=ssl.create_default_context()) as r:
-        raw = r.read()
+    try:
+        req = urllib.request.Request(url, headers=UA)
+        with urllib.request.urlopen(req, timeout=20, context=ssl.create_default_context()) as r:
+            raw = r.read()
+    except Exception as e:
+        return name, [], f"network: {type(e).__name__}: {e}"
     items = []
     if kind == "api" and "v2ex" in url:
         topics = json.loads(raw.decode("utf-8", "ignore"))
