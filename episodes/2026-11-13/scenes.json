@@ -1,0 +1,12 @@
+{
+  "date": "2026-11-13",
+  "episode": "第4期",
+  "scenes": [
+    {"type": "open", "start": 0, "end": 5},
+    {"type": "story", "start": 6, "end": 52, "title": "黄仁勋辞任: 英伟达 33 年换帅", "source": "TechCrunch / 量子位 / WIRED", "link": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"},
+    {"type": "story", "start": 53, "end": 68, "title": "微软全球大故障, 拖垮 Claude", "source": "TechCrunch / IT之家", "link": "https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis/"},
+    {"type": "story", "start": 69, "end": 81, "title": "快瓜: 字节回购、华为破百万", "source": "IT之家 / 彭博", "link": "https://www.ithome.com/1/026/803.htm"},
+    {"type": "story", "start": 82, "end": 85, "title": "Hugging Face: 开源还会开源吗?", "source": "TechCrunch", "link": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/"},
+    {"type": "outro", "start": 86, "end": 93}
+  ]
+}

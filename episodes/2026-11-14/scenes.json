@@ -1,0 +1,40 @@
+{
+  "date": "2026-11-14",
+  "episode": "第5期",
+  "scenes": [
+    {
+      "type": "open",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "type": "story",
+      "start": 5,
+      "end": 40,
+      "title": "英伟达内讧：请愿书与假信",
+      "source": "TechCrunch / WIRED / 量子位",
+      "link": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
+    },
+    {
+      "type": "story",
+      "start": 41,
+      "end": 57,
+      "title": "Meta 意大利被罚 8 亿欧元",
+      "source": "Garante Privacy / CNBC",
+      "link": "https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/10321080"
+    },
+    {
+      "type": "story",
+      "start": 58,
+      "end": 89,
+      "title": "AI 行业快瓜",
+      "source": "Cursor 官方 / The Verge / IT之家",
+      "link": "https://cursor.com/blog/security-incident-update"
+    },
+    {
+      "type": "outro",
+      "start": 90,
+      "end": 96
+    }
+  ]
+}

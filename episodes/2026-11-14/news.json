@@ -1,0 +1,278 @@
+{
+ "date": "2026-11-14",
+ "window_hours": 24,
+ "fetched_at": "2026-11-14T14:00:56.737379+00:00",
+ "failed_feeds": [],
+ "candidates": [
+  {
+   "title": "Facebook 擅自读取意大利用户相册，Meta 被处以 8.05 亿欧元重罚",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/027/227.htm",
+   "published": "2026-11-14T12:42:51+00:00",
+   "age_hours": 1.3,
+   "score": 10.0,
+   "summary": "IT之家 11 月 14 日消息，因在 未经意大利用户单独授权、也未充分告知用户 的情况下，通过 Android 版 Facebook 应用读取手机中保存的照片、视频及附带的元数据，意大利数据保护局今天（14 日）对 Meta 开出 8.05 亿欧元 （IT之家注：现汇率约合 59.36 亿元人民币） 罚单。 意大利数据保护局声明指出，此次处罚针对的是 Facebook 于 2023 年开始提供的“ 浏览 Facebook 时获取相册推荐 ”功能。用户浏览 Facebook 期间，该功能会 自动推荐手机相册中的照片和视频，作为发帖素材 。 2025 年 7 月，意大利数据保护局接到博尔扎诺消费"
+  },
+  {
+   "title": "前 Anthropic 研究员考克森：当今若要重新训练 Mythos，只需初始的一小部分算力",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/027/221.htm",
+   "published": "2026-11-14T11:45:39+00:00",
+   "age_hours": 2.3,
+   "score": 10.0,
+   "summary": "IT之家 11 月 14 日消息，曾任职于 OpenAI 和 Anthropic、因公开警告 AI 风险而受到广泛关注的研究员雅各布 · 考克森称，Anthropic 在 IPO 路演中展示的一张幻灯片，是促使他离职的重要原因。 考克森在 Anthropic 只工作了约四个月。让他决定离职的原因之一，是公司 IPO 路演中 一张展示 AI 模型训练算力需求变化的图表 。图表采用压缩坐标轴，即使算力需求增长 10 倍和 100 倍，看起来也相差不大。 即便如此，曲线依然急剧上升。考克森认为，这说明算法效率不仅在快速提高，而且提升速度还在不断加快。“这张图实在太惊人了，没想到他们竟然会公开。” 考"
+  },
+  {
+   "title": "Cursor 披露安全事件调查结果，恶意 Claude Code 扩展最多波及 5000 用户",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/027/215.htm",
+   "published": "2026-11-14T10:52:39+00:00",
+   "age_hours": 3.1,
+   "score": 10.0,
+   "summary": "IT之家 11 月 14 日消息，当地时间 10 月 29 日， Cursor 发布公告 ，称 Cursor VS Code 扩展市场中出现了一个恶意且未经授权的 Anthropic Claude Code 扩展副本。 当地时间 11 月 13 日，经过过去两周的全面调查， Cursor 披露了此次安全事件调查结果 。官方称绝大多数客户未受影响， 最多波及 5,000 名用户 ；对于受影响的客户，已逐一直接联系，并告知与其相关的详情。 据悉，如果用户使用隐私模式，提示词和代码不受影响；对于未使用隐私模式的用户，编程智能体链路追踪数据遭泄露的用户 占比 不到 0.05% 。Cursor 已确认这"
+  },
+  {
+   "title": "黄仁勋离任英伟达 CEO，华尔街对 AI 投资热潮“并不太担心”",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/027/184.htm",
+   "published": "2026-11-14T09:19:02+00:00",
+   "age_hours": 4.7,
+   "score": 10.0,
+   "summary": "IT之家 11 月 14 日消息，据彭博社 13 日报道，对于黄仁勋离任英伟达 CEO 会对 AI 投资热潮造成多大冲击，华尔街 并不太担心 。 当地时间 12 日开盘后，英伟达股价一度暴跌 14%，拖累其他 AI 概念股下挫。但随着投资者重新关注 AI 产业的长期需求，并开始寻找可能从此次风波中受益的企业，抛售迅速缓和。英伟达最终收跌 4.3%。 盈透证券首席策略师史蒂夫 · 索斯尼克指出：“市场关心的 不是评估风险，而是寻找机会 。投资者考虑的是：‘ 如果英伟达让出了市场，谁能从中受益？’ ” 博通和 AMD 股价随之大涨，成为对标普 500 指数涨点贡献最大的股票。投资者认为，两家公司有"
+  },
+  {
+   "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+   "source": "The Verge",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+   "published": "2026-11-13T20:45:10+00:00",
+   "age_hours": 17.3,
+   "score": 10.0,
+   "summary": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address and \"eligible US-issued American Express, Chase, Mastercard and "
+  },
+  {
+   "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+   "published": "2026-11-13T18:40:30+00:00",
+   "age_hours": 19.3,
+   "score": 10.0,
+   "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips."
+  },
+  {
+   "title": "The unfolding Jensen Huang scandal: a timeline",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+   "published": "2026-11-13T15:58:00+00:00",
+   "age_hours": 22.0,
+   "score": 10.0,
+   "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure."
+  },
+  {
+   "title": "Jensen Huang and the End of the Founder Fairy Tale",
+   "source": "WIRED",
+   "link": "https://www.wired.com/story/jensen-huang-and-the-end-of-the-founder-fairy-tale/",
+   "published": "2026-11-13T16:00:00+00:00",
+   "age_hours": 22.0,
+   "score": 9.5,
+   "summary": "The former tech CEO is obsessed with the power of storytelling. But he hasn't spun his way out of his sex scandals."
+  },
+  {
+   "title": "黄仁勋辞任 CEO 后，英伟达诞生地丹尼餐厅移除纪念铭牌、又宣布将重新挂回",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/027/233.htm",
+   "published": "2026-11-14T13:31:05+00:00",
+   "age_hours": 0.5,
+   "score": 9.0,
+   "summary": "IT之家 11 月 14 日消息，据 NBC News 报道，在一家丹尼餐厅（Denny’s）路边店内，硅谷历史的一角仿佛凭空消失了。 30 多年前，黄仁勋与两位好友正是在这里构想出了英伟达，而如今纪念这一确切位置的牌匾已不翼而飞。牌匾上的铭文曾写道：“开启一家万亿美元公司的卡座”，如今只剩下一片空荡荡的砖墙和剥落的墙漆。两名店员证实，牌匾已被撤下。 ▲ 2023 年，丹尼餐厅 CEO Kelli Valade 与英伟达创始人黄仁勋在加利福尼亚州圣何塞的丹尼餐厅同框 IT之家注意到，在该媒体发文后，丹尼餐厅的一位发言人表示，该连锁餐厅正在“重新安装这块牌匾，以纪念在丹尼餐厅促成英伟达诞生的那些"
+  },
+  {
+   "title": "早报｜英伟达员工请愿黄仁勋回归/余承东重申华为与赛力斯分工/Microsoft 365故障延续至48小时",
+   "source": "爱范儿",
+   "link": "https://www.ifanr.com/1689450?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "published": "2026-11-14T00:00:42+00:00",
+   "age_hours": 14.0,
+   "score": 9.0,
+   "summary": "· 两部门公布新型储能方案，提出到 2030 年平均储能约 3 小时 · LangChain 完成 3 亿美元 C 轮融资，估值 30 亿美元 · 荣耀 700 系列定档 11 月 23 日，背屏可贴 GIF、看通知 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+  },
+  {
+   "title": "Jensen Huang and the decline of the visionary showman founder CEO",
+   "source": "The Verge",
+   "link": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
+   "published": "2026-11-14T12:00:00+00:00",
+   "age_hours": 2.0,
+   "score": 8.0,
+   "summary": "On January 6th, 2025, Nvidia CEO Jensen Huang got his rockstar moment at last. He strode triumphantly onstage, hand raised in the air, to the claps and cheers of a 14,000-person arena absolutely packed with influencers and fans, their faces awash in blue glow, as he made his entrance in a black leat"
+  },
+  {
+   "title": "余承东公布华为问界新合作模式！新 M8 同步上市，起售价 37.98 万元",
+   "source": "爱范儿",
+   "link": "https://www.ifanr.com/1689432?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "published": "2026-11-13T18:19:36+00:00",
+   "age_hours": 19.7,
+   "score": 8.0,
+   "summary": "新 M8 的升级，主打「实用主义」。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+  },
+  {
+   "title": "iPhone 20 爆料汇总：一整块玻璃，藏着苹果下一个十年",
+   "source": "爱范儿",
+   "link": "https://www.ifanr.com/1689409?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "published": "2026-11-13T15:44:48+00:00",
+   "age_hours": 22.3,
+   "score": 8.0,
+   "summary": "iPhone 20 会是一台伟大的产品吗？ #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+  },
+  {
+   "title": "华大九天联合大湾区基金完成国产数字前端 EDA 专业化整合，新公司“新禹思”成立",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/027/230.htm",
+   "published": "2026-11-14T13:07:04+00:00",
+   "age_hours": 0.9,
+   "score": 7.5,
+   "summary": "IT之家 11 月 14 日消息，在第二十三届中国国际半导体博览会（IC China）期间，北京华大九天科技股份有限公司与粤港澳大湾区科技创新产业投资基金，在北京 · 国家会议中心联合举行“ 国产数字前端 EDA 新平台发布会 ”，宣布亚科鸿禹与思尔芯合并重组，新平台公司“新禹思”（HyperS2C）正式成立。 官方表示，此次思尔芯与亚科鸿禹的整合并非简单的企业合并，而是国内两大头部数字 EDA 企业的优势互补、能力重构与生态完善。 整合后的新禹思，拥有专利 205 项、软件著作权 200 项， 具备覆盖从架构设计到系统级验证的数字前端全流程供给能力 ，服务全球客户超过 800 家，实现了技术"
+  },
+  {
+   "title": "白宫“超级智能工作组”呼吁放宽问责政策，鼓励 AI 企业报告网络安全事件",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/027/229.htm",
+   "published": "2026-11-14T13:03:22+00:00",
+   "age_hours": 1.0,
+   "score": 7.5,
+   "summary": "IT之家 11 月 14 日消息，据彭博社报道，当地时间 13 日，美国政府新设的“超级智能工作组”在白宫开会， 建议联邦机构放宽网络安全事件的问责政策，鼓励 AI 企业主动报告重大安全事件 。 一名不愿具名的政府官员透露，工作组认为，过去处理网络安全事件时采用的监管处罚标准可能不再适用，甚至会 让企业不敢分享重要的安全信息 。 工作组因此敦促各机构，未来 12 个月内应限制企业因安全事件承担的监管责任，并考虑进一步延长期限。 此次政策建议意味着工作组的立场发生转变，从此前倾向于 依法处罚开发不安全产品的企业 ，改为通过 减轻责任鼓励 AI 开发商报告安全事件 。就在上个月，工作组还警告开发商"
+  },
+  {
+   "title": "借助 Claude 和 Arduino 开发板，达人让 1994 款切诺基通过加州排放检测",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/027/226.htm",
+   "published": "2026-11-14T12:36:29+00:00",
+   "age_hours": 1.4,
+   "score": 7.5,
+   "summary": "IT之家 11 月 14 日消息，当地时间 13 日，据外媒 Tom's Hardware 报道，美国的一名 AI 爱好者穆罕默德 · 祖拉利靠着 AI 和简单的电子接线操作，成功让一辆有 32 年车龄的 1994 款 Jeep 切诺基通过了美国加州的尾气检测。 这辆老车的发动机电脑功能十分有限，但祖拉利借助 Arduino Nano 开发板将其连接到笔记本电脑后， 不仅能够读取车辆数据，还逐步实现了对部分参数的控制 。 其发布的视频记录了祖拉利解决尾气排放问题的全过程：从连续检测不合格，到成功连接发动机电脑并读取数据，再到 调整发动机、解决排放超标问题 。整个过程中，Claude 负责指导，"
+  },
+  {
+   "title": "美国首届 AI 音乐奖颁奖典礼举行，入围者坦言背后同样凝聚真人心血",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/027/210.htm",
+   "published": "2026-11-14T10:22:58+00:00",
+   "age_hours": 3.6,
+   "score": 7.5,
+   "summary": "IT之家 11 月 14 日消息，据路透社报道，当地时间 13 日，美国首届 AI 音乐奖颁奖典礼正式举行，表彰利用 AI 参与歌曲创作的音乐人。 AI 音乐虽然饱受争议，甚至引发诉讼，但仍在流媒体平台获得数百万次播放，并成功登上音乐排行榜。 在洛杉矶市中心举行的颁奖典礼上，负责颁奖和领奖的真人音乐人认为，AI 音乐应该被视为 一种新的音乐类型 。创作者 不仅需要具备艺术才能，还要花上数小时反复调整提示词 ，才能得到满意的音乐效果。 音乐制作人德雷克 · 墨菲在颁发最佳 AI 嘻哈歌曲奖时说：“在人人都说 AI 是假的时代，AI 背后的创作者却是真实存在的。” 当晚的年度 AI 艺人、年度歌曲"
+  },
+  {
+   "title": "华为麒麟 9050 系列新马良 GPU、AI ISP 情报公开：实装二代硬件光追，首次实现 2 亿像素融合拍照",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/027/181.htm",
+   "published": "2026-11-14T09:09:09+00:00",
+   "age_hours": 4.9,
+   "score": 7.5,
+   "summary": "IT之家 11 月 14 日消息，华为官方今日继续揭秘首款「逻辑折叠」技术 τ 芯片 —— 麒麟 9050 系列更多配置信息， 目前最新公开了新一代马良 GPU 和麒麟 AI ISP 的情报 。 据介绍，麒麟 9050 系列搭载新一代马良 GPU，实现性能、能效与图形体验的升级。其采用第四代 GPU 微架构， GPU 性能提升 40%、功耗下降 45% 。 系列新芯支持第二代硬件光追， 光追性能提升 78% ：第二代光线追踪硬加速，拥有高性能光追硬加速计算单元；BVH 硬加速单元，支持几何加速结构实时重建；FERT 求交硬加速，支持专利求交算法与硬加速；AO 加速管线，可以让环境光遮蔽阴影效果"
+  },
+  {
+   "title": "FAA lifts nationwide ground stop that blocked takeoffs for hours",
+   "source": "The Verge",
+   "link": "https://www.theverge.com/news/1033489/faa-ground-stop",
+   "published": "2026-11-14T01:53:04+00:00",
+   "age_hours": 12.1,
+   "score": 7.5,
+   "summary": "Takeoffs from airports throughout the US largely stopped on Friday after the FAA issued a national ground stop at 3:44PM ET \"due to extraordinary circumstances and for reasons of safety.\" More than four hours after the stop was issued, officials announced it was lifted at 8:15PM ET and that flights "
+  },
+  {
+   "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+   "published": "2026-11-13T22:43:00+00:00",
+   "age_hours": 15.3,
+   "score": 7.5,
+   "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations."
+  },
+  {
+   "title": "US government grounds all flights across the United States ‘due to extraordinary circumstances’",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances/",
+   "published": "2026-11-13T21:44:38+00:00",
+   "age_hours": 16.3,
+   "score": 7.5,
+   "summary": "A spokesperson for the FAA told TechCrunch that it issued the ground stop \"following communication issues impacting multiple Air Route Traffic Control Centers,\" which manage the airspace across the United States."
+  },
+  {
+   "title": "Jensen Huang was reckless with the environment, too",
+   "source": "The Verge",
+   "link": "https://www.theverge.com/tech/1033051/nvidia-jensen-huang-chips-gpu-supply-chain-climate-pollution",
+   "published": "2026-11-13T17:44:22+00:00",
+   "age_hours": 20.3,
+   "score": 7.5,
+   "summary": "Under cofounder Jensen Huang, Nvidia has become the engine for the AI boom - and one of the tech industry's biggest environmental liabilities. Its sought-after chips have triggered a new wave of water- and chemical-intensive factories, drained power grids from inside massive data centers, and set th"
+  },
+  {
+   "title": "英伟达上演“奥特曼2.0”，员工集体请愿：让老黄回家！",
+   "source": "量子位",
+   "link": "https://www.qbitai.com/2026/11/510297.html",
+   "published": "2026-11-14T10:08:08+00:00",
+   "age_hours": 3.9,
+   "score": 7.0,
+   "summary": "马斯克也签名了"
+  },
+  {
+   "title": "299 美元月费约为 1% 车价：马斯克回应 Cybercab 自动驾驶订阅费太高，应在 115 美元左右",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/027/159.htm",
+   "published": "2026-11-14T07:46:58+00:00",
+   "age_hours": 6.2,
+   "score": 7.0,
+   "summary": "IT之家 11 月 14 日消息，全球首富埃隆 · 马斯克（Elon Musk）今天（11 月 14 日）在 X 平台发布推文，回应科技博主 @MKBHD 关于“Cybercab 每月 299 美元 （IT之家注：现汇率约合 1,999 元人民币） 的订阅费用过高”情况， 认为合理价格应该在 115 美元 （现汇率约合 768.8 元人民币） 左右。 IT之家今天报道，特斯拉开始向部分个人用户开放 Cybercab 购买渠道，起售价为 29,990 美元 （现汇率约合 20 万元人民币） ，首批车辆预计于 12 月交付。按照现有购买安排，符合资格的用户需支付 1,000 美元 （现汇率约合 6"
+  },
+  {
+   "title": "新西兰最大零售商 The Warehouse 爆发员工抗议：如厕时间都用 AI 管",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/027/150.htm",
+   "published": "2026-11-14T07:16:26+00:00",
+   "age_hours": 6.7,
+   "score": 7.0,
+   "summary": "IT之家 11 月 14 日消息，当地时间 13 日，据英国《独立报》报道，新西兰最大零售商 The Warehouse 集团的员工指控，公司 利用 AI 监控如厕时间 ，导致部分员工不得不在配送中心的通道里大小便。 本周，The Warehouse 集团位于奥克兰和基督城的配送中心有 300 多名员工举行抗议，担心 AI 监控侵犯隐私 ，以及新技术的应用可能引发大规模裁员。 员工认为，公司对机器人的重视程度 甚至超过了员工 ，也对自己的工作前景表达了担忧。IT之家从报道中获悉，一名在配送中心工作了 23 年的员工质问道：“我看着像机器人吗？当然不是。我们之所以来抗议，就是因为这些工作 应该由"
+  },
+  {
+   "title": "Microsoft 365 Crawls Back to Life After a 24-Hour Outage",
+   "source": "WIRED",
+   "link": "https://www.wired.com/story/microsoft-365-crawls-back-to-life-after-a-24-hour-outage/",
+   "published": "2026-11-13T19:08:57+00:00",
+   "age_hours": 18.9,
+   "score": 7.0,
+   "summary": "The company says a bad update—not a cyberattack or AI—caused its servers around the world to crash."
+  },
+  {
+   "title": "英伟达副总裁卡坦扎罗否认签署要求前 CEO 黄仁勋复职的公开信，表态支持董事会和临时 CEO 克雷斯",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/027/228.htm",
+   "published": "2026-11-14T12:45:55+00:00",
+   "age_hours": 1.3,
+   "score": 6.5,
+   "summary": "IT之家 11 月 14 日消息，英伟达应用深度学习研究副总裁布莱恩 · 卡坦扎罗（Bryan Catanzaro）在社交平台 X 上公开发文辟谣，否认自己参与签署网传要求前 CEO 黄仁勋复职的公开信，称该信件系伪造，并明确表态支持英伟达董事会及临时 CEO 科莱特 · 克雷斯（Colette Kress）。 布莱恩 · 卡坦扎罗声称，即便（公开信）是真的，他也不会签字。 IT之家注意到，黄仁勋离任后，网络上流传出一封公开信，以布莱恩 · 卡坦扎罗在内的多名英伟达高管与员工名义要求董事会让黄仁勋复职。 据悉，该公开信之所以很快被识破，除了布莱恩 · 卡坦扎罗下场辟谣外，还因为信件文本直接照搬"
+  },
+  {
+   "title": "微软大规模宕机后，开源办公套件 LibreOffice 单日收到超 1000 笔捐款创历史新高",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/027/225.htm",
+   "published": "2026-11-14T12:24:17+00:00",
+   "age_hours": 1.6,
+   "score": 6.5,
+   "summary": "IT之家 11 月 14 日消息，当地时间 11 月 14 日，开源办公套件 LibreOffice 背后的非营利组织文档基金会（The Document Foundation）发文宣布，昨天（13 日）文档基金会 单日收到超过 1,000 笔捐款，创造历史纪录 。 官方表示，虽然并不对其他组织所面临的运营问题感到幸灾乐祸，但这一时间节点表明，许多人正在重新审视自己在文档方面对单一云服务提供商的依赖。 使用 LibreOffice，您的文档均存储在本地，开放文档格式（ODF）文件也完全归作者本人所有，而非属于任何服务提供商。 向每一位捐款人致以衷心感谢。正是你们的支持，让这款软件以及这些开放标"
+  },
+  {
+   "title": "Meta Quest App 商业模式生变：应用内购吸金能力已超越付费 App，成 Horizon 商店核心收入来源",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/027/224.htm",
+   "published": "2026-11-14T12:23:21+00:00",
+   "age_hours": 1.6,
+   "score": 6.5,
+   "summary": "IT之家 11 月 14 日消息，Meta 发文，透露 2026 年 1 月至 9 月期间，Quest 平台应用内购已经超过付费应用销售，成为 Meta Horizon 商店最大的收入来源。 对于一直关注 Quest 平台发展趋势的用户而言，这一变化并不令人意外。早在 2022 年，免费游戏《Gorilla Tag》就已经在用户评价数量上超过了当时被认为是最成功 VR 游戏的《Beat Saber》。如今，《Gorilla Tag》已经成为 Quest 平台少数用户评价数量突破 10 万条的应用之一，不过目前又被另外两款免费游戏《Animal Company》和《UG》超越。 对此，外媒 Up"
+  },
+  {
+   "title": "苹果重申对 visionOS 平台的长期投入，仍看好空间计算发展前景",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/027/223.htm",
+   "published": "2026-11-14T12:15:10+00:00",
+   "age_hours": 1.8,
+   "score": 6.5,
+   "summary": "IT之家 11 月 14 日消息，据外媒 Road to VR 报道，苹果本周举办了一场特别的「Meet with Apple」开发者活动，重点围绕旗下空间计算平台 visionOS 展开。在外界数月来持续质疑苹果是否仍将投入 XR 领域的背景下，苹果公司再次强调“仍然看好空间计算平台的发展前景”。 苹果空间计算部门产品经理 Yuri Imoto 在活动中表示：“我们希望确保外界明确了解，苹果对这一平台的投入非常坚定。我们对此实际上感到非常兴奋。在相对较短的时间内，空间计算技术已经取得了相当迅速的进步”。 Imoto 还强调，空间计算平台正在医疗手术、医疗保健、教育、专业培训以及沉浸式电影等领"
+  }
+ ]
+}

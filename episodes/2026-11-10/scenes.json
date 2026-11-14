@@ -1,0 +1,12 @@
+{
+  "date": "2026-11-10",
+  "episode": "第1期",
+  "scenes": [
+    {"type": "open", "start": 0, "end": 4},
+    {"type": "story", "start": 5, "end": 53, "title": "Anthropic IPO: 估值 1.4 万亿美元", "source": "TechCrunch / IT之家", "link": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/"},
+    {"type": "story", "start": 54, "end": 76, "title": "黄仁勋时间线: 芯片大瓜", "source": "TechCrunch / The Verge", "link": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"},
+    {"type": "story", "start": 77, "end": 91, "title": "阿里官宣: 平头哥分拆赴港上市", "source": "港交所公告 / 财联社", "link": "https://www.ithome.com/1/025/147.htm"},
+    {"type": "story", "start": 92, "end": 105, "title": "快瓜时间: 大厂 AI 新动态", "source": "TechCrunch / IT之家", "link": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/"},
+    {"type": "outro", "start": 106, "end": 112}
+  ]
+}
