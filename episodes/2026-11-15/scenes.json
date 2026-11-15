@@ -1,0 +1,40 @@
+{
+  "date": "2026-11-15",
+  "episode": "第6期",
+  "scenes": [
+    {
+      "type": "open",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "type": "story",
+      "start": 5,
+      "end": 37,
+      "title": "黄仁勋密选接班人 硅谷盼归来",
+      "source": "The Verge / IT之家（华盛顿邮报、Business Insider、Politico）",
+      "link": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation"
+    },
+    {
+      "type": "story",
+      "start": 38,
+      "end": 51,
+      "title": "特斯拉 Cybercab 开卖",
+      "source": "The Verge / IT之家",
+      "link": "https://www.theverge.com/transportation/1033844/tesla-personal-cybercab-orders-299-subscription-fine-print"
+    },
+    {
+      "type": "story",
+      "start": 52,
+      "end": 64,
+      "title": "AI 快瓜：生死问题到歌单",
+      "source": "IT之家 / WIRED / Etnews",
+      "link": "https://www.ithome.com/1/027/419.htm"
+    },
+    {
+      "type": "outro",
+      "start": 65,
+      "end": 72
+    }
+  ]
+}
