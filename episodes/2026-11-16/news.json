@@ -1,0 +1,278 @@
+{
+ "date": "2026-11-16",
+ "window_hours": 24,
+ "fetched_at": "2026-11-16T14:01:05.371808+00:00",
+ "failed_feeds": [],
+ "candidates": [
+  {
+   "title": "The Nvidia scandal isn’t slowing down",
+   "source": "The Verge",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1031740/jensen-huang-nvidia-scandal-isnt-slowing-down",
+   "published": "2026-11-16T13:00:00+00:00",
+   "age_hours": 1.0,
+   "score": 10.5,
+   "summary": "For years, Jensen Huang has had an almost unprecedented power to shape AI's advancement as Nvidia's CEO, cofounder, and president. As The Verge wrote last week, Nvidia's chips are \"the bedrock upon which advanced AI technology in the US is being built.\" Ever-increasing demand has consistently outpac"
+  },
+  {
+   "title": "鸿蒙智行问界新 M8 上市 72 小时大定突破 1.1 万台，售价 37.98 万元起",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/027/855.htm",
+   "published": "2026-11-16T09:17:19+00:00",
+   "age_hours": 4.7,
+   "score": 10.0,
+   "summary": "IT之家 11 月 16 日消息， 鸿蒙智行问界新 M8 旗舰 SUV 已于 11 月 13 日正式上市 ，采用面向 L3 级自动驾驶架构设计，搭载华为乾崑智驾 ADS 5、新一代全向立体融合感知系统， 定价 37.98 万元起 。 据多位博主分享， 鸿蒙智行问界新 M8 上市 72 小时，大定已突破 11,000 台 。 参考IT之家此前报道，鸿蒙智行问界新 M8 长宽高分别为 5190/1999/1795mm，轴距 3105mm，拥有更挺拔的鼻棱线、全新宽域侧进气帘、镀铬网状进气格栅，风阻系数 0.254；拥有全新天地万象车色 + 全新豪华轮毂 + 鲲鹏设计，六座版型可选三零重力座椅。 新"
+  },
+  {
+   "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+   "source": "The Verge",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+   "published": "2026-11-15T19:15:43+00:00",
+   "age_hours": 18.8,
+   "score": 10.0,
+   "summary": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republicans have voiced support for various measures and bills that would tighten rules and have demanded th"
+  },
+  {
+   "title": "阿里合伙人樊路远辞任大麦娱乐 CEO，消息称将从虎鲸文娱集团离职创业",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/027/850.htm",
+   "published": "2026-11-16T09:10:47+00:00",
+   "age_hours": 4.8,
+   "score": 9.0,
+   "summary": "IT之家 11 月 16 日消息，大麦娱乐今日发布公告， 樊路远因专注发展个人事业 ，已辞任公司执行董事、董事会主席及首席执行官（CEO）。 据凤凰科技报道，知情人士透露， 樊路远将从虎鲸文娱集团离职创业 。 公开资料显示，樊路远于 2007 年加入支付宝，2016 年转战阿里影业，2017 年加入阿里大文娱。2025 年阿里大文娱集团更名为虎鲸文娱集团。樊路远还是阿里巴巴合伙人，全面负责优酷、大麦娱乐等虎鲸文娱集团核心业务板块的统筹管理。 IT之家注意到，大麦娱乐公告称，委任 徐宏 为公司非执行董事及董事会主席， 沈严 为执行董事及联席总裁。 徐宏自 2022 年 4 月起担任阿里巴巴集团首"
+  },
+  {
+   "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
+   "source": "The Verge",
+   "link": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
+   "published": "2026-11-15T20:43:49+00:00",
+   "age_hours": 17.3,
+   "score": 9.0,
+   "summary": "The drama around Nvidia co-founder and former CEO Jensen Huang is evolving quickly. The latest edition of our Stepback newsletter should get you up to speed, but there have already been a number of new developments since this morning. That includes rumors that Jensen Huang might be trying to find a "
+  },
+  {
+   "title": "Apple's Smart Glasses Strategy Hinges on Siri and iPhone Apps - MacRumors",
+   "source": "Google News Tech",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBId0hydTJBNjFITTRtQmlhcUMtNkNkZWNyNEdmSnFIdTdRbWJacnhLUU1ub2lVMElLX0pRVUowY00za2xtcWVKYkZNLTZ0WXI1eWNKTHVSNjJJQzNwdHZ0MlNNajF1aTJFdW12bFlsNnpMMWZNVXR2aGU3aw?oc=5",
+   "published": "2026-11-15T17:55:25+00:00",
+   "age_hours": 20.1,
+   "score": 8.5,
+   "summary": "Apple's Smart Glasses Strategy Hinges on Siri and iPhone Apps MacRumors Apple Bets on Siri AI Apps as the Main Draw for Its Smart Glasses Bloomberg.com Apple’s Smart Glasses Could Arrive by the End of 2027 With Multiple Cameras PetaPixel How do Apple’s smart glasses compare to the Meta Ray-Ban? Phon"
+  },
+  {
+   "title": "Senator slams Commerce Secretary for flow of Nvidia AI chips to China",
+   "source": "The Verge",
+   "link": "https://www.theverge.com/policy/1034047/nvidia-us-commerce-department-cantwell-lutnick",
+   "published": "2026-11-16T11:00:00+00:00",
+   "age_hours": 3.0,
+   "score": 8.0,
+   "summary": "Washington Senator Maria Cantwell, one of the top Democrats on the Senate commerce committee, has taken fire at the Department of Commerce (DOC) under Secretary Howard Lutnick for neglecting to enforce protections intended to keep Nvidia's AI chips away from China. In a letter to Lutnick on Sunday, "
+  },
+  {
+   "title": "超 16 万人请愿，黄仁勋准备「回宫」",
+   "source": "爱范儿",
+   "link": "https://www.ifanr.com/1689559?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "published": "2026-11-16T01:11:22+00:00",
+   "age_hours": 12.8,
+   "score": 8.0,
+   "summary": "辞职三天，想回来了 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+  },
+  {
+   "title": "华为徐直军透露 2012 实验室名字取自电影《2012》，自动驾驶、5G、昇腾芯片都在此完成孵化",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/027/963.htm",
+   "published": "2026-11-16T13:26:50+00:00",
+   "age_hours": 0.6,
+   "score": 7.5,
+   "summary": "IT之家 11 月 16 日消息，华为官方 X 账号 11 月 11 日分享了轮值董事长徐直军发表在美国《时代》杂志的文章《亲历华为创新之路：看见、亲历、引领》（《Inside Huawei's innovation journey: Seeing it, living it, leading it》）。 他在文中以第一人称讲述了华为从攻关数字程控交换机，到确立在移动通信领域的全球领先地位，再到成立 2012 实验室，孵化 5G、自动驾驶与昇腾芯片项目，并在人工智能赛道抢占先机的历程。 据徐直军透露，2011 年，华为把公司的研究团队整合为一个新组织 —— 2012 实验室， 名字取自电影《2"
+  },
+  {
+   "title": "华为轮值董事长徐直军罕见在《时代》撰文，从 1993 年出发第一视角讲述华为 33 年创新之路",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/027/957.htm",
+   "published": "2026-11-16T12:39:37+00:00",
+   "age_hours": 1.4,
+   "score": 7.5,
+   "summary": "IT之家 11 月 16 日消息，华为官方 X 账号 11 月 11 日分享了轮值董事长徐直军发表在美国《时代》杂志的文章《亲历华为创新之路：看见、亲历、引领》（《Inside Huawei's innovation journey: Seeing it, living it, leading it》）。 徐直军 1993 年加入华为，经历了华为依靠人才与持续研发投入实现从跟跑、并跑到领跑的全过程。他在文中以第一人称讲述了华为从攻关数字程控交换机，到确立在移动通信领域的全球领先地位，再到成立 2012 实验室，孵化 5G、自动驾驶与昇腾芯片项目，并在人工智能赛道抢占先机的历程。 文中提到，徐直"
+  },
+  {
+   "title": "苹果首款折叠屏手机 iPhone Duo 中国官网送货上门时间更新，从明年 1 月提前至 12 月交付",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/027/942.htm",
+   "published": "2026-11-16T11:57:32+00:00",
+   "age_hours": 2.1,
+   "score": 7.5,
+   "summary": "IT之家 11 月 16 日消息，苹果中国官网现已更新 iPhone Duo 手机送货上门时间，从 2027 年 1 月 23 日提前至 2026 年 12 月 15 日至 2026 年 12 月 22 日。 IT之家注意到，目前国内多家 Apple Store 零售店已支持 iPhone Duo 部分版本直接购买和到店取货，如果用户想尽快购买手机，可以尝试在官网预约后自行到店取货，无需等待官方送货。 参考IT之家先前报道，有消息称 苹果 iPhone Duo 折叠屏手机首销期（首销日 + 后三天）的 SO（销量）接近 200K（20 万）。 iPhone Duo 采用可折叠设计，配备了苹果迄"
+  },
+  {
+   "title": "万代南梦宫：自家 SOL-AVES 引擎渲染速度的优化对格斗游戏至关重要",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/027/929.htm",
+   "published": "2026-11-16T11:43:34+00:00",
+   "age_hours": 2.3,
+   "score": 7.5,
+   "summary": "IT之家 11 月 16 日消息，在 2000 年代和 2010 年代初期，大型游戏开发商普遍采用自研游戏引擎。不过，随着游戏开发成本不断攀升，越来越多厂商开始放弃自行开发和维护内部工具，转而使用 Unity、Unreal Engine 等第三方引擎，以降低开发成本。 但也有一些厂商选择坚持自研路线。卡普空（Capcom）近年来凭借自家的 RE Engine 引擎迎来了新的发展高峰，如今，万代南梦宫（Bandai Namco）也开始强调自研引擎的优势，并在近期发布的一份投资者问答文件中，详细介绍了这一决策带来的好处。 据IT之家了解，万代南梦宫的自研引擎名为 SOL-AVES，是一款相对较新的"
+  },
+  {
+   "title": "Nvidia Was Already in Trouble Before the Jensen Huang Mess",
+   "source": "WIRED",
+   "link": "https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/",
+   "published": "2026-11-16T11:00:00+00:00",
+   "age_hours": 3.0,
+   "score": 7.5,
+   "summary": "AI competitors are catching up to Nvidia—and poised to take advantage of the chaos."
+  },
+  {
+   "title": "百度 2026 财年第三财季归母净利润 13.95 亿元，同比扭亏为盈",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/027/864.htm",
+   "published": "2026-11-16T09:38:22+00:00",
+   "age_hours": 4.4,
+   "score": 7.5,
+   "summary": "IT之家 11 月 16 日消息，百度今日发布 2026 财年（2026 年 1 月～2026 年 12 月）第三财季（2026 年 7 月～2026 年 9 月）报告： 营业总收入 ：308.07 亿元，同比下降 1%，环比下降 2% 归母净利润 ：13.95 亿元，同比扭亏为盈，环比下降 39.84% 经营现金流 ：27.78 亿元，同比增长 121.18% 基本每股收益 ：0.57 元，同比扭亏为盈 稀释每股收益 ：0.54 元，同比扭亏为盈 AI 解读 本次财报百度营收基本符合市场一致预期，Non-GAAP 每 ADS 利润、调整后营业利润及调整后 EBITDA 均超出市场预期，整体表"
+  },
+  {
+   "title": "国际货币基金组织总裁警告：全球经济过度依赖 AI，相关循环融资规模超 1 万亿美元",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/027/861.htm",
+   "published": "2026-11-16T09:32:58+00:00",
+   "age_hours": 4.5,
+   "score": 7.5,
+   "summary": "IT之家 11 月 16 日消息，据 CNBC 报道，国际货币基金组织（IMF）总裁克里斯塔利娜 · 格奥尔基耶娃（Kristalina Georgieva）当地时间周一表示，全球经济目前正“依靠 AI 这条腿支撑”，但对这一领域的过度依赖可能危及全球金融稳定。 格奥尔基耶娃在菲律宾出席东盟峰会期间接受采访时指出，如果市场对 AI 的投资信心突然下降，资金开始撤离这一领域，全球经济增长可能受到削弱。 “当前世界经济就像站在一条腿上，而这条腿就是 AI。如果这条腿出现摇晃，就可能引发金融稳定问题。”格奥尔基耶娃警告称。 IMF 估计， AI 企业之间的循环融资规模已经超过 1 万亿美元 （IT之"
+  },
+  {
+   "title": "46mm 教育优惠 2379 元：苹果 Apple Watch Series 12 国补京东探底",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/027/857.htm",
+   "published": "2026-11-16T09:19:04+00:00",
+   "age_hours": 4.7,
+   "score": 7.5,
+   "summary": "苹果 Apple Watch Series 12 开售于 2026 年 9 月，GPS 款 46mm 定价 3399 元，教育优惠价 3099 元。 京东今日教育优惠版直降至 2379 元，需使用搭载 iOS27 系统的 iPhone 激活签收哦： 京东 Apple Watch Series 12 46mm 教育优惠版 券后 2379 元 领 300 元券 Apple Watch Series 12 搭载全新健康感测系统和 S11 芯片，采用更大面积的光学心率传感器，可实现全天每 5 秒一次的心率测量，其心率变异性（HRV）的测量频率较上一代提升最高 24 倍。 基于新的健康感测数据，Seri"
+  },
+  {
+   "title": "打破苹果软件更新限制！博主全球首发为 iPhone 6 Plus 刷入 iOS 14 系统",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/027/830.htm",
+   "published": "2026-11-16T09:05:23+00:00",
+   "age_hours": 4.9,
+   "score": 7.5,
+   "summary": "IT之家 11 月 16 日消息，博主“Celestial 紗雪”在B站发布视频，展示其全球首发成功实现为苹果 iPhone 6 Plus 手机刷入 iOS 14.8 系统（相应机型官方仅停在 iOS 12），可成功同步 iCloud、配对 Apple Watch。 在硬件层面， 目前设备触屏、显示、Wi-Fi、蓝牙、基带、音频、震动、传感器、相机功能均已可用 ， Touch ID 也已成功接入 ，开发者通过兼容 iOS 12 的 SEP 收发桥，实现了指纹初始化、录入和匹配所需的协议转换，不过更换过指纹模块的机器无法正常录入指纹。 开发者表示，此次移植工作在约 70 小时内完成，期间使用了 "
+  },
+  {
+   "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+   "source": "OpenAI Blog",
+   "link": "https://openai.com/index/lvmh-media-division-partnership",
+   "published": "2026-11-16T09:00:00+00:00",
+   "age_hours": 5.0,
+   "score": 7.5,
+   "summary": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT."
+  },
+  {
+   "title": "阿里正式发布Qwen4，智能体及编程能力进阶，迈向真实全场景",
+   "source": "量子位",
+   "link": "https://www.qbitai.com/2026/11/510486.html",
+   "published": "2026-11-16T07:51:57+00:00",
+   "age_hours": 6.2,
+   "score": 7.5,
+   "summary": "11月16日，阿里巴巴发布全新一代基座大模型Qwen4-Max"
+  },
+  {
+   "title": "Apple launches new app to study how people use AI for health",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+   "published": "2026-11-16T01:30:00+00:00",
+   "age_hours": 12.5,
+   "score": 7.5,
+   "summary": "Apple's new app for a study will answer everyday medical questions"
+  },
+  {
+   "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
+   "source": "The Verge",
+   "link": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
+   "published": "2026-11-16T01:26:56+00:00",
+   "age_hours": 12.6,
+   "score": 7.5,
+   "summary": "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are. The company is conducting the Apple Health AI Usage Study in collaboration with OpenEvidence, a clinical AI platform used by he"
+  },
+  {
+   "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+   "published": "2026-11-15T21:56:35+00:00",
+   "age_hours": 16.1,
+   "score": 7.5,
+   "summary": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\""
+  },
+  {
+   "title": "Vulcan rocket fails, destroying 40 Amazon Leo satellites",
+   "source": "The Verge",
+   "link": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites",
+   "published": "2026-11-15T21:05:02+00:00",
+   "age_hours": 16.9,
+   "score": 7.5,
+   "summary": "United Launch Alliance (ULA) suffered what is reportedly its first mission failure in its 20-year history, failing to deliver 40 Amazon Leo satellites to orbit. Leo is Amazon's competitor to SpaceX's Starlink, but it has struggled to get off the ground so far, putting only a small portion of the nec"
+  },
+  {
+   "title": "TechCrunch Mobility: The Nvidia backup plan for China’s self-driving industry",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/15/techcrunch-mobility-the-nvidia-backup-plan-for-chinas-self-driving-industry/",
+   "published": "2026-11-15T17:05:00+00:00",
+   "age_hours": 20.9,
+   "score": 7.5,
+   "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it."
+  },
+  {
+   "title": "NVIDIA GeForce RTX 4090 Ti engineering sample with 18,176 CUDA cores surfaces in China - VideoCardz.com",
+   "source": "Google News Tech",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSnNQU2FrV2h1R2swbmQzYVppc2Q5NjBscFVJUjlGTy05SXgtZ1RpSUdCMGMyNnRFS25MOERHZHBBZXJlSGU3WnRYVTBMcWVHYU5ETnJXRkx1eVJqaXMyckV4Y2hicW1Td201d2hqejJ6R2huNmxKNzJVZFQwSURYaXZza3VWMmNXb0gwU0xHeDg5ZVM4Y0ZnQ0JxWkQxUEttU0hPS25ybUl1ZzZMTXdrU19BVQ?oc=5",
+   "published": "2026-11-15T15:49:55+00:00",
+   "age_hours": 22.2,
+   "score": 7.5,
+   "summary": "NVIDIA GeForce RTX 4090 Ti engineering sample with 18,176 CUDA cores surfaces in China VideoCardz.com Xianyu listing describes Nvidia GeForce RTX 4090 Ti engineering sample with 18,176 cores Mezha.net RTX 4090 Ti Engineering Sample Has Surfaced On A Chinese Marketplace With 14% Higher Memory Bandwid"
+  },
+  {
+   "title": "实测腾讯 Hy4 flash：花两毛钱，就能让 AI 从零做个 3D 交互网页",
+   "source": "爱范儿",
+   "link": "https://www.ifanr.com/1689653?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "published": "2026-11-16T09:53:01+00:00",
+   "age_hours": 4.1,
+   "score": 7.0,
+   "summary": "比 DeepSeek V4.1 Flash 性价比更高 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+  },
+  {
+   "title": "苹果智能眼镜细节曝光，居然是戴在脸上的 AirPods",
+   "source": "爱范儿",
+   "link": "https://www.ifanr.com/1689616?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "published": "2026-11-16T08:24:59+00:00",
+   "age_hours": 5.6,
+   "score": 7.0,
+   "summary": "真正认真对待软件的人，应该自己去制造硬件。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+  },
+  {
+   "title": "没搞过一天研发的他，50岁以华为董事的身份退休了",
+   "source": "量子位",
+   "link": "https://www.qbitai.com/2026/11/510496.html",
+   "published": "2026-11-16T08:02:07+00:00",
+   "age_hours": 6.0,
+   "score": 7.0,
+   "summary": "在华为待了快10000天。"
+  },
+  {
+   "title": "The King’s Trust and OpenAI launch £1m partnership",
+   "source": "OpenAI Blog",
+   "link": "https://openai.com/index/the-kings-trust-and-openai",
+   "published": "2026-11-16T00:00:00+00:00",
+   "age_hours": 14.0,
+   "score": 7.0,
+   "summary": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work."
+  },
+  {
+   "title": "Our new blog for science",
+   "source": "OpenAI Blog",
+   "link": "https://openai.com/index/our-new-blog-for-science",
+   "published": "2026-11-15T22:00:00+00:00",
+   "age_hours": 16.0,
+   "score": 7.0,
+   "summary": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery."
+  }
+ ]
+}

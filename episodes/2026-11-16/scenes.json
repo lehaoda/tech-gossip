@@ -1,0 +1,40 @@
+{
+  "date": "2026-11-16",
+  "episode": "第7期",
+  "scenes": [
+    {
+      "type": "open",
+      "start": 0,
+      "end": 3
+    },
+    {
+      "type": "story",
+      "start": 4,
+      "end": 35,
+      "title": "黄仁勋辞职风波与回宫传闻",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1031740/jensen-huang-nvidia-scandal-isnt-slowing-down"
+    },
+    {
+      "type": "story",
+      "start": 36,
+      "end": 49,
+      "title": "徐直军撰文讲华为33年",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/027/957.htm"
+    },
+    {
+      "type": "story",
+      "start": 50,
+      "end": 65,
+      "title": "IMF警告AI循环融资万亿",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/027/861.htm"
+    },
+    {
+      "type": "outro",
+      "start": 66,
+      "end": 72
+    }
+  ]
+}
