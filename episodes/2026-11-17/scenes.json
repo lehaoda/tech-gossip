@@ -1,0 +1,26 @@
+{
+  "date": "2026-11-17",
+  "episode": "第8期",
+  "scenes": [
+    { "type": "open", "start": 0, "end": 3 },
+    {
+      "type": "story", "start": 4, "end": 35,
+      "title": "黄仁勋回宫作战室",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories"
+    },
+    {
+      "type": "story", "start": 36, "end": 49,
+      "title": "AI制药50亿美元融资",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/028/533.htm"
+    },
+    {
+      "type": "story", "start": 50, "end": 65,
+      "title": "加州起诉OpenAI",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/"
+    },
+    { "type": "outro", "start": 66, "end": 71 }
+  ]
+}

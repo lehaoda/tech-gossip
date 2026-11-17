@@ -1,0 +1,11 @@
+segments=73 total=775.9s
+scenes: [('open', 34.4), ('story', 327.6), ('story', 144.2), ('story', 201.0), ('outro', 67.0)]
+rendering scene 0 [open ] 34.4s
+rendering scene 1 [story 黄仁勋辞职风波与回宫传闻] 327.6s
+rendering scene 2 [story 徐直军撰文讲华为33年] 144.2s
+rendering scene 3 [story IMF警告AI循环融资万亿] 201.0s
+rendering scene 4 [outro ] 67.0s
+OK video: /Users/haodale/projects/tech-gossip/episodes/2026-11-16/video.mp4  12.9 min  35MB
+OK preview: /Users/haodale/projects/tech-gossip/episodes/2026-11-16/preview.mp4  1618KB
+OK HDD: /Volumes/DataVault/podcast/tech_gossip/videos/2026-11-16.mp4
+URL: https://podcast.lehaoda.com/tech_gossip/videos/2026-11-16.mp4
