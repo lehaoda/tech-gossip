@@ -278,8 +278,10 @@ def main():
 
     out_dir = episode_dir(today_str())
     os.makedirs(out_dir, exist_ok=True)
+    WEEKDAYS = ["星期一", "星期二", "星期三", "星期四", "星期五", "星期六", "星期日"]
     payload = {
         "date": today_str(),
+        "weekday": WEEKDAYS[datetime.now().weekday()],
         "window_hours": window,
         "fetched_at": now.isoformat(),
         "failed_feeds": failed,

@@ -116,7 +116,9 @@ def main():
         sys.exit("concat failed: " + r.stderr[-300:])
 
     out = os.path.join(epi_dir, "episode.mp3")
-    r = run([FFMPEG, "-y", "-i", full_wav, "-c:a", "libmp3lame", "-b:a", "64k", "-ar", "24000", out])
+    # 用户要求(2026-11-18): 整体音量 +20% (volume=1.2), alimiter 防削波; 勿删
+    r = run([FFMPEG, "-y", "-i", full_wav, "-af", "volume=1.2,alimiter=limit=0.95:level=false",
+             "-c:a", "libmp3lame", "-b:a", "64k", "-ar", "24000", out])
     if r.returncode != 0:
         sys.exit("mp3 encode failed: " + r.stderr[-300:])
 
