@@ -1,0 +1,14 @@
+{
+  "date": "2026-11-18",
+  "episode": 9,
+  "scenes": [
+    {"type": "open", "start": 0, "end": 5},
+    {"type": "story", "start": 6, "end": 31, "title": "黄仁勋离职大戏，英伟达起火", "source": "TechCrunch", "link": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/"},
+    {"type": "story", "start": 32, "end": 43, "title": "Anthropic：史上最大IPO", "source": "IT之家", "link": "https://www.ithome.com/1/029/015.htm"},
+    {"type": "story", "start": 44, "end": 52, "title": "腾讯财报：小微日活三千万", "source": "IT之家", "link": "https://www.ithome.com/1/029/017.htm"},
+    {"type": "story", "start": 53, "end": 59, "title": "加州正式起诉OpenAI", "source": "Ars Technica", "link": "https://arstechnica.com/tech-policy/2026/11/california-sues-openai-to-stop-public-nuisance-of-out-of-control-ai-agents/"},
+    {"type": "story", "start": 60, "end": 65, "title": "CoT一作Jason Wei离职Meta", "source": "量子位", "link": "https://www.qbitai.com/2026/11/510811.html"},
+    {"type": "story", "start": 66, "end": 69, "title": "GTA 6发售，撞上Anthropic上市", "source": "The Verge", "link": "https://www.theverge.com/entertainment/1035847/grand-theft-auto-6-launch-review-news"},
+    {"type": "outro", "start": 70, "end": 76}
+  ]
+}

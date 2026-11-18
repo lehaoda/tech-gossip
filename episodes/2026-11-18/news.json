@@ -1,0 +1,280 @@
+{
+ "date": "2026-11-18",
+ "window_hours": 24,
+ "fetched_at": "2026-11-18T14:00:59.133231+00:00",
+ "failed_feeds": [
+  "Reddit r/technology: network: HTTPError: HTTP Error 404: Not Found"
+ ],
+ "candidates": [
+  {
+   "title": "英伟达澄清新云厂商融资担保规则：担保有生效条件，后续筛选对象将更加审慎",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/029/079.htm",
+   "published": "2026-11-18T13:26:58+00:00",
+   "age_hours": 0.6,
+   "score": 10.0,
+   "summary": "IT之家 11 月 18 日消息，周末，约 19.7 万人签署了一份请愿书，呼吁英伟达重新任命离职的 CEO 黄仁勋（Jensen Huang），其中甚至包括埃隆 · 马斯克（Elon Musk）。支持者力挺黄仁勋的原因之一，不仅在于他一直积极推动 AI 产业发展，还因为他曾利用英伟达巨额利润，为这场 AI 热潮提供资金支持。 而英伟达确实拥有雄厚的资金实力。公司周二公布的财报显示，2027 财年第三季度净利润达到 649 亿美元 （IT之家注：现汇率约合 4,335.23 亿元人民币） ，高于上一季度的 597 亿美元 （现汇率约合 3,987.88 亿元人民币） 。 不过，英伟达能否延续目"
+  },
+  {
+   "title": "华尔街为 Anthropic“史上最大 IPO”造势，散户争抢热情或超 SpaceX",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/029/015.htm",
+   "published": "2026-11-18T10:45:07+00:00",
+   "age_hours": 3.3,
+   "score": 10.0,
+   "summary": "IT之家 11 月 18 日消息，据路透社今天（18 日）晚间报道，华尔街正为 Anthropic 可能创下纪录的 IPO 提前造势。金融机构不仅推出了挂钩 Anthropic 股票的投资产品，还举办客户活动、派发周边商品。 市场预计，高净值投资者和散户届时将展开激烈的股票争夺。 尽管过去几周超大规模云服务商和其他 AI 概念股遭遇大幅抛售，投资者对 Anthropic 上市的热情仍在升温。按照预期，Anthropic 将于当地时间 19 日登陆公开市场。 Anthropic 此次 IPO 估值最高可能达到 1.4 万亿美元 （IT之家注：现汇率约合 9.35 万亿元人民币） 。不过，今年早些"
+  },
+  {
+   "title": "华为星芒 OSTA O1 Pro 手机设置页截屏流出，“实锤”搭载麒麟 9030S 处理器",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/029/012.htm",
+   "published": "2026-11-18T10:35:10+00:00",
+   "age_hours": 3.4,
+   "score": 10.0,
+   "summary": "IT之家 11 月 18 日消息，华为全新子品牌星芒的首款产品 —— OSTA O1 Pro 阔直板手机已正式官宣并公布外观，新机将于 11 月 20 日发布。 ▲ IT之家开箱：华为全新子品牌星芒 OSTA O1 Pro 手机实拍 此前爆料显示，这款新机会搭载麒麟 9030S 处理器。博主 @RuryRen 今日晒出新机“设置-关于本机”的截图， “实锤”会搭载麒麟 9030S 处理器 。 另外，博主还透露， 华为星芒 OSTA O1 标准版会搭载 Pura 90 Plus 同款处理器 —— 麒麟 9025 。 参考IT之家此前报道，博主 @数码闲聊站 透露， OSTA O1 Pro 搭载一"
+  },
+  {
+   "title": "小米春节前待发新机曝光，含 Xiaomi 18 标准版、REDMI Note18 / Turbo6 系列等",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/028/992.htm",
+   "published": "2026-11-18T10:06:25+00:00",
+   "age_hours": 3.9,
+   "score": 10.0,
+   "summary": "IT之家 11 月 18 日消息，博主 @数码闲聊站 今日发文，曝光了小米春节前待发新机， 含 Xiaomi 18 标准版、REDMI Note18 / Turbo6 系列等机型 。 从入网备案信息看，粮厂这边春节前的新机是小米 18、REDMI Note18 系列、REDMI Turbo6 系列， 最强标准版小屏旗舰、万级长续航中端机、超大屏中端旗舰性能机 ，同样选择多多…… 有网友询问 REDMI K100 系列的游戏旗舰是否会在 2 月上市，博主表示：“ 更晚。 ”还有网友询问其他厂商的超大屏手机何时发布，博主回复称：“ 春节前预计有 3 家上 7 英寸大屏机。 ” 据IT之家昨日报道，"
+  },
+  {
+   "title": "微软商业业务 CEO：黄仁勋辞任英伟达 CEO，或促使客户寻求 AI 芯片替代方案",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/028/968.htm",
+   "published": "2026-11-18T09:57:57+00:00",
+   "age_hours": 4.1,
+   "score": 10.0,
+   "summary": "IT之家 11 月 18 日消息，据彭博社今天（18 日）早间报道，微软商业业务 CEO 贾德森 · 阿尔托夫认为，黄仁勋辞职引发的英伟达人事风波，可能促使客户寻找英伟达 AI 芯片之外的选择。 阿尔托夫透露，早在黄仁勋辞职之前，客户就已经表达了希望拥有更多选择的意愿，而最近的消息确实让人们更加确信，多一些选择是件好事。 微软、亚马逊和谷歌都在开发自研 AI 芯片，希望借此 降低对英伟达的依赖 。微软上个月还透露，计划让旗下 AI 软件主要依靠自研硬件运行。至于 Anthropic 和 OpenAI，也在寻找英伟达芯片的替代方案。 阿尔托夫过去一年一直在强调，未来将由多样化的 AI 模型和芯片"
+  },
+  {
+   "title": "华境 S 五座版 SUV 新车官宣将至：现款累计交付破 4 万台，标配华为乾崑智驾",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/029/045.htm",
+   "published": "2026-11-18T11:48:28+00:00",
+   "age_hours": 2.2,
+   "score": 9.0,
+   "summary": "IT之家 11 月 18 日消息，五菱品牌与市场总监 @思行Si-Hang 今日发文， 确认华境 S 五座版新车“很快就来” 。 参考IT之家此前报道，现款的华境 S 六座版本月官宣拿下插电式混动大型 SUV 销量四连冠， 累计交付达成 40,000 台 。该车全系标配华为乾崑智驾 ADS Pro 增强版与鸿蒙座舱， 已于 5 月 8 日正式上市 。9 月 12 日，华境 S 宣布新增 4 款配置，全系超级置换价 14.98 万元-19.68 万元。 相关阅读： 《 华境 S 汽车新增 4 款配置：标配华为乾崑智驾 ADS Pro 增强版，支持外接拓展屏 》 《 五菱、华为合作打造的大六座 S"
+  },
+  {
+   "title": "思维链一作Jason Wei离职！怎么去Meta待一年都跑路",
+   "source": "量子位",
+   "link": "https://www.qbitai.com/2026/11/510811.html",
+   "published": "2026-11-18T04:49:51+00:00",
+   "age_hours": 9.2,
+   "score": 9.0,
+   "summary": "入职Meta刚满一年出头，竟然直接提桶跑路了！"
+  },
+  {
+   "title": "英伟达AMD首次联手押注！Genesis完成A轮融资，估值超230亿",
+   "source": "量子位",
+   "link": "https://www.qbitai.com/2026/11/510821.html",
+   "published": "2026-11-18T04:28:57+00:00",
+   "age_hours": 9.5,
+   "score": 9.0,
+   "summary": "具身全栈玩家"
+  },
+  {
+   "title": "黄仁勋不再沉默：我愿重掌英伟达！董事会：不考虑",
+   "source": "量子位",
+   "link": "https://www.qbitai.com/2026/11/510726.html",
+   "published": "2026-11-18T01:03:42+00:00",
+   "age_hours": 13.0,
+   "score": 9.0,
+   "summary": "英伟达公布了老黄离职后的首份财报"
+  },
+  {
+   "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+   "published": "2026-11-17T23:37:48+00:00",
+   "age_hours": 14.4,
+   "score": 9.0,
+   "summary": "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?"
+  },
+  {
+   "title": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/",
+   "published": "2026-11-17T22:42:27+00:00",
+   "age_hours": 15.3,
+   "score": 9.0,
+   "summary": "The former CEO offered to return to his top role at the company after his resignation last week."
+  },
+  {
+   "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
+   "published": "2026-11-17T22:29:05+00:00",
+   "age_hours": 15.5,
+   "score": 9.0,
+   "summary": "Amazon will own just under 15% of Anthropic after the IPO, with the option to go much higher. Google is a close second with holdings of nearly 14%."
+  },
+  {
+   "title": "OpenAI sued by California after admitting to 80 loss-of-control incidents",
+   "source": "Ars Technica",
+   "link": "https://arstechnica.com/tech-policy/2026/11/california-sues-openai-to-stop-public-nuisance-of-out-of-control-ai-agents/",
+   "published": "2026-11-17T18:13:34+00:00",
+   "age_hours": 19.8,
+   "score": 9.0,
+   "summary": "AG: OpenAI tested dangerous AI without proper oversight and misled public about it."
+  },
+  {
+   "title": "The Nvidia Scandal Could Upend Chip Sales to China. Trump Wants to Keep Them Going",
+   "source": "WIRED",
+   "link": "https://www.wired.com/story/the-nvidia-scandal-is-about-chip-sales-to-china-trump-wants-to-keep-them-going/",
+   "published": "2026-11-17T18:03:32+00:00",
+   "age_hours": 20.0,
+   "score": 8.5,
+   "summary": "Commerce secretary Howard Lutnick has been under attack for not blacklisting a company caught up in the Jensen Huang scandal. But Trump is on board with the policy."
+  },
+  {
+   "title": "Nvidia clarifies when it will — and won’t —keep financing neoclouds",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/",
+   "published": "2026-11-18T13:00:00+00:00",
+   "age_hours": 1.0,
+   "score": 8.0,
+   "summary": "If Nvidia is backstopping a data center loan, it won't be on the hook unless the neocould has independent financing and gets the facility built, with Nvidia gear installed, interim CEO Colette Kress explained."
+  },
+  {
+   "title": "Nvidia isn’t selling any more AI chips to China",
+   "source": "The Verge",
+   "link": "https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling",
+   "published": "2026-11-18T13:01:05+00:00",
+   "age_hours": 1.0,
+   "score": 8.0,
+   "summary": "Nvidia has stopped sending its advanced AI chips to China, despite the approval it received from the White House to do so in December last year. The announcement was made by interim Nvidia CEO Colette Kress during an earnings call on Tuesday, marking a notable shift for the company that, under forme"
+  },
+  {
+   "title": "Grand Theft Auto VI has arrived",
+   "source": "The Verge",
+   "link": "https://www.theverge.com/entertainment/1035847/grand-theft-auto-6-launch-review-news",
+   "published": "2026-11-18T11:06:16+00:00",
+   "age_hours": 2.9,
+   "score": 8.0,
+   "summary": "More than a decade after Grand Theft Auto V was first released, its sequel is finally launching. On November 19th, GTA VI will be available on both the PS5 and Xbox Series X / S, and it’s quite possibly the most anticipated video game launch of all time. Part of this has to do with […]"
+  },
+  {
+   "title": "腾讯高管：预计 2028 年 AI 投入产出效率改善，得益于基础设施复用、硬件降价与算力效率提升",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/029/080.htm",
+   "published": "2026-11-18T13:31:39+00:00",
+   "age_hours": 0.5,
+   "score": 7.5,
+   "summary": "IT之家 11 月 18 日消息，据科创板日报报道，腾讯高管在业绩会上表示， 公司当前的资本开支主要用于 AI 基础设施建设 ，这类投入并非一次性消耗，而是能够形成可持续使用的基础设施，既可用于新一代模型训练，也能持续支撑 Token 生成。随着 2026 年、2027 年建设的基础设施在后续年份持续发挥作用，预计到 2028 年，相关投入带来的经营压力有望逐步缓解。 与此同时，AI 基础设施的投入成本也有望出现积极变化。2026 年设备采购价格处于相对高位，预计到 2028 年，同类设备的采购价格将明显下降。 更重要的是，模型训练和推理的计算效率正在快速提升，意味着在相同的基础设施条件下，未"
+  },
+  {
+   "title": "34999 元起，华硕 RTX Spark 迷你主机 ProArt GR1X 发售",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/029/073.htm",
+   "published": "2026-11-18T13:11:55+00:00",
+   "age_hours": 0.8,
+   "score": 7.5,
+   "summary": "IT之家 11 月 18 日消息，华硕 (ASUS) 即将于今晚 22:00 开始销售基于 NVIDIA（英伟达）RTX Spark 超级芯片的 ProArt GR1X 迷你主机。 该设备提供两档配置， 64GB + 2TB 售价 34999 元 、 128GB + 4TB 售价 54999 元 。 ProArt GR1X 三维 150×150×51 (mm)；搭载 2 风扇 4 热管 57 鳍片的散热系统， 支持 140W 性能释放 ；配备 Wi-Fi 7 & 蓝牙 5.4 无线网卡；提供 4 个 USB-C 20Gbps（其中 1 个支持 USB PD-in、另外 3 个支持 Displa"
+  },
+  {
+   "title": "腾讯：受芯片限制影响，训练下一代模型将需要更长时间",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/029/066.htm",
+   "published": "2026-11-18T12:56:31+00:00",
+   "age_hours": 1.1,
+   "score": 7.5,
+   "summary": "IT之家 11 月 18 日消息，据金融界报道，腾讯控股在 2026 年第三季度财报沟通中披露，受芯片限制影响，训练下一代模型将需要更长时间。 今日腾讯发布 2026 年三季报，本季度， 腾讯实现营收 2073 亿元 ，同比增长 8%。 腾讯表示，通过加大投入，向上探索大模型智能上限，向下构建覆盖个人生活、办公协作和企业生产的 AI 应用体系，腾讯正加速推进 AI 化变革，向 AI 引领的科技公司迈进。 IT之家注意到，今年以来，腾讯混元 Hy 平均每两个月发布一个大版本，最新一代混元大模型 Hy4 发布时位列 Agent Arena 中国模型第一，本周推出的 Hy4 flash 成为混元“性"
+  },
+  {
+   "title": "腾讯刘炽平：微信“小微”全面上线后季度成本将低于今年早些时候的元宝",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/029/063.htm",
+   "published": "2026-11-18T12:48:54+00:00",
+   "age_hours": 1.2,
+   "score": 7.5,
+   "summary": "IT之家 11 月 18 日消息，据科创板日报报道，腾讯总裁刘炽平在业绩会上表示，腾讯正持续扩大微信“小微”的用户测试池，目前日活用户已达 3000 万。 同时， 小微全面上线后的季度成本，将低于今年早些时候元宝的季度成本 。 IT之家注意到，今年春节，腾讯元宝曾推出“分 10 亿现金红包”活动，2 月 18 日活动结束后， 腾讯宣布元宝 日活跃用户超 5000 万 ，月活跃用户达 1.14 亿 。 微信官方今日表示，小微采用 WeLM 模型，这是一款针对成本效率及小微易用性进行优化的定制模型， 因此推理成本极低且持续下降 。未来， 官方预计部分推理任务将在用户设备端运行 。 根据官方此前披露"
+  },
+  {
+   "title": "Face ID 存疑：消息称苹果 iPhone Duo 2 工程机沿用侧边指纹设计",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/029/061.htm",
+   "published": "2026-11-18T12:45:11+00:00",
+   "age_hours": 1.3,
+   "score": 7.5,
+   "summary": "IT之家 11 月 18 日消息，博主 @数码闲聊站 今日超前曝光了 iPhone Duo 2 的部分配置信息。据称新机 7.6 英寸内屏 +5.4 英寸外屏不变， 工程机有侧边指纹 。 博主提到，Face ID 这一配置存疑，因为影响机身堆叠，而且交互逻辑很奇怪。 值得一提的是，苹果 iOS / iPadOS 27.3 开发者预览版 Beta 2 已于昨日发布。在新系统中， 苹果为 iPhone Duo 折叠屏手机新增「使用前置摄像头解锁」选项 。开启后用户可以在使用外屏的情况下，仅依靠 2D 面部识别、不依赖触控 ID 解锁设备。 参考IT之家昨日报道，苹果 2027 年可能推出至少 18"
+  },
+  {
+   "title": "DeepSeek API 定价调整：调用模型时触发服务端搜索、网页抓取不再计费，仅按模型 Token 用量计费",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/029/058.htm",
+   "published": "2026-11-18T12:33:53+00:00",
+   "age_hours": 1.5,
+   "score": 7.5,
+   "summary": "IT之家 11 月 18 日消息，DeepSeek 官网显示，自北京时间 2026 年 11 月 18 日 12:00 起， 调用模型时触发的服务端搜索、网页抓取不再计费，仅按模型 Token 用量计费 。 使用以下接口时会触发服务端搜索：联网工具、Anthropic API 的 web_search 工具、Responses API 的 web_search 工具。 据IT之家此前报道，10 月 17 日，DeepSeek 官方宣布 Search / Fetch API 正式上线，两项接口均使用 DeepSeek 自研搜索引擎，为 Agent 与 RAG 应用提供实时网页内容，按请求次数计费"
+  },
+  {
+   "title": "微信：私人 AI 助理“小微”日活跃用户数已达 3000 万，预计未来部分推理任务在设备端运行",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/029/018.htm",
+   "published": "2026-11-18T10:54:58+00:00",
+   "age_hours": 3.1,
+   "score": 7.5,
+   "summary": "IT之家 11 月 18 日消息，腾讯今日发布 2026 年第三季度财报，称正加速推进 AI 化变革，向 AI 引领的科技公司迈进。 微信官方今日宣布，小微用户测试范围扩大， 日活跃用户数 （DAU） 已达 3000 万 ，逐步融入微信聊天、朋友圈、公众号、视频号等高频场景。 据介绍，小微是 每个人的私人 AI 助理 （ personal assistant for everyone ），在微信生态内即可即时使用，从设计之初便注重隐私保护， 使用及运营成本低 。 IT之家获悉，小微采用 WeLM 模型，一款针对成本效率及小微易用性进行优化的定制模型，因此推理成本极低且持续下降。未来， 官方预计"
+  },
+  {
+   "title": "腾讯公布 2026 年 Q3 财报：微信及 WeChat 合并月活跃账户数 14.49 亿，同比增长 2%",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/029/017.htm",
+   "published": "2026-11-18T10:48:00+00:00",
+   "age_hours": 3.2,
+   "score": 7.5,
+   "summary": "IT之家 11 月 18 日消息，腾讯今日公布了 2026 年 Q3 财报。据“微信派”公众号介绍，腾讯正加速推进 AI 化变革，向 AI 引领的科技公司迈进。 “微信派”还提到， 微信及 WeChat 的合并月活跃账户 14.49 亿，同比增长 2% 。 据IT之家今日早些时候报道，腾讯控股发布 2026 财年（2026 年 1 月～2026 年 12 月）前三季度（2026 年 1 月～2026 年 9 月）及第三财季（2026 年 7 月～2026 年 9 月）报告。数据显示， 2026 年前三季度营业总收入 6085.79 亿元，同比增长 9% ；归母净利润 1777.27 亿元，同比"
+  },
+  {
+   "title": "亚马逊不排除放行外部 AI 购物智能体，前提是带来优质用户体验",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/028/933.htm",
+   "published": "2026-11-18T09:23:01+00:00",
+   "age_hours": 4.6,
+   "score": 7.5,
+   "summary": "IT之家 11 月 18 日消息，亚马逊此前关闭了外部 AI 购物智能体在其平台上直接下单的权限，但 CEO 安迪 · 贾西（Andy Jassy）表示，公司并没有彻底关上这扇门，未来仍有可能重新开放。 贾西当地时间周二在 Semafor 举办的“硅谷与世界”大会上表示：“我认为，我们从来没有说过绝对不会开放。 这件事的前提是必须为消费者提供良好的体验，而目前还没有做到这一点，同时双方也必须实现公平的价值交换 。” 以 Meta 的 Muse、Instinct AI 和 OpenAI 的 Dots 为代表的 AI 智能体，正在给美国零售商的 IT 和安全部门带来新的挑战。这些 AI 工具宣称能"
+  },
+  {
+   "title": "GPT-6.2难产！OpenAI怕了",
+   "source": "量子位",
+   "link": "https://www.qbitai.com/2026/11/510914.html",
+   "published": "2026-11-18T07:53:29+00:00",
+   "age_hours": 6.1,
+   "score": 7.5,
+   "summary": "OpenAI也终于活成了2022年谷歌的样子"
+  },
+  {
+   "title": "Satya Nadella says he’s AGI-pilled now",
+   "source": "The Verge",
+   "link": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
+   "published": "2026-11-17T23:41:18+00:00",
+   "age_hours": 14.3,
+   "score": 7.5,
+   "summary": "Microsoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make startling changes to the structure of the economy and how politics might change because of it. \"I am AGI-pilled in the sense that at an economy level, what is the political economy's organization around AGI"
+  },
+  {
+   "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
+   "published": "2026-11-17T23:04:35+00:00",
+   "age_hours": 14.9,
+   "score": 7.5,
+   "summary": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure."
+  },
+  {
+   "title": "SEC reportedly investigating Nvidia amid Huang exit",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/",
+   "published": "2026-11-17T21:48:07+00:00",
+   "age_hours": 16.2,
+   "score": 7.5,
+   "summary": "The SEC is opening a probe into Nvidia following the departure of CEO Jensen Huang, who admitted to an affair with an alleged Chinese spy, reports The Wall Street Journal."
+  }
+ ]
+}
