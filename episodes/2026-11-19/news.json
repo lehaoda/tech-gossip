@@ -1,0 +1,281 @@
+{
+ "date": "2026-11-19",
+ "weekday": "星期四",
+ "window_hours": 24,
+ "fetched_at": "2026-11-19T14:01:01.308175+00:00",
+ "failed_feeds": [
+  "Reddit r/technology: network: HTTPError: HTTP Error 404: Not Found"
+ ],
+ "candidates": [
+  {
+   "title": "I let Apple’s always-listening AI summarize my life for two weeks",
+   "source": "The Verge",
+   "link": "https://www.theverge.com/tech/1037100/apple-siri-recap-audio-intelligence-hands-on",
+   "published": "2026-11-19T13:00:00+00:00",
+   "age_hours": 1.0,
+   "score": 10.5,
+   "summary": "Was it worth it? I've been asking myself this quite a bit over the last month or so while testing both the Amazon Bee Frontier and Siri Recap on the Apple Watch Ultra 4. Both enable a wearable to ambiently listen to your conversations and, using AI, summarize them for you. Why? So you can […]"
+  },
+  {
+   "title": "华为官宣鸿蒙智行问界新 M8 搭载华为智擎增程五合一智能平台，综合发电效率 94.5%",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/029/678.htm",
+   "published": "2026-11-19T13:05:10+00:00",
+   "age_hours": 0.9,
+   "score": 10.0,
+   "summary": "IT之家 11 月 19 日消息，华为电动技术有限公司官方账号 @华为智擎 今日宣布，鸿蒙智行问界新 M8 旗舰 SUV 搭载华为智擎增程五合一智能平台， 综合发电效率 94.5%，整车综合续航提升 2.8% 。 据介绍，华为智擎增程五合一智能平台的 P3 高速电机轮边最高转速 1850rpm， 可支撑整车达到最高时速 250km/h 。 参考IT之家此前报道， 鸿蒙智行问界新 M8 旗舰 SUV 已于 11 月 13 日正式上市 ，采用面向 L3 级自动驾驶架构设计，搭载华为乾崑智驾 ADS 5、新一代全向立体融合感知系统，定价 37.98 万元起。 该车上市 72 小时，大定突破 11,0"
+  },
+  {
+   "title": "Meta 员工爆料：Muse 智能体可能擅自读取加密消息与银行账户余额",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/029/671.htm",
+   "published": "2026-11-19T12:44:27+00:00",
+   "age_hours": 1.3,
+   "score": 10.0,
+   "summary": "IT之家 11 月 19 日消息，多名用户、安全研究员最近发现，Meta 旗下 Muse 智能体可能会泄露隐私。 例如，科技领域记者 Jason Aten 曾在 9 月发现，尽管自己明确拒绝了授权，他电脑里的 Muse 仍然访问了 iMessage。安全研究员 Patrick Wardle 则发现 Muse 存在零日漏洞，攻击者可用其劫持用户语音输入的提示词，并将这些内容转发出来。 据路透社昨天报道，多名 Meta 员工发现 Muse 存在更严重的隐私泄露问题。其中一名员工在个人手机使用 Muse 时，发现智能体主动提醒他回复姐姐在 Signal 发送的消息。作为参考，Signal 是一款主打"
+  },
+  {
+   "title": "Anthropic’s Record-Breaking IPO Highlights the AI Giant’s Worst Enemy—Itself",
+   "source": "WIRED",
+   "link": "https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/",
+   "published": "2026-11-19T12:00:00+00:00",
+   "age_hours": 2.0,
+   "score": 10.0,
+   "summary": "Investors betting a barnstorming $107 billion will weigh whether the company’s AI safety strategy and growing public anger towards data centers could impact its growth."
+  },
+  {
+   "title": "超前瞻：消息称某厂无边四曲屏和阔屏同步开发中，新机预计归属小米旗下",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/029/543.htm",
+   "published": "2026-11-19T09:17:09+00:00",
+   "age_hours": 4.7,
+   "score": 10.0,
+   "summary": "IT之家 11 月 19 日消息，博主 @数码闲聊站 今日发布了一则超前瞻爆料，称某厂无边四曲屏和阔屏同步开发中。从博主过往爆料习惯及评论区讨论来看， 预计新机归属小米旗下 。 有网友询问“无边”是“视觉无边”还是“物理无边”，博主表示：“ 视觉，苹果也是视觉无边框。 ”还有网友询问各厂商的无边四曲屏是否都在开发，博主回复称：“ 是啊，苹果做了，其它家都在研究，大概率明年会上。 ” 据IT之家此前报道， 小米阔直板手机此前被曝已开屏 ，目前早期方案是 6.3-6.4 英寸 ±，屏幕比例 16:9，采用 1mm± 极窄四等边设计，支持 BT.2020 色域并配备高规格阔屏。不过产品形态最终命名存"
+  },
+  {
+   "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+   "published": "2026-11-19T00:42:56+00:00",
+   "age_hours": 13.3,
+   "score": 10.0,
+   "summary": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not in the way you might expect."
+  },
+  {
+   "title": "Anthropic prices IPO at $83 a share, above projected range",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+   "published": "2026-11-18T22:11:15+00:00",
+   "age_hours": 15.8,
+   "score": 10.0,
+   "summary": "The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis."
+  },
+  {
+   "title": "Even His Own Officials Don’t Think Trump’s China Trip Will Lead to Progress on AI",
+   "source": "WIRED",
+   "link": "https://www.wired.com/story/administration-officials-dont-think-much-ai-progress-will-come-of-trumps-china-visit/",
+   "published": "2026-11-18T22:00:00+00:00",
+   "age_hours": 16.0,
+   "score": 9.5,
+   "summary": "Fallout from the Nvidia scandal has made any negotiations around AI difficult, officials say."
+  },
+  {
+   "title": "Inside Nvidia’s First Post-Jensen All-Hands: Pay Raises and More Equity",
+   "source": "WIRED",
+   "link": "https://www.wired.com/story/inside-nvidias-first-all-hands-without-jensen-huang-as-ceo/",
+   "published": "2026-11-18T17:33:07+00:00",
+   "age_hours": 20.5,
+   "score": 9.5,
+   "summary": "Interim CEO Colette Kress sought to ease employee concerns following Jensen Huang’s ouster, in part by promising to increase compensation."
+  },
+  {
+   "title": "Leaked: How Silicon Valley Elites Bankrolled an Anti-Migrant, Pro-Israel Propaganda Machine",
+   "source": "WIRED",
+   "link": "https://www.wired.com/story/leaked-how-silicon-valley-elites-bankrolled-anti-migrant-pro-israel-propaganda-machine/",
+   "published": "2026-11-19T11:00:00+00:00",
+   "age_hours": 3.0,
+   "score": 9.0,
+   "summary": "Documents reveal the sordid inner workings of Visegrad24, an obscure Polish influence operation that became one of Elon Musk’s favorite sources of fake news."
+  },
+  {
+   "title": "华为靳玉志官宣 HUAWEI XSCENE 车载激光投影焕新升级，支持 5 种投影模式",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/029/529.htm",
+   "published": "2026-11-19T08:41:16+00:00",
+   "age_hours": 5.3,
+   "score": 9.0,
+   "summary": "IT之家 11 月 19 日消息，华为智能汽车解决方案 BU CEO 靳玉志今日发文宣布，HUAWEI XSCENE 车载激光投影焕新升级。针对不同的用车场景， 支持了 5 种投影模式 。 IT之家附官方示例如下： IT之家了解到，HUAWEI XSCENE 车载激光投影还支持业界唯⼀⼀机五投，搭配华为自研专利折叠镜头，可快速搭建露天影院，宣称“车内车外都能看”。 今年 5 月上市的鸿蒙智行全新一代问界 M9 就首创了一镜双投观影系统 ，搭载潜望式投影技术与 46 英寸车外巨幕，可在车外观影。同时，该车还首创智能分屏投影巨幕功能，支持双 16 英寸观影，双独立音区。 延伸阅读 HUAWEI X"
+  },
+  {
+   "title": "Nimble enters the item-tracking market with eco-friendly luggage tags and keychains",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/19/nimble-enters-the-item-tracking-market-with-eco-friendly-luggage-tags-and-keychains/",
+   "published": "2026-11-19T14:00:00+00:00",
+   "age_hours": 0.0,
+   "score": 8.0,
+   "summary": "As Google takes on Apple in the item-tracking market, Nimble is hoping its trackable wallets, keychains, luggage tags, and passport covers stand out."
+  },
+  {
+   "title": "Muse privacy invasions are freaking out Meta staffers, internal chats show",
+   "source": "Ars Technica",
+   "link": "https://arstechnica.com/tech-policy/2026/11/muse-privacy-invasions-are-freaking-out-meta-staffers-internal-chats-show/",
+   "published": "2026-11-18T19:19:33+00:00",
+   "age_hours": 18.7,
+   "score": 8.0,
+   "summary": "Erratic Muse outputs sharing random bank, bitcoin balances aren’t real, Meta says."
+  },
+  {
+   "title": "阿里巴巴 CEO 吴泳铭：2027、2028 年将是中国算力最紧缺的两年",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/029/682.htm",
+   "published": "2026-11-19T13:22:49+00:00",
+   "age_hours": 0.6,
+   "score": 7.5,
+   "summary": "IT之家 11 月 19 日消息，据界面新闻今日报道，在 2027 财年第二季度财报分析师电话会上，阿里巴巴集团 CEO 吴泳铭表示， 2027 年和 2028 年，将是中国算力最紧缺的两年 。2027 年以后，阿里云的芯片供给都会以国产平头哥芯片为主，同时也会采购其他国产芯片来支持内部的推理需求。 吴泳铭提到， 阿里的旗舰芯片会优先满足于大模型的训练 ，以保障模型迭代。在此基础上，也会考虑合作伙伴的客户的需求， 在推理层面上，阿里会尽量去采购更多不同的芯片 ，也包括其他品牌的国产芯片。 据IT之家今日早些时候报道，吴泳铭表示， 千问已经在平头哥芯片上训练下一代模型，百炼已经基于国产芯片提供模"
+  },
+  {
+   "title": "阿里巴巴 CEO 吴泳铭：千问已在平头哥芯片训练下一代模型，百炼基于国产芯片提供模型推理服务",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/029/676.htm",
+   "published": "2026-11-19T12:58:39+00:00",
+   "age_hours": 1.0,
+   "score": 7.5,
+   "summary": "IT之家 11 月 19 日消息，据财联社今日报道，在 2027 财年第二季度财报分析师电话会上，阿里巴巴集团 CEO 吴泳铭表示， 千问已经在平头哥芯片上训练下一代模型，百炼已经基于国产芯片提供模型推理服务 。 吴泳铭强调， 阿里的全栈 AI 基础设施将在国产算力供应链上形成明显优势 ，而自研芯片与自研模型的深度协同，将持续转化为更优的单位算力成本和更高的 AI 应用研发效率。 据IT之家本月早些时候报道， 全新一代千问大模型 Qwen4 即将发布 ：知识理解更深入，世界感知更立体，Coding 与 Agentic 能力持续进阶。现在，Qwen4-Max 预览版已首发上线阿里 Token P"
+  },
+  {
+   "title": "华为 Pura X View 阔直板手机获 HarmonyOS 7.0.0.115 升级，桌面 AI 快捷栏如约而至",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/029/672.htm",
+   "published": "2026-11-19T12:47:24+00:00",
+   "age_hours": 1.2,
+   "score": 7.5,
+   "summary": "IT之家 11 月 19 日消息，华为 Pura X View 阔直板手机今日开启了鸿蒙 HarmonyOS 7.0.0.115 SP10 版本升级，系统包大小约 6.63GB， 桌面 AI 快捷栏功能如约而至 。 IT之家附华为 Pura X View 阔直板手机此次更新内容如下： 桌面 桌面新增 AI 快捷栏，按住 AI 圆环可直接说话，点击可探索更多 AI 服务（设置 > 桌面和个性化 > 桌面设置 > AI 快捷栏）。 相机 1.优化基础颜色效果，调整部分场景拍摄色彩，使成像颜色更自然、清晰。 2.优化相机稳定性，提升视频拍摄流畅性。 系统 1.优化部分场景的通话体验。 2.优化无线充"
+  },
+  {
+   "title": "华为鸿蒙星河互联官宣支持流转 iPhone 来电，当前适配 Mate 90 系列、XT 2 非凡大师机型",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/029/657.htm",
+   "published": "2026-11-19T11:55:39+00:00",
+   "age_hours": 2.1,
+   "score": 7.5,
+   "summary": "IT之家 11 月 19 日消息，华为官方今日发布图文，介绍了鸿蒙星河互联带来的 HUAWEI + iPhone 双机互联的功能， 包括网络共享、一键查找、消息 & 电话流转等 。 IT之家附华为官方图文介绍如下： 华为官方宣传页面显示，鸿蒙星河互联支持 iPhone 通话流转至华为手机，并且同样能够激活华为手机端的智能防诈功能。但华为官网显示， 仅部分华为手机型号支持接听 iPhone 来电 ，且华为手机来电暂不支持在 iPhone 接听。 IT之家进一步查询获悉， 电话流转功能当前仅 Mate 90 系列、Mate XT 2 非凡大师支持 。其他华为手机支持接收 iPhone 侧未接来电通"
+  },
+  {
+   "title": "马斯克：目前 SpaceX 每个月约新增 0.5GW 算力，明年底将提速至每月 1GW",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/029/649.htm",
+   "published": "2026-11-19T11:17:43+00:00",
+   "age_hours": 2.7,
+   "score": 7.5,
+   "summary": "IT之家 11 月 19 日消息，据《科创板日报》今天报道，马斯克在视频连线采访中表示，目前 SpaceX 每个月大约新增 0.5GW AI 算力。 这大致相当于部署 22 万颗 GB300 芯片 ，以及与之配套的 CPU、网络设备、冷却系统等一整套基础设施。 马斯克认为 SpaceX 真正的扩张瓶颈在发电端，公司明年将进一步提速： 到明年年底 ， 每月新增 AI 算力超 1GW（IT之家注：吉瓦） ，“届时，这些算力或许已经可以名副其实地称为‘超级智能算力’（superintelligence compute）了”。"
+  },
+  {
+   "title": "特斯拉 Cybercab 自动驾驶订阅费高昂，用车四年后总成本将超 Model 3",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/029/647.htm",
+   "published": "2026-11-19T11:05:28+00:00",
+   "age_hours": 2.9,
+   "score": 7.5,
+   "summary": "IT之家 11 月 19 日消息，特斯拉 Cybercab 看起来很便宜，但使用起来可能就不是那么回事了。 这款取消方向盘设计的 Robotaxi 无人驾驶出租车起售价为 29,990 美元 （IT之家注：现汇率约合 20 万元人民币） ，是特斯拉首款官方标价低于 3 万美元 （现汇率约合 20 万元人民币） 的车型。不过，想要启用自动驾驶功能，车主还必须订阅每月 299 美元 （现汇率约合 1,998 元人民币） 的 Autonomy 订阅服务。 按照特斯拉目前公布的价格计算，这笔强制订阅费用会让 Cybercab 的长期持有成本迅速攀升。以基础版 Model 3 为例，如果选择每月 99 "
+  },
+  {
+   "title": "AI 智能体擅自转账、购物谁来负责？多家银行警告用户损失可能要自己承担",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/029/646.htm",
+   "published": "2026-11-19T10:59:24+00:00",
+   "age_hours": 3.0,
+   "score": 7.5,
+   "summary": "IT之家 11 月 19 日消息，如果你的 AI 智能体做出了一笔糟糕的财务决策，最终可能只能由你自己承担损失。 这是近期多家大型银行向客户发出的警告。根据 Business Insider 查看的银行邮件和应用通知，银行实际上是在提醒用户：如果 AI 智能体获得了访问金融账户的权限，其执行的操作可能被视为用户本人的行为，而不是外部入侵者实施的操作。 Ally Bank 本月早些时候向客户发送邮件称：“使用 AI 服务时，AI 采取的任何行动都由你负责。AI 可能犯错、产生幻觉、误解你的指令，或者以你意料之外的方式执行指令，从而造成重大损失。” 摩根大通（JPMorgan Chase）也在 1"
+  },
+  {
+   "title": "苹果手机能用安卓 App 了：App Store 上架安卓虚拟机，iPhone、iPad 都能装",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/029/644.htm",
+   "published": "2026-11-19T10:52:49+00:00",
+   "age_hours": 3.1,
+   "score": 7.5,
+   "summary": "IT之家 11 月 19 日消息，一款名为“Andarium”软件现已上架苹果 App Store 平台。据介绍，这是一款安卓虚拟机软件，支持在 iPhone 和 iPad 上运行 Android 应用。 IT之家从 App Store 获悉， Andarium 应用内直接包含基于 LineageOS 的 Android 17 系统 ，完全在设备本地运行，无需登录账号，无广告、无追踪。用户可直接从“文件”应用安装 APK 文件，内置“文件浏览器”，可浏览存储空间并导入或导出文件和文件夹。 值得一提的是，该应用支持 3D 图形与视频播放， 可自由调节显示分辨率 ；支持屏幕旋转，并支持运动与指南针"
+  },
+  {
+   "title": "消息称苹果重新评估 OLED 版 iMac：开发进度可能推迟，甚至直接砍掉",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/029/640.htm",
+   "published": "2026-11-19T10:30:46+00:00",
+   "age_hours": 3.5,
+   "score": 7.5,
+   "summary": "IT之家 11 月 19 日消息，据韩媒 The Elec 今天报道，苹果正在与三星显示重新评估 OLED 版 iMac 一体机的开发计划， 最坏的结果可能是直接砍掉 。 据业内人士透露，苹果近期一直在和三星显示讨论 OLED iMac 的开发时间表调整。目前考虑的方案包括推迟开发进度，或者彻底暂停项目。 IT之家从原报道了解到，苹果重新评估 OLED iMac 的主要原因是价格。与手机、笔记本等产品相比，iMac 一体机的销量规模较小，如果采用价格昂贵的 OLED 面板，将难以维持具备竞争力的产品定价。 同时，OLED 版 iPad Pro 销量疲软也影响了苹果的决定。据预测，三星显示和乐金"
+  },
+  {
+   "title": "Gig Work Is Invading Nursing Homes. The Risks Can Be Deadly",
+   "source": "WIRED",
+   "link": "https://www.wired.com/story/shiftkey-gig-nursing/",
+   "published": "2026-11-19T10:00:00+00:00",
+   "age_hours": 4.0,
+   "score": 7.5,
+   "summary": "Inspection reports detailing elder care facilities show that little to no worker onboarding can lead to dangerous mistakes and overwhelmed nurses, a WIRED and Proof News investigation has found."
+  },
+  {
+   "title": "马斯克：预计未来 12-18 个月 Optimus 人形机器人能做家务劳动",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/029/616.htm",
+   "published": "2026-11-19T10:01:52+00:00",
+   "age_hours": 4.0,
+   "score": 7.5,
+   "summary": "IT之家 11 月 19 日消息，特斯拉 CEO 埃隆 · 马斯克（Elon Musk）今日在视频连线采访中表示，预计未来 12-18 个月，Optimus（擎天柱）人形机器人就能做到倒垃圾、洗碗并将碗碟收进橱柜等家务劳动。 马斯克表示，Optimus 有望在 12 至 18 个月内完成多步骤复杂操作，先用于重工业，再进入家庭。 此外马斯克透露，新一轮 Optimus 人形机器人演示即将到来，预计将在未来一到两个月内举行。与以往不同的是，马斯克特别强调，这次演示必须足够“真实”，让外界看到机器人在日常互动中的实际表现，而不是经过精心编排的展示片段。 马斯克在采访中表示：“Optimus 的进展"
+  },
+  {
+   "title": "全球限量 19 台：Caviar 推出《GTA6》系列高定手机，可选苹果 iPhone Duo、三星 Galaxy Z Fold8 Ultra 等",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/029/545.htm",
+   "published": "2026-11-19T09:20:41+00:00",
+   "age_hours": 4.7,
+   "score": 7.5,
+   "summary": "IT之家 11 月 19 日消息，奢侈品制造商 Caviar 现已推出「Most Wanted」（最高通缉）系列高定手机，可选苹果 iPhone 18 Pro、iPhone 18 Pro Max、iPhone Duo 和 三星 Galaxy Z Fold8 Ultra ，每款机型全球限量 19 台， 售价区间为 11,130 至 15,630 美元 （IT之家注：现汇率约合 74,357 元至 10.4 万元人民币） 。 从外形和配色来看，这几台限量版手机显然是致敬了《GTA6》游戏。不过 Caviar 官方并不承认这一点，只是说“以迈阿密为原型打造”。 其中，iPhone 18 Pro 和 "
+  },
+  {
+   "title": "AI 是移动网络未来十年最大战略机遇：华为发布下一代核心网演进白皮书，提出 AgenticCore 解决方案",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/029/540.htm",
+   "published": "2026-11-19T09:02:41+00:00",
+   "age_hours": 5.0,
+   "score": 7.5,
+   "summary": "IT之家 11 月 19 日消息，今日，由 Informa Tech 主办的第十一届全球核心网峰会上，华为云核心网产品线总裁高治国发表主题演讲。同时，华为发布《 下一代核心网演进白皮书 》， 提出下一代核心网目标架构与演进路径 。 ▲ 华为云核心网产品线总裁高治国发表主题演讲 高治国指出，未来 5 至 10 年，Agentic AI 将跨越式演进，向全终端、全业务、全场景深度渗透。 移动网络联接对象从人和物拓展至智能体，推动网络服务从基础联接走向智能联接、超越联接 。核心网向下联接终端、向上使能业务，打造先进的下一代核心网，是移动网络把握智能体时代机遇的关键抓手。 华为提出 NGC（Next-"
+  },
+  {
+   "title": "Elon Musk tries to explain what’s going on with Ukraine and Starlink",
+   "source": "The Verge",
+   "link": "https://www.theverge.com/tech/1037448/elon-musk-ukraine-starlink-starshield-nyt-dealbook",
+   "published": "2026-11-19T01:39:45+00:00",
+   "age_hours": 12.4,
+   "score": 7.5,
+   "summary": "Elon Musk said Ukrainian president Volodymyr Zelenskyy is lying about disruptions to Starshield in Ukraine and that he's trying to misuse SpaceX's consumer service, Starlink, for military purposes. Musk made the comments at The New York Times' DealBook Summit on Wednesday as he tried to explain the "
+  },
+  {
+   "title": "Elon Musk says: ‘I’m not MAGA’",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/18/elon-musk-says-im-not-maga/",
+   "published": "2026-11-19T00:40:49+00:00",
+   "age_hours": 13.3,
+   "score": 7.5,
+   "summary": "During his appearance Wednesday at The New York Times' DealBook Summit, Elon Musk said that he wasn't sure what the term \"MAGA\" meant and also commented that he felt \"pretty foolish\" for having spent so much money during the U.S. midterms."
+  },
+  {
+   "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
+   "published": "2026-11-18T23:45:00+00:00",
+   "age_hours": 14.3,
+   "score": 7.5,
+   "summary": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world."
+  },
+  {
+   "title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
+   "published": "2026-11-18T23:25:17+00:00",
+   "age_hours": 14.6,
+   "score": 7.5,
+   "summary": "“I don’t think [Huang is] disloyal to the United States,\" Musk said."
+  }
+ ]
+}

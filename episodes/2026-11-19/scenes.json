@@ -1,0 +1,56 @@
+{
+ "date": "2026-11-19",
+ "episode": 10,
+ "scenes": [
+  {
+   "type": "open",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "type": "story",
+   "start": 6,
+   "end": 26,
+   "title": "Meta Muse 乱报银行余额",
+   "source": "Ars Technica",
+   "link": "https://arstechnica.com/tech-policy/2026/11/muse-privacy-invasions-are-freaking-out-meta-staffers-internal-chats-show/"
+  },
+  {
+   "type": "story",
+   "start": 27,
+   "end": 40,
+   "title": "英伟达全员大会安抚军心",
+   "source": "WIRED",
+   "link": "https://www.wired.com/story/inside-nvidias-first-all-hands-without-jensen-huang-as-ceo/"
+  },
+  {
+   "type": "story",
+   "start": 41,
+   "end": 53,
+   "title": "Anthropic 上市敲钟",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/"
+  },
+  {
+   "type": "story",
+   "start": 54,
+   "end": 57,
+   "title": "纳德拉解释 6 万人买断",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/"
+  },
+  {
+   "type": "story",
+   "start": 58,
+   "end": 68,
+   "title": "今日快瓜连发",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/029/682.htm"
+  },
+  {
+   "type": "outro",
+   "start": 69,
+   "end": 75
+  }
+ ]
+}
