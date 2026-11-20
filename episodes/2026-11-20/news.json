@@ -1,0 +1,282 @@
+{
+ "date": "2026-11-20",
+ "weekday": "星期五",
+ "window_hours": 24,
+ "fetched_at": "2026-11-20T14:01:02.432584+00:00",
+ "failed_feeds": [
+  "Reddit r/technology: network: HTTPError: HTTP Error 404: Not Found",
+  "Hacker News (frontpage): network: URLError: <urlopen error timed out>"
+ ],
+ "candidates": [
+  {
+   "title": "DeepSeek 新一轮千亿级融资落地，梁文锋保留绝对控制权",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/030/199.htm",
+   "published": "2026-11-20T10:47:45+00:00",
+   "age_hours": 3.2,
+   "score": 10.0,
+   "summary": "IT之家 11 月 20 日消息，工商信息显示，DeepSeek 运营主体杭州深度求索人工智能基础技术研究有限公司近日完成工商变更，新增股东杭州程砚企业管理咨询合伙企业（有限合伙）。 IT之家查询国家企业信用信息公示系统获悉，杭州深度求索注册资本由 1644.7496 万元增至 1991.8707 万元，增加 347.1211 万元，增幅约 21.1%。 据证券时报援引知情交易人士消息， DeepSeek 本轮融资募资规模区间在 1000 亿元至 1055 亿元 ，投后估值约 6155 亿元。叠加 2026 年 6 月首轮约 510 亿元融资，市场测算其短时间内两轮累计吸纳资金将超 1500 "
+  },
+  {
+   "title": "消息称林俊旸从阿里离职后创办的 AI 公司语用科技完成新一轮融资，估值达 50 亿美元",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/030/176.htm",
+   "published": "2026-11-20T09:59:30+00:00",
+   "age_hours": 4.0,
+   "score": 10.0,
+   "summary": "IT之家 11 月 20 日消息，据彭博社报道，林俊旸（yáng）从阿里离职后，今年夏天创立的语用科技 Pragmatik Labs 已完成新一轮融资， 估值达 50 亿美元 （IT之家注：现汇率约合 334.6 亿元人民币） 。 知情人士透露，语用科技在近期完成的一轮融资中筹集了数千万美元。今年 8 月，该公司在数亿美元的首轮融资中获得 20 亿美元 （现汇率约合 133.84 亿元人民币） 估值。 知情人士称，新晋投资方包括华业天成资本（HyT Capital）、鼎晖投资（CDH Investments）以及汽车制造商吉利汽车控股有限公司。 公开资料显示，出生于 1993 年的林俊旸，曾是"
+  },
+  {
+   "title": "Anthropic 上市当天，离职研究员考克森在其总部外呼吁禁止 AI 递归自我改进",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/030/127.htm",
+   "published": "2026-11-20T09:06:53+00:00",
+   "age_hours": 4.9,
+   "score": 10.0,
+   "summary": "IT之家 11 月 20 日消息，据《商业内幕》报道，今年 9 月，Anthropic 前研究员雅各布 · 考克森 因担忧 AI 发展而离职 ，并在美国引发了对 AI 技术的广泛恐慌。时间来到当地时间 19 日，随着 Anthropic 股票首次上市交易，考克森再次呼吁公众关注 AI 安全问题。 这次，他在接受采访时强调：“ 他们买不买股票根本不重要。我们必须阻止递归自我改进 。” IT之家注：“递归自我改进”指 让先进 AI 系统参与训练下一代 AI ，从而推动 AI 能力不断提升。 当天，考克森与数十名抗议者聚集在 Anthropic 旧金山总部外，要求禁止有关技术。 抗议者举着标语、高喊"
+  },
+  {
+   "title": "The unfolding Jensen Huang scandal: a timeline",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+   "published": "2026-11-19T20:18:49+00:00",
+   "age_hours": 17.7,
+   "score": 10.0,
+   "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure."
+  },
+  {
+   "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
+   "published": "2026-11-19T17:38:40+00:00",
+   "age_hours": 20.4,
+   "score": 10.0,
+   "summary": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn't belong to them."
+  },
+  {
+   "title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
+   "published": "2026-11-19T16:59:23+00:00",
+   "age_hours": 21.0,
+   "score": 10.0,
+   "summary": "Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised."
+  },
+  {
+   "title": "What’s With All These Outages?",
+   "source": "WIRED",
+   "link": "https://www.wired.com/story/uncanny-valley-podcast-whats-with-all-these-outages/",
+   "published": "2026-11-19T21:57:01+00:00",
+   "age_hours": 16.1,
+   "score": 9.5,
+   "summary": "This week on “Uncanny Valley,” we discuss the outages that have swept digital life over the past week, where new money from Anthropic’s IPO is going, and the AI chip world post-Jensen Huang."
+  },
+  {
+   "title": "华为余承东：享界 V8 上市 2 小时，大定突破 2216 台",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/030/229.htm",
+   "published": "2026-11-20T12:03:32+00:00",
+   "age_hours": 2.0,
+   "score": 9.0,
+   "summary": "IT之家 11 月 20 日消息，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东发文表示，享界 V8 上市 2 小时，大定突破 2216 台。 享界 V8 今天正式上市！ 上市 2 小时，大定突破 2216 台 ！感谢大家的支持。 这台 MPV 很多设计巧思，都来自家庭用户真实的用车需求。674L 超大后备箱带下沉空间，婴儿车不用折叠就能直接放下，7 人满载还能装下 10 个 20 寸行李箱；全系标配 ±12° 后轮转向，这么大的车，窄路掉头也很轻松；首创三排五重安全防护，把每一个座位都照顾到。 这些细节都是享界 V8 为家而生的 100 个设计的一部分，百份设计，百分诚意！ "
+  },
+  {
+   "title": "Regular Tech Bros Are Worried About Honeypots",
+   "source": "WIRED",
+   "link": "https://www.wired.com/story/regular-tech-bros-are-worried-about-honeypots/",
+   "published": "2026-11-20T11:00:00+00:00",
+   "age_hours": 3.0,
+   "score": 9.0,
+   "summary": "The Jensen Huang scandal is the latest fuel for dating anxieties among newly rich and powerful tech workers."
+  },
+  {
+   "title": "岚图梦想家 9 右舵版将于 12 月 15 日香港市场上市，内地售价 41.99 万元起",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/030/194.htm",
+   "published": "2026-11-20T10:17:42+00:00",
+   "age_hours": 3.7,
+   "score": 9.0,
+   "summary": "IT之家 11 月 20 日消息，岚图汽车宣布旗下梦想家 9 右舵版将于 12 月 15 日在中国香港正式上市。 作为参考，岚图梦想家 9 上市于今年 9 月 22 日，售价区间为 41.99 万元至 51.99 万元。邵明峰曾在此前透露，该车已在香港特别行政区完成路试，当地销售和售后服务体系正在同步搭建，新车预计 12 月中旬在香港上市。 据IT之家此前报道 ，岚图梦想家 9 定位“新时代旗舰 MPV”，提供 Ultra、Ultra+ 和礼尊版三个版型，涵盖插混和纯电两种动力形式。该车二排座椅拥有旋转、横滑、零重力及机械按摩等功能，基于全域 L3 级电子电气架构打造，搭载华为乾崑智驾 ADS"
+  },
+  {
+   "title": "百度（香港）违法实施经营者集中，国家市场监督管理总局对其罚款 50 万元",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/030/136.htm",
+   "published": "2026-11-20T09:36:03+00:00",
+   "age_hours": 4.4,
+   "score": 9.0,
+   "summary": "IT之家 11 月 20 日消息，国家市场监督管理总局对百度（香港）有限公司收购欢聚集团部分业务违法实施经营者集中案作出行政处罚决定。 处罚决定书提到， 百度（香港）负有依法申报经营者集中的法律义务 ，申报后未经批准实施集中，违反修改前的《反垄断法》第二十五条规定， 构成违法实施经营者集中 。依据修改前的《反垄断法》第二十七条规定，评估认为本项集中不具有排除、限制竞争的效果。 IT之家获悉，根据修改前的《反垄断法》第四十八条、第四十九条的规定，国家市场监督管理总局 决定对百度香港处以 50 万元人民币罚款的行政处罚 。"
+  },
+  {
+   "title": "为水豚客户组装键盘：游戏《KeyCapy》发布预告",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/030/123.htm",
+   "published": "2026-11-20T08:54:21+00:00",
+   "age_hours": 5.1,
+   "score": 9.0,
+   "summary": "IT之家 11 月 20 日消息，由捷克个人开发者 Vojtěch Peták 开发的经营模拟游戏《KeyCapy》近日发布了预告。 在该作中， 玩家将扮演一家小型客制化工作室的经营者 ，为水豚客户组装、维修键盘或设计独家创意键盘，每一个选择都会改变键盘成品的声音效果。 ▲ 键帽方案 ▲ 轴体安装 本作计划发行日期即将宣布，最低配置需求如下： 操作系统: Windows 10 64-bit 处理器: Intel Core i5-4460 or AMD FX-8350 or equivalent 内存: 8 GB RAM 显卡: NVIDIA GeForce GTX 1050 Ti / AMD "
+  },
+  {
+   "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+   "published": "2026-11-20T00:43:50+00:00",
+   "age_hours": 13.3,
+   "score": 9.0,
+   "summary": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion."
+  },
+  {
+   "title": "早报｜苹果招人打造「接管电脑」的AI智能体/史上最大IPO，Anthropic上市/华为官宣Mate 90 Air主打轻薄",
+   "source": "爱范儿",
+   "link": "https://www.ifanr.com/1690473?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "published": "2026-11-20T00:29:44+00:00",
+   "age_hours": 13.5,
+   "score": 9.0,
+   "summary": "· 旅行者 1 号距地球达一光日，信号单程需 24 小时 · 网易 UU 远程将上线付费会员，基础远控继续免费 · 腾讯大幅削减元宝投入，微信小微日活达 3000 万 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+  },
+  {
+   "title": "Anthropic’s IPO could deliver $156B to charity",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
+   "published": "2026-11-19T19:10:45+00:00",
+   "age_hours": 18.8,
+   "score": 9.0,
+   "summary": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion."
+  },
+  {
+   "title": "Behind Jensen Huang’s exit, questions about a management style reportedly built on fear",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/20/behind-jensen-huangs-exit-questions-about-a-management-style-reportedly-built-on-fear/",
+   "published": "2026-11-20T13:25:00+00:00",
+   "age_hours": 0.6,
+   "score": 8.0,
+   "summary": "Elon Musk may have been overstating it when he said Nvidia’s employees “love” the ousted Jensen Huang."
+  },
+  {
+   "title": "California AG subpoenas Nvidia over worries about Huang’s ties with China",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/",
+   "published": "2026-11-20T13:21:11+00:00",
+   "age_hours": 0.7,
+   "score": 8.0,
+   "summary": "\"The conduct of Nvidia and its former CEO raises bright red flags, including about the ways in which the company may have misled investors,\" California AG Rob Bonta said."
+  },
+  {
+   "title": "昇腾算力训出了双榜SOTA的具身世界模型，华为云这次想把整套底座开放出来",
+   "source": "量子位",
+   "link": "https://www.qbitai.com/2026/11/511610.html",
+   "published": "2026-11-20T08:04:58+00:00",
+   "age_hours": 5.9,
+   "score": 8.0,
+   "summary": "国产算力的成熟，把具身竞争维度从「芯片有多强」，拉入了一个比拼训练效率、数据规模、部署成本和场景落地速度的多维战场。"
+  },
+  {
+   "title": "刚刚，Anthropic 敲钟上市！史上最大IPO却让硅谷吵翻了",
+   "source": "爱范儿",
+   "link": "https://www.ifanr.com/1690375?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "published": "2026-11-19T14:58:57+00:00",
+   "age_hours": 23.0,
+   "score": 8.0,
+   "summary": "例如，为什么就你 A 社封号这么严格 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+  },
+  {
+   "title": "Muse Is Unleashing a World of Pettiness on Instagram",
+   "source": "WIRED",
+   "link": "https://www.wired.com/story/muse-is-unleashing-a-world-of-pettiness-on-instagram/",
+   "published": "2026-11-20T12:00:00+00:00",
+   "age_hours": 2.0,
+   "score": 7.5,
+   "summary": "Meta’s AI assistant can track and unfollow Instagram users who don’t follow you back—and some people are taking full advantage."
+  },
+  {
+   "title": "三年销售目标 700 亿，京东与华为 OSTA 星芒达成战略合作",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/030/227.htm",
+   "published": "2026-11-20T11:51:33+00:00",
+   "age_hours": 2.2,
+   "score": 7.5,
+   "summary": "IT之家 11 月 20 日消息，华为全新子品牌“OSTA 星芒”今日正式亮相，“首款为 AI 而生的鸿蒙手机”OSTA O1 Pro 同步发布，首发价 5499 元起。 IT之家获悉，近日，京东与华为 OSTA 星芒签署战略合作协议， 明确未来三年华为 OSTA 星芒在京东实现全品类销售额 700 亿的目标 。 根据协议，双方将围绕产品服务、用户运营、AI 生态协同三大维度深化合作，助力华为 OSTA 星芒加速市场拓展，推动智能终端产品与 AI 服务创新，为消费者带来更丰富的产品与服务体验。 此外，双方将 共创更多基于鸿蒙操作系统的 AI 创新产品 ，并通过一体化供应链能力与全渠道服务场景协"
+  },
+  {
+   "title": "影石 Mic Pro、Wave 两款麦克风获升级，可原生接入腾讯 WorkBuddy",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/030/221.htm",
+   "published": "2026-11-20T11:19:32+00:00",
+   "age_hours": 2.7,
+   "score": 7.5,
+   "summary": "IT之家 11 月 20 日消息，影石官方宣布，即日起，影石 Insta360 旗下旗舰级无线麦克风 Mic Pro 与 AI 录音全向麦克风 Wave 完成免费固件升级，原生接入腾讯 WorkBuddy。 升级后，Mic Pro 的录音可 直接进入 AI 工作流 ，影石的音频产品也从「记录工具」延伸为 AI 办公的语音入口。 影石方面称，Mic Pro 和 Wave 凭借专业拾音与 AI 降噪能力，帮助用户清晰捕捉真实工作场景中的声音。WorkBuddy 则 进一步理解录音内容，调用 AI Agent 完成信息整理与任务处理 。AI 不再局限于电脑中的文字输入，更能自然地参与现实世界的沟通与"
+  },
+  {
+   "title": "小米 MiMo：Token Plan 的 Pro / Max 套餐限时支持 UltraSpeed 超高速推理模型",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/030/193.htm",
+   "published": "2026-11-20T10:11:05+00:00",
+   "age_hours": 3.8,
+   "score": 7.5,
+   "summary": "IT之家 11 月 20 日消息，小米 MiMo 官方文档显示，11 月 19 日起， Token Plan 限时支持 UltraSpeed 超高速旗舰推理模型 。 Token Plan 的 Pro / Max 套餐现已限时开放和支持 MiMo-V2.6-Pro-UltraSpeed 超高速推理模型，兼具旗舰级智能与更快的响应速度，模型调用更高效、交互体验更流畅。 据介绍，MiMo-V2.6-Pro-UltraSpeed 兼顾 V2.6-Pro 性能， 提供最高 20 倍输出速度 ；适合量化交易、实时风控、科学研究、实时编程辅助等场景。 IT之家附小米 MiMo Token Plan 个人版价"
+  },
+  {
+   "title": "欧洲央行行长拉加德：AI 加剧网络攻击威胁，使我夜不能寐",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/030/191.htm",
+   "published": "2026-11-20T10:06:09+00:00",
+   "age_hours": 3.9,
+   "score": 7.5,
+   "summary": "IT之家 11 月 20 日消息，据路透社报道，当地时间 20 日，欧洲央行行长克里斯蒂娜 · 拉加德发出警告，随着 AI 智能体日益先进，网络攻击的威胁也随之加剧，可能成为全球金融业当前面临的最大挑战。 拉加德在法兰克福举行的欧洲银行业大会上坦言，政策制定者尚未充分重视这一威胁。“ 真正让我和在座许多人夜不能寐的，就是 AI 与网络威胁的结合 。” 综合IT之家此前报道，当地时间 19 日，欧盟委员会证实 遭受了利用 AI 工具进行的网络攻击 。有关此事的调查尚未结束，事态规模暂难判断。 今年 10 月，法国数百家超市的商用冷藏柜和冷冻柜因黑客攻击停运。此前，驶往美国的船只、美国的水处理厂和"
+  },
+  {
+   "title": "法院批准交易，谷歌 1000 万美元收购精神航空数据过关",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/030/137.htm",
+   "published": "2026-11-20T09:40:55+00:00",
+   "age_hours": 4.3,
+   "score": 7.5,
+   "summary": "IT之家 11 月 20 日消息，据外媒 The Record 报道，美国纽约联邦破产法官当地时间 17 日批准 Google（谷歌）收购破产廉价航空公司 Spirit Airlines（精神航空）企业数据。 该交易价值 1,000 万美元 （IT之家注：现汇率约合 6,692 万元人民币） 。 这些数据将用于改进谷歌的产品与人工智能模型 。 图源：Pexels 虽然谷歌在交易伊始就表示将对该批数据进行匿名化处理，但该交易仍一度遭遇空乘工会和美国国会议员的强烈反对。 为使这项交易被放行，谷歌表示将排除精神航空员工的医疗健康数据、安全纪律记录、身份证明文件等敏感信息，严格进行去标识化处理并需通过"
+  },
+  {
+   "title": "支持华为 OSTA 星芒 O1 Pro 手机满速充电：华为 66W 冰糖全能充电器 89 元国补发车",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/030/126.htm",
+   "published": "2026-11-20T08:58:11+00:00",
+   "age_hours": 5.0,
+   "score": 7.5,
+   "summary": "华为 OSTA 星芒 O1 Pro 鸿蒙 AI 手机现已开启预约，首发国补价 4999 元今天 18:08 开抢。 京东 华为 OSTA 星芒 O1 Pro 鸿蒙 AI 手机 4999 元起 18:08 开抢 直达链接 本次手机包装内并不附赠充电器，华为 66W 冰糖全能充电器日常 99 元，今日天猫旗舰店部分地区国补后仅需 89 元： 天猫 华为 冰糖全能充电器 Max 66W 国补后 89 元限地区 直达链接 手机包装清单： 手机 (内置电池) × 1 USB Type-C 数据线 × 1 透明保护壳 × 1 快速指南 × 1 取卡针 × 1 保护膜 (出厂已贴在手机上) × 1"
+  },
+  {
+   "title": "5499 元起，“首款为 AI 而生的鸿蒙手机”华为星芒 OSTA O1 Pro 阔直板正式发布",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/030/120.htm",
+   "published": "2026-11-20T08:43:27+00:00",
+   "age_hours": 5.3,
+   "score": 7.5,
+   "summary": "IT之家 11 月 20 日现场消息，在目前正在进行的华为鸿蒙智行享界 V8 及星芒品牌发布会中，华为星芒 OSTA O1 Pro 正式亮相，该机采用了具有辨识度的阔直板设计，IT之家整理价格信息如下： 12GB RAM+256GB 存储空间：5699 元，首发价 5499 元 12GB RAM+512GB 存储空间：6699 元，首发价 6499 元 16GB RAM+512GB 存储空间：7499 元，首发价 7299 元 16GB RAM+1TB 存储空间：8999 元，首发价 8799 元 该机厚度 6.68mm，重量约 200g，提供星芒紫、星云白、星空黑三款配色可选。配备一块 6."
+  },
+  {
+   "title": "4999 元起 18:08 开抢：华为 OSTA 星芒 O1 Pro 鸿蒙 AI 手机首发加赠 1588 元无忧礼包",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/030/116.htm",
+   "published": "2026-11-20T08:38:39+00:00",
+   "age_hours": 5.4,
+   "score": 7.5,
+   "summary": "华为 OSTA 星芒 O1 Pro 鸿蒙 AI 手机京东现已开启预约，今天 18:08 截止预约后 立即开抢 。 支持 12 期免息，教育优惠 100 元，预约下单加赠官方礼盒 + 1588 元无忧礼包。 每人每 90 天内限购 2 单哦： 京东 华为 OSTA 星芒 O1 Pro 鸿蒙 AI 手机 4999 元起 18:08 开抢 直达链接 官方定价 5699 元起，首发立减 200 元，叠加 500 元国补，实付仅需 4999 元起。 1588 元无忧礼包内含： 京东 华为 OSTA 星芒 O1 Pro 鸿蒙 AI 手机 18:08 开抢 直达链接"
+  },
+  {
+   "title": "鸿蒙全新版本来袭！华为星芒 OSTA O1 Pro 官宣首搭 HarmonyOS 7 AI 先锋版系统",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/030/101.htm",
+   "published": "2026-11-20T08:34:20+00:00",
+   "age_hours": 5.4,
+   "score": 7.5,
+   "summary": "IT之家 11 月 20 日现场消息，在今天下午的鸿蒙智行享界 V8 及星芒品牌发布会上，华为官方宣布，星芒开山之作 —— OSTA O1 Pro 是首款为 AI 而生的鸿蒙手机。 IT之家从发布会现场了解到， 华为星芒 OSTA O1 Pro 还官宣首搭 HarmonyOS 7 AI 先锋版系统 ，支持全新 AI 交互、系统主动智能和长期陪伴成长。 值得一提的是， 华为星芒 OSTA O1 Pro 还搭载了业界首个系统级 AI 屏 ：开屏即用，一步直达。"
+  },
+  {
+   "title": "SK 海力士将可转债转为股票，间接持有铠侠 14.1% 股份成第一大股东",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/030/096.htm",
+   "published": "2026-11-20T08:33:35+00:00",
+   "age_hours": 5.5,
+   "score": 7.5,
+   "summary": "IT之家 11 月 20 日消息，据韩联社报道，SK 海力士今日发布公告称，将把特殊目的公司 SPC2 发行的 1,290 亿日元 （IT之家注：现汇率约合 54.03 亿元人民币） 可转换债券转换为 12.9 万股普通股。 此外，SK 海力士决定以 1 亿日元 （现汇率约合 418.8 万元人民币） 进一步收购美国私募股权基金贝恩资本（Bain Capital）持有的 1001 股 SPC2 普通股。 转换完成后， SK 海力士将通过 SPC2 间接持有铠侠 14.1% 的股份，成为其第一大股东 。截至本月初，第二大股东为持股 10.46% 的东芝。 SK 海力士相关人士表示：“此次债转股并"
+  }
+ ]
+}

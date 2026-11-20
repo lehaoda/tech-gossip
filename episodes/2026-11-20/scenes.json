@@ -1,0 +1,48 @@
+{
+ "date": "2026-11-20",
+ "episode": 11,
+ "scenes": [
+  {
+   "type": "open",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "type": "story",
+   "start": 6,
+   "end": 30,
+   "title": "Anthropic 上市首日",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026-11-19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/"
+  },
+  {
+   "type": "story",
+   "start": 31,
+   "end": 48,
+   "title": "加州总检察长传唤英伟达",
+   "source": "California DOJ",
+   "link": "https://oag.ca.gov/news/press-releases/attorney-general-bonta-serves-investigative-subpoena-nvidia"
+  },
+  {
+   "type": "story",
+   "start": 49,
+   "end": 64,
+   "title": "DeepSeek 千亿融资落地",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/030/199.htm"
+  },
+  {
+   "type": "story",
+   "start": 65,
+   "end": 78,
+   "title": "今日快瓜连发",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/030/176.htm"
+  },
+  {
+   "type": "outro",
+   "start": 79,
+   "end": 87
+  }
+ ]
+}
