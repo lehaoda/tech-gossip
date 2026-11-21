@@ -5,7 +5,7 @@
     <description>每天一期 10-20 分钟的娱乐科技节目「科技八卦局」:首席吃瓜官瓜仔带你聊科技大佬的争议与故事、大厂竞争内幕、AI 创业圈秘闻。素材来自 TechCrunch、The Verge、WIRED、量子位、IT之家、Hacker News 等公开报道与社区讨论,事实与传闻分开表述,每集描述附原始来源链接。</description>
     <link>https://lehaoda.github.io/tech-gossip</link>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 20 Nov 2026 08:40:31 -0600</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 08:33:12 -0600</lastBuildDate>
     <image>
       <url>https://lehaoda.github.io/tech-gossip/cover.png</url>
       <title>科技八卦局</title>
@@ -22,6 +22,16 @@
     </itunes:owner>
     <itunes:category text="Technology"/><itunes:category text="IT &amp; Software"/>
     <itunes:image href="https://lehaoda.github.io/tech-gossip/cover.png"/>
+  <item>
+    <title>科技八卦局 2026-11-21 · 第12期</title>
+    <description><![CDATA[<p>本期吃瓜原料与原始来源:</p><ul><li>黄仁勋「说谎」风波:英伟达董事会内部真相 <a href="https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/">黄仁勋「说谎」风波:英伟达董事会内部真相</a></li><li>AI 股重挫与伯里放话 <a href="https://www.ithome.com/1/030/378.htm">AI 股重挫与伯里放话</a></li><li>Claude 证明黎曼猜想? <a href="https://www.qbitai.com/2026/11/511727.html">Claude 证明黎曼猜想?</a></li><li>Meta 重估 2030 净零目标 <a href="https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/">Meta 重估 2030 净零目标</a></li><li>苹果 NameDrop 被诉(印度) <a href="https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/">苹果 NameDrop 被诉(印度)</a></li><li>三星存储产能被锁定至 2031(并入股票段,作爆料) <a href="https://www.ithome.com/1/030/475.htm">三星存储产能被锁定至 2031(并入股票段,作爆料)</a></li></ul>]]></description>
+    <link>https://lehaoda.github.io/tech-gossip/#2026-11-21</link>
+    <guid isPermaLink="true">https://lehaoda.github.io/tech-gossip/#2026-11-21</guid>
+    <pubDate>Sat, 21 Nov 2026 08:33:12 -0600</pubDate>
+    <enclosure url="https://podcast.lehaoda.com/tech_gossip/episodes/2026-11-21.m4a" type="audio/mp4" length="6736362"/>
+    <itunes:duration>801</itunes:duration>
+    <itunes:image href="https://lehaoda.github.io/tech-gossip/cover.png"/>
+  </item>
   <item>
     <title>科技八卦局 2026-11-20 · 第11期</title>
     <description><![CDATA[<p>本期吃瓜原料与原始来源:</p><ul><li>Anthropic 上市首日：开盘 111.5 美元（较 83 美元发行价高 34%），收 97.17 涨 17%，史上最大 IPO（超 SpaceX），7 位创始人各套现约 2.8 亿美元，另配 260 亿美元私募 <a href="https://techcrunch.com/2026-11-19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/">Anthropic 上市首日：开盘 111.5 美元（较 83 美元发行价高 34%），收 97.17 涨 17%，史上</a></li><li>IPO 当天前研究员 Jacob Coxon 在 Anthropic 旧金山总部外带「Ban RSI」抗议，100 多人、4 人被捕，纽约 Nasdaq 前也有被捕者 <a href="https://www.ithome.com/1/030/127.htm">IPO 当天前研究员 Jacob Coxon 在 Anthropic 旧金山总部外带「Ban RSI」抗议，100 多人</a></li><li>加州总检察长 Bonta 向英伟达发出调查传票：查芯片/机密信息是否流入中国、是否误导投资者；黄仁勋同意 12 月 1 日国会笔录式问询 <a href="https://oag.ca.gov/news/press-releases/attorney-general-bonta-serves-investigative-subpoena-nvidia">加州总检察长 Bonta 向英伟达发出调查传票：查芯片/机密信息是否流入中国、是否误导投资者；黄仁勋同意 12 月 1 </a></li><li>DeepSeek 第二轮千亿融资完成工商变更：募 1000 亿至 1055 亿元、投后估值约 6155 亿、新增 31 位合伙人、腾讯与宁德时代并列最大（持股平台约 9.57%）、梁文锋直接+间接持股约 67.4%、据报聘请中信证券筹备科创板 IPO <a href="https://www.ithome.com/1/030/199.htm">DeepSeek 第二轮千亿融资完成工商变更：募 1000 亿至 1055 亿元、投后估值约 6155 亿、新增 31 </a></li><li>林俊旸创办的语用科技 Pragmatik Labs 完成新一轮融资，估值 50 亿美元，华业天成/鼎晖/吉利入局 <a href="https://www.ithome.com/1/030/176.htm">林俊旸创办的语用科技 Pragmatik Labs 完成新一轮融资，估值 50 亿美元，华业天成/鼎晖/吉利入局</a></li><li>Meta Muse 可追踪并取关 Instagram 未回关用户，多人拿它批量清理粉丝 <a href="https://www.wired.com/story/muse-is-unleashing-a-world-of-pettiness-on-instagram/">Meta Muse 可追踪并取关 Instagram 未回关用户，多人拿它批量清理粉丝</a></li><li>市场监管总局对百度（香港）罚 50 万元：收购欢聚集团部分业务未申报先实施，违法实施经营者集中，认定不具有排除限制竞争效果 <a href="https://www.ithome.com/1/030/136.htm">市场监管总局对百度（香港）罚 50 万元：收购欢聚集团部分业务未申报先实施，违法实施经营者集中，认定不具有排除限制竞争效</a></li><li>拉加德：AI 与网络威胁组合「令我与在场许多人夜不能寐」；欧盟委员会上周证实遭 AI 工具网络攻击，调查未结 <a href="https://www.ithome.com/1/030/191.htm">拉加德：AI 与网络威胁组合「令我与在场许多人夜不能寐」；欧盟委员会上周证实遭 AI 工具网络攻击，调查未结</a></li></ul>]]></description>
