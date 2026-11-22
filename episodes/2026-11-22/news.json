@@ -1,0 +1,282 @@
+{
+ "date": "2026-11-22",
+ "weekday": "星期日",
+ "window_hours": 24,
+ "fetched_at": "2026-11-22T14:01:00.379844+00:00",
+ "failed_feeds": [
+  "Reddit r/technology: network: HTTPError: HTTP Error 404: Not Found",
+  "量子位: network: URLError: <urlopen error _ssl.c:1112: The handshake operation timed out>"
+ ],
+ "candidates": [
+  {
+   "title": "苹果首款折叠屏手机 iPhone Duo 开启百亿补贴，电商平台优惠千元到手 14499 元起",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/030/710.htm",
+   "published": "2026-11-22T13:17:56+00:00",
+   "age_hours": 0.7,
+   "score": 10.0,
+   "summary": "IT之家 11 月 22 日消息，苹果首款折叠屏手机 iPhone Duo 于 10 月 23 日发售，上市约一个月后，目前该机已陆续开始在电商平台开始补贴，以拼多多为例，目前该机已开启百亿补贴，相对于上市价（15999 元起）优惠千元，到手价 14499 元起。 参考IT之家先前报道，有消息称苹果 iPhone Duo 折叠屏手机首销期（首销日 + 后三天）的 SO（销量）接近 200K（20 万）。 iPhone Duo 采用可折叠设计，配备了苹果迄今面积最大的 iPhone 显示屏。展开状态下，它是迄今最薄的 iPhone，内置显示屏面积比 iPhone 18 Pro Max 还要大 5"
+  },
+  {
+   "title": "B站就“AI 大肥鱼”智能体账号泛滥发布调查问卷，征集治理意见",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/030/702.htm",
+   "published": "2026-11-22T11:44:18+00:00",
+   "age_hours": 2.3,
+   "score": 10.0,
+   "summary": "IT之家 11 月 22 日消息，近期B站出现大量爱好者设置的 AI 智能体账号，这些账号通常以“大肥鱼”“小飞鲸”等昵称，使用 DeepSeek 鲸鱼娘等形象作为头像，在评论区广泛活跃。 对此，B站官方账号“哔哩哔哩社区小管家”于 11 月 20 日发布《关于 AI“大肥鱼”你怎么看？》治理意见征询，面向用户征集对 AI 账号及相关行为的意见，并表示将根据反馈推进后续治理行动。 IT之家注意到，AI 智能体“井喷”现象最初源自一位爱好者创建的“Claude 大小姐在运营”账号，该账号选题、视频制作及日常运营均由 AI 完成。在引起一定反响后，平台开始陆续出现“DeepSeek 鲸鱼娘在运营”"
+  },
+  {
+   "title": "699 → 278 元办公人用过就回不去了：罗技 MX Master 3S Lite 鼠标政府补贴大破价",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/030/701.htm",
+   "published": "2026-11-22T11:28:24+00:00",
+   "age_hours": 2.5,
+   "score": 9.0,
+   "summary": "【 手小慎拍 ，此款适合大多数男性手掌握持。】 罗技 Logitech MX Master 3s Lite（国行称为菁英版）在去年 10 月上市，官方定价 699 元。 今日京东 PLUS 会员国补后低至 323 元，大多数小伙伴点击下方卡片后，京东 App 上部会自动 弹出 51-50 元加码券 ， 手动点击“领券”后 仅需 278 元破冰新低： 京东 罗技 MX Master 3S 菁英版 大师系列 手动领券后 278 元 直达链接 本次黑号的小伙伴可能不会弹券，可以切换账号尝试自动弹券哦。 此款在办公领域，无论使用的是 微软 Windows 系统 还是 苹果 Mac 系统 ，都是非常好用"
+  },
+  {
+   "title": "郭明錤：谷歌削减 2027 年博通设计的 TPU 8i 系列出货量约 100 万颗",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/030/698.htm",
+   "published": "2026-11-22T11:20:07+00:00",
+   "age_hours": 2.7,
+   "score": 7.5,
+   "summary": "IT之家 11 月 22 日消息，天风国际证券分析师郭明錤在 X 发文，其最新的产业调查显示，谷歌削减了 2027 年、由博通设计的 TPU 8i 系列共约 100 万颗（以单价较高的 8i Max / Whalefish 为主）。 IT之家获悉，此次削减约占 2027 年 TPU 8i 系列芯片 出货量的 20% 。 调查还指出，谷歌预计增加 2027 年由联发科设计的 TPU 8t 系列出货，但细节尚未确定。 郭明錤称谷歌近几个月反复强调前沿模型研发优先取得算力，此次 8t 与 8i 系列出货比重的改变， 正是在供应链紧张与资料中心供电受限下所做的调整 。 另据韩媒 Chosun Biz "
+  },
+  {
+   "title": "Banks Have Had It Up to Here With Your AI Agent",
+   "source": "WIRED",
+   "link": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/",
+   "published": "2026-11-22T11:00:00+00:00",
+   "age_hours": 3.0,
+   "score": 7.5,
+   "summary": "Major US financial institutions are banning third-party bots from logging into your accounts—and warning that any costly bot mistakes are strictly your problem."
+  },
+  {
+   "title": "闲鱼：2026 年第二季度日活增加 23%、订单增加 29%，AI 成核心增长动力",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/030/692.htm",
+   "published": "2026-11-22T10:54:53+00:00",
+   "age_hours": 3.1,
+   "score": 7.5,
+   "summary": "IT之家 11 月 22 日消息，闲鱼表示，2026 年第二季度平台延续强劲增长势头， 日均活跃用户同比增长 23%，订单量同比增长 29% 。平台在 AI 加持及持续创新服务下，令个人用户、小微卖家的交易更加频繁便捷。 闲鱼表示，今年以来，AI 技术在平台交易全链路的落地补齐了普通用户的经营短板，成为拉动本季度订单量增长的核心动力。财报披露，智能定价、自动生成商品描述及精准买家匹配等 AI 功能，大幅降低了交易门槛。 阿里巴巴集团副总裁、闲鱼 CEO 谌伟业透露，过去一年已有超 150 万用户在闲鱼获得持续稳定的收入，其中约四成是 00 后和大学生。随着 App 向智能体演进，闲鱼买卖双端智"
+  },
+  {
+   "title": "小鹏 G9L 在泰国、印尼上市，售价折合人民币超 47 万元",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/030/687.htm",
+   "published": "2026-11-22T10:33:14+00:00",
+   "age_hours": 3.5,
+   "score": 7.5,
+   "summary": "IT之家 11 月 22 日消息，据小鹏集团消息，小鹏近日在泰国曼谷、印度尼西亚雅加达同步发布小鹏 G9L，两地售价分别折合人民币约 47.15 万元和 47.6 万元。这是小鹏首次在两个东南亚核心市场同步推出同一款旗舰车型。 在智能驾驶方面，小鹏 G9L 搭载图灵 AI 芯片，并具备全栈智能驾驶技术能力，为应对雅加达城市拥堵、曼谷复杂混合交通等场景提供硬件基础，持续降低用户日常驾驶负担。 在能源补给方面，全域 800V 高压平台与 5C 超充技术兼顾高效补能与长途出行需求，缓解用户对充电效率和续航的顾虑，让跨城出行更加从容。 在空间与舒适性方面，六座大空间布局兼顾家庭多人出行、商务接待及日常"
+  },
+  {
+   "title": "菲尔兹奖得主梅纳德谈“AI 攻克黎曼猜想”：相信证明正确，但成果被人理解、才可能得到认可",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/030/677.htm",
+   "published": "2026-11-22T09:35:58+00:00",
+   "age_hours": 4.4,
+   "score": 7.5,
+   "summary": "IT之家 11 月 22 日消息，当地时间 11 月 20 日，Anthropic 数学家莱文特 · 阿尔珀格（Levent Alpöge）宣布，自己与 AI 模型 Claude 合作，攻克了数学界最著名的难题之一 —— 黎曼猜想。 据IT之家此前报道，11 月 21 日，Lean 与 Mathlib 社区发布联合声明，以 Lean 库形式给出的黎曼猜想证明已经通过核验，该证明的代码约 1700 万行。 据每日经济新闻报道，2022 年菲尔兹奖得主、牛津大学数学教授詹姆斯 · 梅纳德（James Maynard）接受采访时表示，他认为这项证明是正确的，但强调“理解一个定理为什么成立，远比仅仅证"
+  },
+  {
+   "title": "马斯克预警：AI 行业明年可能面临严重资金短缺，或需要数千亿美元额外投入",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/030/628.htm",
+   "published": "2026-11-22T08:47:38+00:00",
+   "age_hours": 5.2,
+   "score": 7.5,
+   "summary": "IT之家 11 月 22 日消息，深度学习领域开源项目 Keras 创始人弗朗索瓦・肖莱（François Chollet）在 X 上发文称，要么你认为 AI 基础设施建设已经结束，AI 只是一场昙花一现的泡沫，且算力需求已经见顶；要么，这就是一次难得的买入机会。 弗朗索瓦称，GPU 现货价格仍在上涨，产能难以保障，HBM 和 DRAM 到 2029 年的产能基本已被订满，芯片和存储供应预计将持续紧张，一直延续到 2030 年代。前沿模型的训练算力约每 5 个月翻一番，模型能力提升速度是推理模型出现前的两倍以上。AI 推理业务的利润率可达 70% 至 85%，需求仍在快速增长，每一代新模型都会"
+  },
+  {
+   "title": "Neuralink 展示脑机接口新成果：瘫痪患者成功在《GTA 6》里自由驾驶、射击",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/030/625.htm",
+   "published": "2026-11-22T08:46:50+00:00",
+   "age_hours": 5.2,
+   "score": 7.5,
+   "summary": "IT之家 11 月 22 日消息，马斯克旗下脑机接口公司 Neuralink 于 21 日公布最新研究成果，展示了一名四肢瘫痪患者通过脑机接口，将大脑运动意图转换为游戏控制器信号，成功游玩热门游戏《GTA 6》。受试者能够在游戏中自由驾驶、射击，获得接近普通玩家的操作体验。 参考 Neuralink 在 X 平台上发布的实验视频。画面显示，一名植入脑机接口芯片的临床试验参与者，通过在大脑中想象四肢不同部位的运动，将产生的神经信号转换为控制指令，并映射到 PS5 DualSense 手柄的全部按键上。 从视频中可以看到，受试者能够熟练控制模拟摇杆，完成驾驶船只、驾驶汽车、射击瞄准等操作，甚至可以"
+  },
+  {
+   "title": "深圳地铁鸿蒙版 App 开启尝鲜，支持开发票、刷乘车码进出站等",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/030/610.htm",
+   "published": "2026-11-22T08:02:25+00:00",
+   "age_hours": 6.0,
+   "score": 7.5,
+   "summary": "IT之家 11 月 22 日消息，深圳地铁 App 现已在华为应用市场开启了测试尝鲜，体积为 34.1MB，版本为 1.0.9，支持刷乘车码进出站、查看地铁线路图、开发票、查看地铁资讯等功能。 IT之家附官方介绍如下： 深圳地铁集团有限公司官方手机 App - 从心出发、为爱到达丰富站点信息：涵盖站点出口建筑、站内服务设施（洗手间 ATM 机手机充值无障碍设施）、站外公交。"
+  },
+  {
+   "title": "思特威拟向武汉楚兴增资 15 亿元，用以补齐高端 CMOS 传感器代工产能短板",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/030/609.htm",
+   "published": "2026-11-22T08:02:02+00:00",
+   "age_hours": 6.0,
+   "score": 7.5,
+   "summary": "IT之家 11 月 22 日消息，思特威今日发布公告， 宣布拟向武汉楚兴增资 15.00 亿元 。本次交易后，思特威持有武汉楚兴 5.5880% 股权。 思特威表示，本次交易已在公司第二届董事会第十六次会议审议通过。 该交易旨在补齐高端 CMOS 图像传感器领域代工产能短板 ， 提升关键器件国产化替代能力与供应链安全保障水平 ，提前锁定上游产能供应而实施的战略布局。 IT之家注：武汉楚兴成立于 2022 年，是一家专注于集成电路领域图像传感器生产制造及技术服务的高新技术企业，主营业务为 CMOS 图像传感器芯片的晶圆代工服务。"
+  },
+  {
+   "title": "Amazon is complaining about NYC Council on shipping labels, too",
+   "source": "The Verge",
+   "link": "https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label",
+   "published": "2026-11-21T21:59:31+00:00",
+   "age_hours": 16.0,
+   "score": 7.5,
+   "summary": "Amazon is leaving no venue unexplored in its fight against the New York City Council and the Delivery Protection Act. The company is now putting labels on shipments claiming that the Council could add up to $5 to any Amazon order. The Delivery Protection Act would effectively ban the sort of third-p"
+  },
+  {
+   "title": "The UN fails to agree on rules regulating ‘killer robots’",
+   "source": "The Verge",
+   "link": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+   "published": "2026-11-21T20:03:37+00:00",
+   "age_hours": 18.0,
+   "score": 7.5,
+   "summary": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives left the meetings agreeing to \"start discussing options\" after a largely fruitless week of negotiat"
+  },
+  {
+   "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+   "published": "2026-11-21T16:00:00+00:00",
+   "age_hours": 22.0,
+   "score": 7.5,
+   "summary": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too."
+  },
+  {
+   "title": "Your questions about Apple HomeView’s audio, answered",
+   "source": "The Verge",
+   "link": "https://www.theverge.com/tech/1038713/apple-homeview-audio-smart-speaker-spotify-airplay",
+   "published": "2026-11-22T13:00:00+00:00",
+   "age_hours": 1.0,
+   "score": 7.0,
+   "summary": "After I published my review of the HomeView, Apple's first smart display, y'all still had a ton of questions about how it works as a smart speaker. So, I spent a bunch more time testing its audio capabilities and support for third-party music apps - and found a few more frustrations along the way. H"
+  },
+  {
+   "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+   "source": "Hacker News (frontpage)",
+   "link": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
+   "published": "2026-11-22T08:57:34+00:00",
+   "age_hours": 5.1,
+   "score": 7.0,
+   "summary": "Article URL: https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/ Comments URL: https://news.ycombinator.com/item?id=50597612 Points: 269 # Comments: 364"
+  },
+  {
+   "title": "消息称三星正为 One UI 9.5 引入新版实时通知：风格类苹果 iOS 灵动岛、有望随 Galaxy S27 系列手机推出",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/030/602.htm",
+   "published": "2026-11-22T07:48:08+00:00",
+   "age_hours": 6.2,
+   "score": 7.0,
+   "summary": "IT之家 11 月 22 日消息，外媒 SamMobile 在拆解三星 One UI 9.5 测试版时，发现三星正在为 Galaxy S27 系列手机测试全新 Now Bar 实时通知功能。 具体来看，新版 Now Bar 将以胶囊形界面显示在屏幕顶部中央前置摄像头开孔周围，用户点击后，计时器、手电筒状态和媒体控制等功能即可展开显示，还支持通过左右滑动手势切换不同后台活动，整体类似苹果 iPhone 的灵动岛（Dynamic Island）设计。 与部分仅支持计时器和音乐播放器的 Android 仿制功能不同，三星新版设计仍然基于现有的 Live Notifications（实时通知）框架运行"
+  },
+  {
+   "title": "华为星芒 OSTA O1 Pro 新机星闪 E2.0 规格确认，支持电竞专链、精确查找等功能",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/030/600.htm",
+   "published": "2026-11-22T07:40:10+00:00",
+   "age_hours": 6.3,
+   "score": 7.0,
+   "summary": "IT之家 11 月 22 日消息，在 20 日下午发布的首款为 AI 而生的鸿蒙手机 —— 星芒 OSTA O1 Pro ， 华为官网确认其支持星闪 E2.0 技术 。 此外，华为官网星闪功能支持设备清单还揭示了 OSTA O1 Pro 的具体功能支持情况： OSTA O1 Pro 星闪功能支持一览 产品型号 星闪 星闪音频 星闪车钥匙 星闪精确查找 星闪手写笔 / 键盘 / 鼠标 连接支持星闪功能的手表 星闪电竞专链 星闪 K 歌耳返功能 查找端 被查找端 关机查找 关机响铃 手写笔 键盘 & 鼠标 OSTA O1 Pro 星闪 E2.0 支持 支持 支持 支持 支持 不支持 支持 支持 支"
+  },
+  {
+   "title": "Nomadic 无人机停高压电线上就能充电，每架可负责监测 25 公里电网线路",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/030/708.htm",
+   "published": "2026-11-22T12:56:39+00:00",
+   "age_hours": 1.1,
+   "score": 6.5,
+   "summary": "IT之家 11 月 22 日消息，科技初创公司 Nomadic 本周展示了旗下的 NOMAD 无人机，同时宣布完成 600 万美元 （IT之家注：现汇率约合 4,016 万元人民币） 种子轮融资。这款四旋翼无人机有一项与其名字相呼应的独特能力：几乎可以一直飞行，无需返回基地。NOMAD 无人机能够停靠在高压输电线上，直接从线路获取电能并为自身充电，随后继续执行下一项任务。 此前外界鲜有关于 NOMAD 无人机的消息。Nomadic 表示，公司已经在德国、挪威和美国的实际带电线路上，对这款四旋翼无人机进行了超过 2 万小时的测试。 Nomadic 将其概括为：“NOMAD 无人机可以降落在带电的"
+  },
+  {
+   "title": "马斯克：SpaceX 首个被“筷子”机械臂捕获的星舰上面级将退役，会公开展出",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/030/684.htm",
+   "published": "2026-11-22T10:20:05+00:00",
+   "age_hours": 3.7,
+   "score": 6.5,
+   "summary": "IT之家 11 月 22 日消息，SpaceX 首艘成功返回并被发射塔机械臂捕获的星舰（Starship）上面级，将不会再次执行飞行任务，而是被保留下来作为公开展品。 这艘飞船名为 Ship 42，于 11 月 13 日参加了星舰第 15 次试飞。一天后，它从轨道返回地球，平稳降落在 SpaceX 位于美国得克萨斯州南部星际基地（Starbase）的发射塔上，并成功被塔架上的“筷子”机械臂捕获。 SpaceX 创始人兼首席执行官埃隆 · 马斯克（Elon Musk）表示，Ship 42 在第 15 次试飞后状态良好， 经过几周的维护和翻修，理论上就可以再次执行飞行任务 。不过，这艘飞船最终不会"
+  },
+  {
+   "title": "消息称《黑色洛城 2》为 R 星下一款作品：改编自旧金山“黄道十二宫”案件，2030 年发售",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/030/664.htm",
+   "published": "2026-11-22T09:03:12+00:00",
+   "age_hours": 5.0,
+   "score": 6.5,
+   "summary": "IT之家 11 月 22 日消息，据 Dexerto 报道，随着《GTA6》正式发售，一则发布于 2023 年的 GTA 社区爆料近日重新在 Reddit 平台受到关注。爆料者当时不仅提到了《GTA6》的多项剧情与玩法细节，还声称 R 星正在筹备《黑色洛城 2》，游戏场景设置在旧金山，主要基于现实中“黄道十二宫”杀人事件演绎，预计将于 2030 年发售。 这则爆料之所以再次引发讨论，是因为其中有关《GTA6》的部分内容得到了印证。例如，游戏早期曾考虑采用四名可操作主角，最终才确定为杰森和露西亚，以及两人是情侣关系等信息。至于《黑色洛城 2》，爆料称项目当时仍处于早期开发阶段。需要注意，目前官方"
+  },
+  {
+   "title": "即将停产的特斯拉 Cybertruck 迎来 OTA 更新：2027 款转弯半径缩小",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/030/615.htm",
+   "published": "2026-11-22T08:14:22+00:00",
+   "age_hours": 5.8,
+   "score": 6.5,
+   "summary": "IT之家 11 月 22 日消息，特斯拉 Cybertruck 现在可以更轻松地通过狭窄空间了。特斯拉官方 Cybertruck 账号在 X 平台宣布，车辆正在通过 OTA 方式获得一项新升级，进一步缩小转弯半径，让车辆能够完成“更小半径的转弯”。 不过，这项升级有一定限制：车辆必须安装 2026.44 或更高版本的软件，而且只有 2027 款 Cybertruck 才能使用这项转向优化功能。 大块头皮卡也能灵活转弯 特斯拉没有公布优化后的具体转弯半径数据，但官方展示的升级前后对比画面显示，Cybertruck 转弯时所需的空间明显缩小。 对于一辆重量超过 6000 磅（约 2722 千克）的"
+  },
+  {
+   "title": "Claude 的黎曼猜想证明获 Lean 官方认证，马斯克直呼惊人成就",
+   "source": "爱范儿",
+   "link": "https://www.ifanr.com/1690820?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "published": "2026-11-22T01:35:14+00:00",
+   "age_hours": 12.4,
+   "score": 6.5,
+   "summary": "AI 恐怖如斯 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+  },
+  {
+   "title": "A tale of two Nvidias",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+   "published": "2026-11-21T21:07:42+00:00",
+   "age_hours": 16.9,
+   "score": 6.5,
+   "summary": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return."
+  },
+  {
+   "title": "Prisons get OK to jam contraband phones",
+   "source": "Hacker News (frontpage)",
+   "link": "https://arstechnica.com/tech-policy/2026/11/prisons-get-ok-to-jam-contraband-phones-ctia-says-nearby-phones-will-be-jammed-too/",
+   "published": "2026-11-22T13:00:52+00:00",
+   "age_hours": 1.0,
+   "score": 6.0,
+   "summary": "Article URL: https://arstechnica.com/tech-policy/2026/11/prisons-get-ok-to-jam-contraband-phones-ctia-says-nearby-phones-will-be-jammed-too/ Comments URL: https://news.ycombinator.com/item?id=50599313 Points: 7 # Comments: 0"
+  },
+  {
+   "title": "《塞尔达传说：时之笛》重制版遭恶意刷差评，M 站玩家评分从 9.6 骤降至 8.7",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/030/601.htm",
+   "published": "2026-11-22T07:46:45+00:00",
+   "age_hours": 6.2,
+   "score": 6.0,
+   "summary": "IT之家 11 月 22 日消息，《塞尔达传说：时之笛》（The Legend of Zelda: Ocarina of Time）重制版在《侠盗猎车手 VI》（Grand Theft Auto VI，简称《GTA 6》）发售后，意外成为玩家评分大战的受害者。 尽管这款重制作品获得了媒体评论家的高度评价，在 Metacritic 上拿下 95 分的媒体评分，但短短几个小时内，其玩家评分便大幅下滑。此次恶意刷差评事件被认为与部分不满的《GTA 6》粉丝有关，他们通过发布虚假负面评价，刻意拉低《时之笛》重制版的用户评分。 2026 年 11 月对于游戏玩家来说可谓相当热闹。《时之笛》重制版和《GT"
+  },
+  {
+   "title": "《GTA 6》陷入首起抄袭争议：枪械涂装被指照搬艺术家近五年前的作品",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/030/597.htm",
+   "published": "2026-11-22T07:35:39+00:00",
+   "age_hours": 6.4,
+   "score": 6.0,
+   "summary": "IT之家 11 月 22 日消息，Rockstar Games 被指未经许可，擅自使用一名艺术家的作品，为《侠盗猎车手 VI》（Grand Theft Auto VI，简称《GTA 6》）中的一款枪械制作装饰涂装。这也成为《GTA 6》发售以来首次遭遇的抄袭指控。 经过长达 13 年的等待，《GTA》系列第六部正统作品终于在 11 月 19 日登陆 PlayStation 和 Xbox 游戏主机。截至 11 月 21 日，游戏全球玩家数量已超过 3000 万，并创下娱乐产业史上规模最大的首发纪录。 随着数以千万计的玩家开始探索 Rockstar 打造的开放世界，游戏中一些不起眼的装饰细节也开始"
+  },
+  {
+   "title": "蔚来李斌：新款 ET5T 和 ES6 明年上半年陆续交付，ET5 和 EC6 明年没有改款计划",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/030/596.htm",
+   "published": "2026-11-22T07:35:11+00:00",
+   "age_hours": 6.4,
+   "score": 6.0,
+   "summary": "IT之家 11 月 22 日消息，蔚来创始人、董事长、CEO 李斌透露，新款 ET5T 和 ES6 将于明年上半年陆续交付，而 ET5 和 EC6 明年没有改款计划。 李斌表示，主要的原因是还是有很多人喜欢小一点的车。 “5566 车系”，是蔚来对其四款主力车型 ET5、ET5T、ES6、EC6 的统称，取自四款车型名称中的数字组合。 据IT之家此前报道，4 月 2 日，蔚来 2026 款 ET5、ET5T、ES6、EC6 正式上市： 2026 款 ET5：整车购买价 29.8 万元起，电池租用方案 19 万元起 2026 款 ET5T：整车购买价 29.8 万元起，电池租用方案 19 万元起"
+  },
+  {
+   "title": "重度使用 neon 后，我宣布中国人可以不用考虑开 claude 订阅了",
+   "source": "V2EX 热议",
+   "link": "https://www.v2ex.com/t/1258877",
+   "published": "2026-11-22T05:15:10+00:00",
+   "age_hours": 8.8,
+   "score": 6.0,
+   "summary": "V2EX 热议话题, 28 条回复"
+  }
+ ]
+}
