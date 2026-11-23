@@ -1,0 +1,282 @@
+{
+ "date": "2026-11-23",
+ "weekday": "星期一",
+ "window_hours": 24,
+ "fetched_at": "2026-11-23T14:01:50.267412+00:00",
+ "failed_feeds": [
+  "Reddit r/technology: network: HTTPError: HTTP Error 404: Not Found",
+  "Google News Tech: network: HTTPError: HTTP Error 429: Too Many Requests"
+ ],
+ "candidates": [
+  {
+   "title": "A Power Provider for Meta Urged Regulators to Exempt Data Center Plants From Acid Rain Rules",
+   "source": "WIRED",
+   "link": "https://www.wired.com/story/a-power-provider-for-meta-urged-regulators-to-exempt-data-center-plants-from-acid-rain-rules/",
+   "published": "2026-11-23T10:15:00+00:00",
+   "age_hours": 3.8,
+   "score": 10.0,
+   "summary": "Before the EPA recommended waiving acid rain regulations for certain data-center power plants, it met with industry players—including Williams, a gas power provider for Meta data centers."
+  },
+  {
+   "title": "日本工业机器人制造商安川电机：AI 人形机器人将在 2030 年正式推出",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/030/954.htm",
+   "published": "2026-11-23T08:30:50+00:00",
+   "age_hours": 5.5,
+   "score": 10.0,
+   "summary": "IT之家 11 月 23 日消息，日本工业机器人制造商安川电机 (YASAKAWA) 人工智能机器人统括部长久保田由美惠当地时间本月 20 日接受日本共同社采访时表示， 该企业计划在人形机器人领域追赶当前领先的美中企业 。 久保田由美惠称， 安川电机正在开发中的 AI 人形机器人将在 2030 年正式推出 ，具体投放时间也可能根据客户实际需求提前。 安川电机目标让人形机器人承担现有机器人无法实现自动化的作业，将人类从高强度体力劳动中解放出来。但人形机器人仍存在自主任务学习能力有限的问题，安川电机计划与富士通、英伟达一道探索解决方案。 此外，安川电机曾在 2025 年收购日本初创企业 Tokyo"
+  },
+  {
+   "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+   "published": "2026-11-23T01:25:53+00:00",
+   "age_hours": 12.6,
+   "score": 10.0,
+   "summary": "Three significant backers share what gave them conviction to bet billions on Anthropic."
+  },
+  {
+   "title": "能地上跑天上飞！我国“无翼飞车”原型机首飞成功，技术路线全球独家",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/031/201.htm",
+   "published": "2026-11-23T12:52:59+00:00",
+   "age_hours": 1.1,
+   "score": 9.0,
+   "summary": "IT之家 11 月 23 日消息，据央视新闻今日报道，我国“无翼飞车”原型机首飞成功。 IT之家查询获悉，这是全球首款采用多级矢量涵道风扇动力系统的载人飞行器原型机，技术路线跟市面上常见的飞行汽车都不太一样， 目前是全球独家 。该车航程 300 公里，最大起飞重量 280 公斤，落地后可直接上路行驶。 值得一提的是， 此前特斯拉 Roadster 在飞行演示中也运用了涵道风扇的相关技术 。 但这辆无翼飞车与 Roadster 在这种技术上有着本质区别 。Roadster 利用冷气体推进器产生腾空推力，底盘风扇则通过形成负压来增加抓地力，风扇并不能提供飞行动力。而“无翼飞车”原型机的涵道风扇直接"
+  },
+  {
+   "title": "消息称鸿蒙智行尊界 SUV 将亮相广州车展，华为余承东曾透露该车“非常非常高端”",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/030/974.htm",
+   "published": "2026-11-23T08:46:46+00:00",
+   "age_hours": 5.3,
+   "score": 9.0,
+   "summary": "IT之家 11 月 23 日消息，博主 @电车总裁 今日发文透露， 鸿蒙智行尊界 SUV 将亮相广州车展 ，不过该车预计是在“小黑屋”展示，仅部分受邀人士可提前参观。 据IT之家此前报道，今年 9 月，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东现身合肥鸿蒙智行门店。博主 @我鸿 分享了余承东在现场的接受门店工作人员提问的视频。 门店工作人员向余承东询问尊界 SUV 有没有“小惊喜”。 余承东表示， 这台新车“快了”，明年年初可能就要陆续上市，大概在 2、3 月份 。他透露， 尊界 SUV 非常非常高端 ，价格上也非常有诚意，会远超大家的期望，定价也会非常有竞争力。新车在外观"
+  },
+  {
+   "title": "Meta Muse can do your Black Friday shopping at Walmart",
+   "source": "The Verge",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday",
+   "published": "2026-11-23T11:00:00+00:00",
+   "age_hours": 3.0,
+   "score": 8.0,
+   "summary": "Walmart will let Meta's Muse shop on its website on your behalf, allowing the AI agent to find and purchase Black Friday deals. Tomorrow, on Tuesday November 24th, the retail giant will roll out a live implementation of the Agent Gateway it announced last month, which helps AI agents find relevant p"
+  },
+  {
+   "title": "丹麦拟于 2027 年新学年在中小学推行校园手机禁令，并限制访问社交媒体、游戏网站",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/031/205.htm",
+   "published": "2026-11-23T13:36:41+00:00",
+   "age_hours": 0.4,
+   "score": 7.5,
+   "summary": "IT之家 11 月 23 日消息，据路透社报道，丹麦教育部当地时间周一表示，计划从 2027 年新学年开始，在全国小学和初中推行手机禁令，同时对学校网络实施内容过滤，限制学生访问与学习无关的网站。 IT之家注意到，近年来，出于对智能手机影响学生注意力和行为表现的担忧，荷兰、韩国和意大利等国家已经实施校园手机禁令。今年 6 月，波兰和捷克也提出了类似计划。 丹麦教育部长马格努斯 · 海乌尼克（Magnus Heunicke）在一份声明中表示：“孩子们应该能够在不受到社交媒体、网络购物和游戏等事物持续干扰的情况下上学。” 此次拟议的禁令不仅针对智能手机，还涵盖其他能够连接互联网的私人电子设备。 与"
+  },
+  {
+   "title": "Nvidia Is Powering Brain-Computer Interfaces Now",
+   "source": "WIRED",
+   "link": "https://www.wired.com/story/nvidia-is-powering-brain-computer-interfaces-now/",
+   "published": "2026-11-23T13:11:48+00:00",
+   "age_hours": 0.8,
+   "score": 7.5,
+   "summary": "Brain-computer interface company Paradromics is using Nvidia’s computing hardware and software to process brain data."
+  },
+  {
+   "title": "儿童权益保护组织喊话亚马逊、eBay：别卖 AI 玩具了",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/031/203.htm",
+   "published": "2026-11-23T13:15:12+00:00",
+   "age_hours": 0.8,
+   "score": 7.5,
+   "summary": "IT之家 11 月 23 日消息，由 155 家儿童权益保护组织组成的联盟近日向亚马逊和 eBay 首席执行官发出公开信，呼吁两家电商平台停止销售搭载人工智能技术的玩具。联盟指出，这类产品价格低廉、购买门槛低，却缺乏充分的安全测试，可能给儿童带来多方面的风险。 公开信列举了 AI 玩具存在的诸多问题，包括生成色情内容、夸大未经证实的教育效果、侵犯用户隐私，以及向儿童提供寻找和使用家中危险物品的指导等。 IT之家注意到，这封公开信发布之际，美国公共利益研究组织（ U.S . PIRG）刚刚公布了年度玩具安全调查报告。报告发现，与去年相比，部分 AI 玩具在安全性方面取得了重要进展，但仍有一些产品"
+  },
+  {
+   "title": "华为 × 澳门电讯联合发布 Wi-Fi 感知服务，支持动态感知并识别家庭成员活动状态",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/031/196.htm",
+   "published": "2026-11-23T12:25:48+00:00",
+   "age_hours": 1.6,
+   "score": 7.5,
+   "summary": "IT之家 11 月 23 日消息，据华为光网今日分享，澳门电讯（CTM）携手华为联合发布“AI-FTTR”宽带服务，并基于华为 FTTR 全光组网解决方案的智能计算能力，融合 AI Wi-Fi 感知及 AI Wi-Fi 抗干扰两大核心技术，推出 Wi-Fi 感知服务商用套餐。 ▲ 图源：华为光网 | 澳门电讯与华为联合创新，发布 Wi-Fi 感知服务 据介绍，传统家庭宽带仅提供连接服务，增值服务空间受限，这已成为全球运营商共同关注的课题。澳门电讯围绕家庭网络体验痛点，发布 AI Wi-Fi 感知与 AI Wi-Fi 抗干扰技术服务，实现从“被动连接”到“主动感知、智能优化”的升级。 AI Wi"
+  },
+  {
+   "title": "马斯克：星巴克咖啡师也能建 AI 数据中心，SpaceX 培训几天就能上岗",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/031/190.htm",
+   "published": "2026-11-23T11:58:09+00:00",
+   "age_hours": 2.1,
+   "score": 7.5,
+   "summary": "IT之家 11 月 23 日消息，SpaceX 首席执行官埃隆 · 马斯克（Elon Musk）表示，公司最优秀的数据中心建设人员，可能曾经是咖啡师，也可能只是零售商店里的货架理货员。 本周早些时候，马斯克通过远程连线方式参加了在美国奥斯汀举行的 TomorrowX 峰会。他在会上表示：“我们有些最优秀的员工此前从未参与过数据中心建设。” 马斯克透露，SpaceX 已经组建了一支内部团队，名为“ArmyX”。 这支团队将建设数据中心所需的各项工作拆解成更小的任务，并将其设计成“只需几天就能培训掌握”的工作内容 。 马斯克表示：“我们不需要那些一辈子都在铺设网络线缆的人。我们会把工作拆解成不同任"
+  },
+  {
+   "title": "Meta 在美国一小镇建造其全球最大数据中心，居民生活剧变",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/031/164.htm",
+   "published": "2026-11-23T11:17:37+00:00",
+   "age_hours": 2.7,
+   "score": 7.5,
+   "summary": "IT之家 11 月 23 日消息，据 BusinessInsider 报道，多年来，苏珊 · 李（Susan Lee）最喜欢做的事情之一，就是站在路易斯安那州自家院子里，拍摄夕阳缓缓落在附近田野上的美景。 如今，那片田野已经变成了一座规模庞大的建筑工地。 “我们的日落美景已经没了。”她 42 岁的女儿里基 · 古德温（Rikki Goodwin）在今年 9 月接受采访时说，“现在映入眼帘的是两个漂亮的水箱、一栋橙色建筑、一栋灰色建筑，还有几根高大的柱子。” 李和古德温是当地居民中的一员。他们正在适应一位新邻居的到来：Meta。 这家科技巨头正在路易斯安那州霍利里奇（Holly Ridge）附近"
+  },
+  {
+   "title": "2026 华为乾崑生态大会定档 11 月 26 日在广州国际车展举行",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/031/163.htm",
+   "published": "2026-11-23T11:13:22+00:00",
+   "age_hours": 2.8,
+   "score": 7.5,
+   "summary": "IT之家 11 月 23 日消息，华为乾崑 App 显示， 2026 华为乾崑生态大会将于 11 月 26 日在广州车展举行 。 据华为智能汽车解决方案 BU CEO 靳玉志此前预热， 华为与生态伙伴打造的“十分钟华为乾崑智驾生活圈”将在本届华为乾崑生态大会上亮相 。 今年 9 月，华为智能汽车解决方案 BU 官方微博宣布，乾崑智驾和鸿蒙座舱搭载量、华为乾崑 App 用户数 200 万里程碑同步达成。 据IT之家此前报道，在今年 7 月的 2026 华为乾崑媒体日上，华为智能汽车解决方案 BU CEO 靳玉志透露，从 2023 年到 2026 年，华为乾崑智驾的算力增长超过 20 倍。靳玉志认"
+  },
+  {
+   "title": "States Sue SpaceX Over Grok Deepfakes",
+   "source": "WIRED",
+   "link": "https://www.wired.com/story/states-sue-spacex-over-grok-deepfakes/",
+   "published": "2026-11-23T11:00:00+00:00",
+   "age_hours": 3.0,
+   "score": 7.5,
+   "summary": "The attorneys general of Oregon and Virginia are suing several of Elon Musk’s companies, alleging they implemented weak safeguards against sexualized imagery of real people, including children."
+  },
+  {
+   "title": "Inside Google’s Failure to Make Google Maps Work for Palestinians",
+   "source": "WIRED",
+   "link": "https://www.wired.com/story/inside-googles-failure-to-make-google-maps-work-for-palestinians/",
+   "published": "2026-11-23T10:30:00+00:00",
+   "age_hours": 3.5,
+   "score": 7.5,
+   "summary": "One product manager made it his mission to accurately map Israeli checkpoints in the West Bank on the world’s most popular navigation app. Then the company undid his work."
+  },
+  {
+   "title": "李健回应华为推出子品牌星芒：对荣耀不用有任何担心，已经走出了自己的道路",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/031/092.htm",
+   "published": "2026-11-23T09:55:15+00:00",
+   "age_hours": 4.1,
+   "score": 7.5,
+   "summary": "IT之家 11 月 23 日消息，在今天的 荣耀 700 系列追光之旅暨全场景新品发布会后，荣耀 CEO 李健，荣耀产品线总裁方飞，荣耀品牌营销部总裁、全球 CMO 关海涛与媒体对话。 日前，华为正式推出子品牌星芒，并发布首款产品。谈及此事，李健表示， 对荣耀不用有任何担心 ，现在的荣耀不是六年前的荣耀， 荣耀已经走出了自己的道路 。 他强调，荣耀的手机业务明年只会比今年更好； 另外荣耀也不只是一个手机厂商了，会有五个新的产业一步步出来 。 据IT之家此前报道，有博主询问荣耀关海涛，华为推出子品牌星芒会不会对荣耀有影响？关海涛对此回应称：欢迎星芒，一起荣耀！ 这件事最大的意义，就是让大家知道荣"
+  },
+  {
+   "title": "懂车帝回应“测试内容大调整”：信息多处失实，部分内容为 AI 撰写",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/031/091.htm",
+   "published": "2026-11-23T09:48:39+00:00",
+   "age_hours": 4.2,
+   "score": 7.5,
+   "summary": "IT之家 11 月 23 日消息，今日，有博主爆料称，懂车帝内部对公开测试发布了四项要求，包括不再开放对比类内容、想要发布公开测试类内容的账号必须有资质等。 据界面新闻报道，懂车帝内容运营人员表示，此轮变化系平台严格按照《网络测评活动规范》要求，对汽车创作者在平台发布部分场景内容的规则更新。 网传“内容大调整”“行业受影响”等信息多处失实，部分内容为 AI 撰写，未跟平台核实求证 。 参考IT之家此前报道，今年 9 月，工业和信息化部举行新闻发布会，介绍了我国智能网联新能源汽车产业发展有关情况。 对于汽车行业出现的非理性竞争行为，工业和信息化部装备工业一司司长郭守刚表示，汽车行业出现非理性竞争"
+  },
+  {
+   "title": "李健官宣荣耀阔折叠手机计划 2027 年 3 月亮相，透露“完全没有什么折痕”",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/031/085.htm",
+   "published": "2026-11-23T09:34:42+00:00",
+   "age_hours": 4.5,
+   "score": 7.5,
+   "summary": "IT之家 11 月 23 日消息，在今天的 荣耀 700 系列追光之旅暨全场景新品发布会后，荣耀 CEO 李健，荣耀产品线总裁方飞，荣耀品牌营销部总裁、全球 CMO 关海涛与媒体对话。 李健宣布，荣耀的阔折叠手机计划 2027 年 3 月亮相， 并透露该机“完全没有什么折痕” 。他还表示，荣耀在折叠屏工艺、续航和 AI 能力方面处于行业领先位置，后续还将持续推进相关技术创新。 方飞则表示， （荣耀阔折叠）真机已经有了 。 据IT之家此前报道，博主 @数码闲聊站 今年 9 月曾爆料，荣耀也有阔折叠手机， 搭载 2nm 骁龙新芯片，排期 2027Q1 ，希望能赶到春节前发布。根据该博主此前爆料，荣"
+  },
+  {
+   "title": "Akko 氛围编程输入设备灵动 Key 发售：整合麦克风功能、适配腾讯 WorkBuddy，268 元",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/031/055.htm",
+   "published": "2026-11-23T09:21:12+00:00",
+   "age_hours": 4.7,
+   "score": 7.5,
+   "summary": "IT之家 11 月 23 日消息，Akko（艾酷）旗下面向氛围编程开发的多功能输入设备灵动 Key 现已在京东发售。其支持三模连接，整合 3 颗按键、1 个旋钮、全向麦克风（蓝牙模式不支持收音）， 定价为 268 元 。 京东 AKKO 灵动 Key 268 元 直达链接 灵动 Key 拥有 CNC 工艺铝制机身，经 180 目喷砂与阳极氧化处理，整合 ARGB 背光；收音系统针对低音量进行专门优化，提升气声、低声转写准确率；适配腾讯 WorkBuddy。此外，其还支持办公会议控制、手机 / 平板遥控。 IT之家附产品参数："
+  },
+  {
+   "title": "《GTA6》里“特斯拉”自带防盗系统，初次偷车会被自动驾驶送到警察局",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/031/015.htm",
+   "published": "2026-11-23T09:06:21+00:00",
+   "age_hours": 4.9,
+   "score": 7.5,
+   "summary": "IT之家 11 月 23 日消息，电动汽车在《GTA 6》中成为主流交通工具之一，游戏中的罪恶城街头随处可见电动汽车和充电站。事实上，如果玩家尝试在游戏中偷窃电动汽车，可能会遇到意想不到的“惊喜”。 据外媒 4Gamers 报道，玩家在解锁钥匙复制器后，如果使用露西娅角色偷窃一款外观明显致敬特斯拉 Model S 的“旋风雷电（Cyclone Thunder）”汽车，上车后汽车便会激活防盗系统，随即锁闭车门开启自动驾驶，把玩家送到警察局。在这一过程中，车辆完全不受玩家控制，车门也无法正常打开，除非打破车窗才能逃离车内。 那么，玩家能否真正偷走这辆特斯拉呢？答案是可以，目前有两种方法。第一种是在"
+  },
+  {
+   "title": "开源工具 OLEDTextFix 公布，可改善 Windows 系统在 OLED 面板下文字清晰度不足、彩边等问题",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/030/964.htm",
+   "published": "2026-11-23T08:33:13+00:00",
+   "age_hours": 5.5,
+   "score": 7.5,
+   "summary": "IT之家 11 月 23 日消息，据外媒 Wccftech 报道，近期有开发者推出一款免费开源 Windows 工具 OLEDTextFix，尝试通过 GPU 图像处理技术改善 Windows 系统在 OLED 面板下出现文字清晰度不足、彩边等问题，IT之家附项目地址（ https://github.com/oguz463/OLEDTextFix ）。 外媒表示，微软 ClearType 字体平滑技术最初针对传统 LCD 显示器采用的 RGB 条纹排列设计，但许多 OLED 面板采用了不同的子像素排列方式，导致传统字体渲染算法无法准确适配。 例如，三星显示（Samsung Display）传统"
+  },
+  {
+   "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+   "published": "2026-11-22T21:14:07+00:00",
+   "age_hours": 16.8,
+   "score": 7.5,
+   "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed."
+  },
+  {
+   "title": "Arm CEO 雷内・哈斯续约至 2033 年，还将担任软银集团副董事长",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/031/200.htm",
+   "published": "2026-11-23T12:48:58+00:00",
+   "age_hours": 1.2,
+   "score": 6.5,
+   "summary": "IT之家 11 月 23 日消息，Arm 英国当地时间今日宣布， 其首席执行官 Rene Haas（雷内・哈斯）同意续约 ，将在 2033 年前继续引领这家企业迈向下一阶段的成长。 Rene Haas 还将自 2026 年 12 月 1 日起担任 Arm 最大股东软银集团 (SBG) 的副董事长。 Rene Haas 表示： 我对 Arm 的未来从未如此充满信心。我对我们的团队、我们的战略以及未来的发展机遇深信不疑。我为我们正在打造的事业感到无比自豪，并将全力以赴，在未来许多年里充分释放 Arm 的全部潜力。 相关阅读： 《 路透社：Arm 掌门人哈斯进入接棒黄仁勋候选视野，曾在英伟达工作 7"
+  },
+  {
+   "title": "44 Best Gifts Under $100 That WIRED Loves (2026)",
+   "source": "WIRED",
+   "link": "https://www.wired.com/gallery/best-gifts-under-100/",
+   "published": "2026-11-23T12:00:00+00:00",
+   "age_hours": 2.0,
+   "score": 6.5,
+   "summary": "Score a great gift for everyone on your list without breaking the bank. Every one of these gifts comes WIRED-recommended."
+  },
+  {
+   "title": "李健：荣耀已有多个定位清晰的产品系列，可以在合适时机推出子品牌",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/031/189.htm",
+   "published": "2026-11-23T11:57:58+00:00",
+   "age_hours": 2.1,
+   "score": 6.5,
+   "summary": "IT之家 11 月 23 日消息，荣耀未来会不会推出自己的子品牌？在今日的荣耀新品发布会媒体访谈中，荣耀 CEO 李健给出了回应： 荣耀已有多个定位清晰的产品系列，可以在合适的时候推出自己的子品牌 。 李健进一步表示， 荣耀只是在等待合适的时机 。不过，现场并未公布具体名称、推出时间，也没有透露是否会从现有产品系列中拆分。 据IT之家今日早些时候报道，在谈及华为推出子品牌星芒一事时，李健称，对荣耀不用有任何担心，现在的荣耀不是六年前的荣耀， 荣耀已经走出了自己的道路 。 他直言，越有竞争，越有挑战越兴奋，荣耀期待的是百花齐放，让消费者有更多的选择。此前还有博主询问荣耀关海涛，华为推出子品牌星芒"
+  },
+  {
+   "title": "网络安全大合并：CrowdStrike 宣布将以 439 亿美元全股票交易收购 Zscaler",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/031/188.htm",
+   "published": "2026-11-23T11:54:23+00:00",
+   "age_hours": 2.1,
+   "score": 6.5,
+   "summary": "IT之家 11 月 23 日消息，根据双方董事会一致批准的协议条款， 网络安全企业 CrowdStrike 计划以全股票交易收购同行 Zscaler 。这笔交易对 Zscaler 的估值约为 439 亿美元 （IT之家注：现汇率约合 2,933.11 亿元人民币） 。 每股 Zscaler 普通股将兑换为 1.135 股 CrowdStrike 普通股，这意味着每股 Zscaler 股票的隐含价值约为 260.41 美元，相较其 11 月 20 日收盘价 溢价约 34% 。交易完成后，Zscaler 现股东将在合并公司持股约 15.9%。 通过对 Zscaler 的收购，CrowdStrike"
+  },
+  {
+   "title": "微软为 Microsoft 365 数据库管理软件 Access 多个控件新增圆角半径属性，用户可自由调整",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/031/186.htm",
+   "published": "2026-11-23T11:54:00+00:00",
+   "age_hours": 2.1,
+   "score": 6.5,
+   "summary": "IT之家 11 月 23 日消息，微软宣布将为 Microsoft 365 数据库管理软件 Access 中的多种窗体控件引入 Corner Radius（圆角半径）属性功能，允许用户自定义界面元素的圆角半径，从而改善界面外观。 微软表示， 目前 Corner Radius 属性支持文本框、组合框、列表框、选项组、矩形、标签、图像控件、现代图表、附件控件和子窗体控件等 10 类元素 。后续命令按钮和切换按钮也将引入 Corner Radius 属性，以便与其他控件保持一致。 在支持该属性的窗体控件中，用户可以通过属性表设置 Corner Radius 数值，使用大于或等于 0 的整数控制圆角程"
+  },
+  {
+   "title": "2027 款林肯航海家将于 11 月 27 日广州车展上市：全新外观设计，明年初交付",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/031/185.htm",
+   "published": "2026-11-23T11:46:08+00:00",
+   "age_hours": 2.3,
+   "score": 6.5,
+   "summary": "IT之家 11 月 23 日消息，林肯汽车宣布旗下 2027 款林肯航海家将于 11 月 27 日广州车展上市，新车现已开启预定，预计明年初交付。 新车新增两款车漆，暗夜蓝为全系可选，紫色车漆为专属配色。车辆前脸配备全新加宽格栅，格栅外侧设置厚重黑色边框；前大灯组改为细款造型，前保险杠提供两种样式。车辆提供 19 至 22 英寸多款全新规格轮毂，车尾取消现款排气装饰，换装与前脸进气设计相呼应的黑色装饰饰条；尾灯内部增加横向结构，视觉层次更强。 动力方面，2027 款车型维持 2026 款规格。燃油版搭载 2.0T 四缸涡轮增压发动机，最大功率 186kW，峰值扭矩 379N·m；同步提供混动版"
+  },
+  {
+   "title": "东风奕派 EP7 轿车将于 11 月 27 日广州车展首发：至高续航 710 公里、将提供换电版本",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/031/183.htm",
+   "published": "2026-11-23T11:41:21+00:00",
+   "age_hours": 2.3,
+   "score": 6.5,
+   "summary": "IT之家 11 月 23 日消息，东风汽车透露旗下奕派 EP7 中大型轿车将于 11 月 27 日的广州车展首发，新车配备 71.19kWh 电池组，提供 650km、710km 纯电续航。 东风奕派 EP7 采用全新设计语言，配备封闭式前格栅与星环式灯组，识别特征明确。车身侧面装配半隐藏式门把手以及双五辐轮圈。车尾搭载贯穿式尾灯，与前脸造型形成呼应。 规格方面，IT之家获悉该车长宽高分别为 4910x1930x1478mm，轴距为 2920mm。车辆总质量为 2458kg，整备质量 2058kg。 动力方面，该车将搭载由智新科技股份有限公司所生产型号为 YS225XYH02/TZ225XYH"
+  },
+  {
+   "title": "官方认证：华为鸿蒙生态里程碑壹亿用户纪念章上线，HarmonyOS 5 及以上系统可领",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/031/182.htm",
+   "published": "2026-11-23T11:38:26+00:00",
+   "age_hours": 2.4,
+   "score": 6.5,
+   "summary": "IT之家 11 月 23 日消息，奇妙工具箱 11 月 16 日数据显示，华为鸿蒙 HarmonyOS 操作系统装机量在当日 9:22 突破 1 亿台，达成又一里程碑时刻。 IT之家注意到，我的华为 App“悄悄”上线了 “鸿蒙生态里程碑壹亿用户纪念章” ，HarmonyOS 5 及以上系统可获得。 需要注意的是，这枚纪念章暂时还无法领取，预计会在华为官方正式公开鸿蒙生态一亿里程碑后才会开放领取。 延伸阅读 文中提到的“奇妙工具箱”是一款第三方工具，并非华为官方发布渠道。其鸿蒙装机量数据是基于华为应用市场（App Gallery）的下载量每日人工收集并估算得出的，统计口径为 HarmonyOS"
+  }
+ ]
+}

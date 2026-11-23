@@ -1,0 +1,56 @@
+{
+  "date": "2026-11-23",
+  "episode": 14,
+  "scenes": [
+    {
+      "type": "open",
+      "start": 0,
+      "end": 6
+    },
+    {
+      "type": "story",
+      "start": 7,
+      "end": 33,
+      "title": "439亿美元安全巨头合并",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/031/188.htm"
+    },
+    {
+      "type": "story",
+      "start": 34,
+      "end": 51,
+      "title": "Meta数据中心的日落没了",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/031/164.htm"
+    },
+    {
+      "type": "story",
+      "start": 52,
+      "end": 62,
+      "title": "两州起诉Grok深度伪造",
+      "source": "WIRED",
+      "link": "https://www.wired.com/story/states-sue-spacex-over-grok-deepfakes/"
+    },
+    {
+      "type": "story",
+      "start": 63,
+      "end": 74,
+      "title": "OpenAI要给AI装限速器",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/"
+    },
+    {
+      "type": "story",
+      "start": 75,
+      "end": 82,
+      "title": "安川2030出AI人形机器人",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/030/954.htm"
+    },
+    {
+      "type": "outro",
+      "start": 83,
+      "end": 90
+    }
+  ]
+}
