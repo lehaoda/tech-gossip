@@ -1,0 +1,56 @@
+{
+  "date": "2026-11-24",
+  "episode": 15,
+  "scenes": [
+    {
+      "type": "open",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "type": "story",
+      "start": 5,
+      "end": 41,
+      "title": "黄仁勋重掌英伟达",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/031/872.htm"
+    },
+    {
+      "type": "story",
+      "start": 42,
+      "end": 56,
+      "title": "华为Mate X8发布会",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/031/812.htm"
+    },
+    {
+      "type": "story",
+      "start": 57,
+      "end": 66,
+      "title": "Anthropic跌破发行价",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/031/823.htm"
+    },
+    {
+      "type": "story",
+      "start": 67,
+      "end": 78,
+      "title": "OpenAI窃听案新细节",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/031/867.htm"
+    },
+    {
+      "type": "story",
+      "start": 79,
+      "end": 98,
+      "title": "黎曼猜想与小米财报",
+      "source": "WIRED",
+      "link": "https://www.wired.com/story/ai-solved-maths-most-famous-problem/"
+    },
+    {
+      "type": "outro",
+      "start": 99,
+      "end": 106
+    }
+  ]
+}

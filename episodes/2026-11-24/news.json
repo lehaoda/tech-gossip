@@ -1,0 +1,281 @@
+{
+ "date": "2026-11-24",
+ "weekday": "星期二",
+ "window_hours": 24,
+ "fetched_at": "2026-11-24T14:01:08.483138+00:00",
+ "failed_feeds": [
+  "Reddit r/technology: network: HTTPError: HTTP Error 404: Not Found"
+ ],
+ "candidates": [
+  {
+   "title": "英伟达股价盘前跌超 5%，黄仁勋回归带来的暴涨行情迅速熄火",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/031/872.htm",
+   "published": "2026-11-24T13:40:02+00:00",
+   "age_hours": 0.4,
+   "score": 10.0,
+   "summary": "IT之家 11 月 24 日消息，美股周二盘前交易时段，英伟达股价走低。黄仁勋回归首席执行官一职带来的历史性大涨行情迅速熄火，投资者重新审视这次复职背后暗藏的政治与公司治理风险。 这家 AI 芯片厂商盘前最新跌 5.2%，报 156.40 美元 （IT之家注：现汇率约合 1,045 元人民币） ，带动 AI 板块整体走弱。前一个交易日其大涨 31.5%，单日市值增加超 9,520 亿美元 （现汇率约合 6.36 万亿元人民币） 。 此番暴涨让英伟达重回全球市值第二高企业，仅次于苹果，不过股价相比 10 月 6 日的历史高点仍低近 31%。 黄仁勋此前因婚外情相关爆料辞职，在美国总统唐纳德 · "
+  },
+  {
+   "title": "OpenAI“窃听”案更多细节浮出水面，当事沙特工程师借助 Codex 偷录重要会议",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/031/867.htm",
+   "published": "2026-11-24T13:11:23+00:00",
+   "age_hours": 0.8,
+   "score": 10.0,
+   "summary": "IT之家 11 月 24 日消息，据《商业内幕》今天（24 日）上午报道，检方披露，沙特籍 OpenAI 工程师阿卜杜勒拉赫曼 · 阿尔福赞曾试图 利用氛围编程改进秘密录制公司会议 的方式，而他选择的工具正是自己熟悉的 Codex。 阿尔福赞利用 OpenAI 自家的编程产品 改装了一台录音设备 。根据 OpenAI 提供的记录，该设备与 OpenAI 此前在一间会议室电视机后发现的设备属于同一类型。阿尔福赞还让 Codex 加入语音检测技能 ，并利用这项功能整理存放在 Dropbox 中的秘密录音。 美国检察官 23 日提交的动议披露了上述细节。这也是双方围绕阿尔福赞能否在候审期间继续被羁押"
+  },
+  {
+   "title": "暴涨之后迅速反转，Anthropic 盘前跌破 83 美元 IPO 发行价",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/031/823.htm",
+   "published": "2026-11-24T12:00:57+00:00",
+   "age_hours": 2.0,
+   "score": 10.0,
+   "summary": "IT之家 11 月 24 日消息，当地时间周二盘前交易时段，Anthropic 股价跌破 83 美元 （IT之家注：现汇率约合 554.4 元人民币） 的首次公开发行发行价。这家 Claude 模型开发商几天前才在纳斯达克完成创纪录的上市，行情反转十分刺眼。 该股最新下跌 6.5%，报 82 美元 （现汇率约合 547.7 元人民币） ，延续 11 月 19 日火爆上市以来的跌势。上市首日开盘价为 111.50 美元 （现汇率约合 744.7 元人民币） ，完全稀释后的估值一度突破 2 万亿美元 （现汇率约合 13.36 万亿元人民币） 。 周一晚间披露的监管文件显示，Anthropic 首席"
+  },
+  {
+   "title": "鸿蒙智行问界 M6 累计交付突破 7 万台，售价 22.98 万元起",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/031/706.htm",
+   "published": "2026-11-24T09:19:50+00:00",
+   "age_hours": 4.7,
+   "score": 10.0,
+   "summary": "IT之家 11 月 24 日消息，问界汽车官方今日宣布， 鸿蒙智行问界 M6 累计交付突破 7 万台 ，售价 22.98 万元起。 据IT之家 11 月 21 日报道，赛力斯执行董事、副总裁康波宣布， 赛力斯汽车与华为联合设计的 AITO 问界 M6 推出限时现车购车权益 。 在 11 月 21 日 0 点至 11 月 30 日 24 点期间下定的用户，可在 10000 元现车补贴、3 年 0 息金融方案和“贷 5 免 3”金融方案三种权益方案中任选其一，官方宣称最快 1 周可提车。官方海报提示，现车数量有限，先到先得。 据IT之家了解，问界 M6 于 4 月 22 日上市，定位“新锐智慧 S"
+  },
+  {
+   "title": "Trump engineered a risky comeback for Jensen Huang",
+   "source": "The Verge",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated",
+   "published": "2026-11-23T22:25:12+00:00",
+   "age_hours": 15.6,
+   "score": 10.0,
+   "summary": "After Nvidia's board accepted Jensen Huang's resignation as CEO, following reports that Huang had an affair with an alleged Chinese spy, President Donald Trump, too, appeared to submit to the new reality. Appearing on Stephen A. Smith's radio show shortly after the news came out, Trump said that Hua"
+  },
+  {
+   "title": "Nvidia CEO Jensen Huang is back. What happens next?",
+   "source": "The Verge",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+   "published": "2026-11-23T22:10:32+00:00",
+   "age_hours": 15.8,
+   "score": 10.0,
+   "summary": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, after The New York Times reported there was evidence of another affair, this time with an Nvidia execu"
+  },
+  {
+   "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
+   "published": "2026-11-23T21:25:42+00:00",
+   "age_hours": 16.6,
+   "score": 10.0,
+   "summary": "Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal government."
+  },
+  {
+   "title": "Inside Nvidia, Not Everyone Is Celebrating Jensen Huang’s Return",
+   "source": "WIRED",
+   "link": "https://www.wired.com/story/inside-nvidia-not-everyone-is-celebrating-jensen-huangs-return/",
+   "published": "2026-11-24T01:35:38+00:00",
+   "age_hours": 12.4,
+   "score": 9.5,
+   "summary": "Some saw Huang’s resignation as an opportunity for culture change at the chip giant. “If Jensen comes back, I’m not doing any HR trainings ever again,” one employee said."
+  },
+  {
+   "title": "Jensen Huang Is Back as Nvidia CEO",
+   "source": "WIRED",
+   "link": "https://www.wired.com/story/jensen-huang-is-back-as-nvidia-ceo/",
+   "published": "2026-11-23T14:27:35+00:00",
+   "age_hours": 23.6,
+   "score": 9.5,
+   "summary": "The company’s board of directors has reinstated Huang a little more than a week after the CEO resigned amid allegations of multiple affairs, including with a direct report."
+  },
+  {
+   "title": "卢伟冰：小米出海车型将去往瑞典、德国、西班牙、意大利四国",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/031/803.htm",
+   "published": "2026-11-24T10:56:01+00:00",
+   "age_hours": 3.1,
+   "score": 9.0,
+   "summary": "IT之家 11 月 24 日消息，据财联社报道，小米集团总裁卢伟冰在三季度财报电话会上表示，小米汽车计划 2027 年进军欧洲，目前已在德国设立研发设计中心，签约德国 8 家头部经销商。出海车型将去往瑞典、德国、西班牙、意大利四国，并在七大测试场完成高速与功能验证。 卢伟冰还表示，第三季度国内汽车市场大盘承压，对于小米来说，完成了纯电和增程双线布局，且增程新品上市后反而带来了纯电产品销量的增长，没有形成内部客户抢夺。小米汽车会用创新满足用户需求。 小米汽车近日宣布迎来架构调整，成立国际业务部，任命汽车部副总裁于立国兼任国际业务部总经理，向集团 CEO、汽车部总裁雷军和集团总裁卢伟冰双线汇报。另"
+  },
+  {
+   "title": "小米集团：第三季度新车交付量达 10 万辆",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/031/721.htm",
+   "published": "2026-11-24T09:49:15+00:00",
+   "age_hours": 4.2,
+   "score": 9.0,
+   "summary": "IT之家 11 月 24 日消息，小米集团今日在港交所发布截至 2026 年 9 月 30 日止三个月及九个月之业绩。 据介绍，2026 年第三季度，随着小米澎程系列上市， 公司新车交付量达到 100,975 辆 ，其中小米澎程系列交付量超 10,000 辆。 N70、N90 分别拿下 10 月中大型、大型 SUV 销量冠军 。 据IT之家此前报道， 小米集团合伙人、总裁卢伟冰在今年 5 月分享了小米汽车出海整体规划和节奏 ： 汽车出海目前严格按照此前投资人大会披露的节奏推进，计划 2027 年三四季度正式启动出海；整体策略是先发达国家、后发展中国家，先中高端、后中端，先右舵、后左舵。 目前团"
+  },
+  {
+   "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
+   "published": "2026-11-23T21:47:41+00:00",
+   "age_hours": 16.2,
+   "score": 9.0,
+   "summary": "\"The mistake has been corrected,\" Elon Musk chimed in."
+  },
+  {
+   "title": "Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/",
+   "published": "2026-11-23T15:04:01+00:00",
+   "age_hours": 23.0,
+   "score": 9.0,
+   "summary": "The president cited the U.S. attorney general in defending Huang's return, while urging Nvidia to continue its export-control investigation."
+  },
+  {
+   "title": "Anthropic Breaks Below $83 IPO Price in Premarket Trading",
+   "source": "Hacker News (frontpage)",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
+   "published": "2026-11-24T13:23:47+00:00",
+   "age_hours": 0.6,
+   "score": 8.5,
+   "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading Comments URL: https://news.ycombinator.com/item?id=50627836 Points: 43 # Comments: 4"
+  },
+  {
+   "title": "Investigation of Polymarket Insider Trading on the Reinstatement of Jensen Huang",
+   "source": "Hacker News (frontpage)",
+   "link": "https://deucalionn.vercel.app/polymarket-delit-initie-jensen-huang-nvidia/",
+   "published": "2026-11-24T11:13:55+00:00",
+   "age_hours": 2.8,
+   "score": 8.5,
+   "summary": "Article URL: https://deucalionn.vercel.app/polymarket-delit-initie-jensen-huang-nvidia/ Comments URL: https://news.ycombinator.com/item?id=50626578 Points: 343 # Comments: 198"
+  },
+  {
+   "title": "How to Win Big Betting on Jensen Huang? Listen to Trump",
+   "source": "WIRED",
+   "link": "https://www.wired.com/story/how-to-win-big-betting-on-jensen-huang-listen-to-trump/",
+   "published": "2026-11-23T21:31:08+00:00",
+   "age_hours": 16.5,
+   "score": 8.5,
+   "summary": "Prediction market traders profited from the Nvidia CEO’s comeback by following the White House’s lead. “It’s 2026 and Trump is president, scandal schmandal,” says one winner."
+  },
+  {
+   "title": "Huang reportedly admitted to more than two affairs to Nvidia’s board",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/24/huang-reportedly-admitted-to-more-than-two-affairs-to-nvidias-board/",
+   "published": "2026-11-24T13:29:53+00:00",
+   "age_hours": 0.5,
+   "score": 8.0,
+   "summary": "During a meeting before his reinstatement, Huang admitted to more affairs beyond the two that have been reported in the news, according to The Wall Street Journal."
+  },
+  {
+   "title": "余承东：2026 年，华为折叠手机在中国市场份额已超过 70%",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/031/866.htm",
+   "published": "2026-11-24T12:58:48+00:00",
+   "age_hours": 1.0,
+   "score": 7.5,
+   "summary": "IT之家 11 月 24 日消息，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东刚刚发文，称从大折叠、三折叠到阔折叠，华为一直在探索折叠手机的更多可能。 他宣布， 2026 年，华为折叠手机在中国市场份额已超过 70% 。 另外，在今天的发布会上，余承东还透露， 华为折叠手机拿下了折叠机品牌第一提及率的成就 。同时，华为大折叠手机全球发货量突破 1200 万台。 IT之家附华为 Mate X8 折叠屏手机核心亮点一图知如下："
+  },
+  {
+   "title": "黄仁勋重掌英伟达，亚洲供应链、AI 创企信心大振",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/031/820.htm",
+   "published": "2026-11-24T11:50:55+00:00",
+   "age_hours": 2.2,
+   "score": 7.5,
+   "summary": "IT之家 11 月 24 日消息，据路透社报道，黄仁勋重新出任英伟达 CEO，受到亚洲客户及供应商的广泛欢迎。业内人士认为，他的回归 消除了英伟达产品规划上的不确定性 ，也打消了外界对公司可能缩减 AI 初创企业投资的担忧。 英伟达在亚洲拥有庞大的供应链， 台积电、富士康、三星电子和 SK 海力士 都是其中的关键企业。此外，还有不少获得英伟达支持的初创公司。 韩国半导体产业协会高管安基贤坦诚道：“如果没有黄仁勋， 下一代产品的开发周期会更长 。围绕英伟达下一代产品的不确定性也有所缓解。” 业内不少人将黄仁勋视为 AI 热潮迅速发展的重要推动者。他推动英伟达加快产品迭代，也带动供应商跟上节奏，同"
+  },
+  {
+   "title": "The Best Early Black Friday MacBook Deals (2026)",
+   "source": "WIRED",
+   "link": "https://www.wired.com/story/best-black-friday-macbook-deals-2026/",
+   "published": "2026-11-24T11:30:00+00:00",
+   "age_hours": 2.5,
+   "score": 7.5,
+   "summary": "Many of the best laptops in Apple’s MacBook lineup are on sale ahead of Black Friday, including a great discount on the MacBook Air."
+  },
+  {
+   "title": "AI 指纹识别 + 9 种开锁方式：小米智能门锁 E30 星辰黑 999 → 501 元国补直降",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/031/815.htm",
+   "published": "2026-11-24T11:28:29+00:00",
+   "age_hours": 2.5,
+   "score": 7.5,
+   "summary": "小米 2026 年 2 月 8 日上架“小米智能门锁 E30 星辰黑”，其支持 AI 指纹识别、9 种开锁方式，定价 999 元。 今日天猫自营“天猫优品官方旗舰店”开启狂促，叠加 15% 国补后实付 500.66 元即可入手： 点击下方卡片后 → 点击淘宝 App 右上角三个点“ … ” → 点击弹出页面右下角 淘金币 ，可抵扣 4.99 元。 天猫 小米智能门锁 E30 星辰黑 AI 指纹识别、9 种开锁方式 淘金币抵扣后 500.66 元 直达链接 该产品将离合内置于锁体，配合直插式 C 级锁芯贯穿锁体结构设计，防止外力拆卸外面板后直接开门，也能防暴力下压外把手开门。同时锁体中 内置虚掩"
+  },
+  {
+   "title": "小米浏览器手机、Pad 官宣支持扩展程序：广告拦截、网页翻译、AI 助手、脚本管理",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/031/813.htm",
+   "published": "2026-11-24T11:22:44+00:00",
+   "age_hours": 2.6,
+   "score": 7.5,
+   "summary": "IT之家 11 月 24 日消息，小米互联网官方微博今日宣布，小米浏览器手机、Pad 现已支持扩展程序：广告拦截、网页翻译、AI 助手、脚本管理菜单里一点即开。 IT之家注意到，在今年 6 月，小米员工 @劣人潘 曾发文预告过该功能，当时曾表示会在未来合适的时机发布支持插件的浏览器版本。 延伸阅读 小米浏览器手机端需升级至 20.32 及以上版本、Pad 端需升级至 20.6 及以上版本，才能体验扩展程序功能。 除扩展程序外，此次更新中，小米浏览器的 AI 搜索还同步新增了「互动广场」功能，无需下载即可使用。 实际上，浏览器插件能力最早是随小米澎湃 HyperOS 4 系统与用户见面的，并非此"
+  },
+  {
+   "title": "华为 Mate X8 及全场景新品发布会一文汇总：轻薄、折叠“双响炮”，鸿蒙破亿“发钱”了",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/031/812.htm",
+   "published": "2026-11-24T11:20:35+00:00",
+   "age_hours": 2.7,
+   "score": 7.5,
+   "summary": "就在今天（11 月 24 日）14:30，华为 Mate X8 及全场景新品发布会准时启幕。 前段时间刚先后看完问界新 M8、享界 V8、星芒 O1 Pro 轮番登场，这回华为又甩出新一轮全家桶。 重头戏不用多说，主角就是 Mate X8，八年八代的大折叠旗舰，这次直接全面焕新；除此之外，还有小折叠电脑、超薄手表一众狠货同步登场。 废话不多说，华为这波全场景新品都藏了哪些硬活，IT之家小编这就挨个扒一遍。 一、Mate X8 在大折叠手机全球发货量突破 1200 万台后，华为 Mate X8 如期而至。 这一代在设计上玩起了焕新新花样，把织金云锦、钇晶宝石和鎏光腰线埋进机身细节里。 背板以金丝"
+  },
+  {
+   "title": "消息称 OpenAI 与 Anthropic 员工警告：内部 AI 模型能力过于强大，无法安全发布",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/031/811.htm",
+   "published": "2026-11-24T11:18:56+00:00",
+   "age_hours": 2.7,
+   "score": 7.5,
+   "summary": "IT之家 11 月 24 日消息，据 Axios 报道，二十多名熟悉内部讨论的消息人士透露，Anthropic 和 OpenAI 正面临一个愈发紧迫的难题：公司内部尚未对外发布的模型能力已经强到让不少员工认为，这些模型无法安全向公众开放。 消息人士表示，这件事的影响不容小觑。顶尖人工智能系统的能力和人类的管控能力之间的差距持续拉大，很可能大幅放缓人工智能的发展热潮。 研究人员至今还没有找到管控最强模型的技术方案。部分内部人员认为这个问题有解决办法，也有人并不看好，提出企业应当彻底停止训练新模型。 头部人工智能企业的负责人早就预判，这项技术终有一天会在几乎所有领域远超人类智力。虽然内部模型还没有"
+  },
+  {
+   "title": "华为鸿蒙 HarmonyOS 终端设备数突破一个亿，实体纪念章外观曝光",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/031/808.htm",
+   "published": "2026-11-24T11:06:10+00:00",
+   "age_hours": 2.9,
+   "score": 7.5,
+   "summary": "IT之家 11 月 24 日消息，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东今日发文， 宣布鸿蒙终端设备数突破一个亿 。 华为官网显示， 鸿蒙一亿感恩有礼纪念章活动将于 2026 年 12 月 5 日开启 。2026 年 11 月 24 日 00:00 前使用华为账号登录过 HarmonyOS 5 及以上版本的华为手机、平板、电脑任一商用设备的用户，可自 12 月 5 日起前往报名门店获得实体纪念章兑换券，领取鸿蒙生态实体纪念章。 IT之家注意到，博主 @未来的学习笔记 今日曝光了鸿蒙一亿感恩有礼纪念章的实体图。从画面可以看到，实体纪念章在结构上分为三层：外圈是一圈细亮金色"
+  },
+  {
+   "title": "【一图知】华为 Mate X8 及全场景新品发布会：轻薄、折叠“双响炮”，鸿蒙智家大升级",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/031/783.htm",
+   "published": "2026-11-24T10:18:19+00:00",
+   "age_hours": 3.7,
+   "score": 7.5,
+   "summary": "IT之家 11 月 24 日消息，华为 Mate X8 及全场景新品发布会于今日（11 月 24 日）14:30 举行，发布了华为 Mate X8 全新大折叠旗舰手机，还有华为 Mate90 Air、华为 WATCH Air 超薄新品。 华为 MateBook Fold S 鸿蒙小折叠电脑、鸿蒙智家升级、配件新品也一同登场。 IT之家一图汇总相关产品信息 ，小伙伴快速了解一下亮点。"
+  },
+  {
+   "title": "AI Solved Math’s Most Famous Problem. Now Humans Are Struggling to Understand It",
+   "source": "WIRED",
+   "link": "https://www.wired.com/story/ai-solved-maths-most-famous-problem/",
+   "published": "2026-11-24T10:15:00+00:00",
+   "age_hours": 3.8,
+   "score": 7.5,
+   "summary": "It will take mathematicians months to understand the “alien” 17-million-line solution an Anthropic researcher produced for the Riemann hypothesis."
+  },
+  {
+   "title": "小米集团 2026 年 Q3 业绩发布：单季营收站稳千亿、研发投入 92 亿元",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/031/716.htm",
+   "published": "2026-11-24T09:42:54+00:00",
+   "age_hours": 4.3,
+   "score": 7.5,
+   "summary": "IT之家 11 月 24 日消息，小米集团今日发布 2026 年 Q3 业绩，称稳中求进，单季营收站稳千亿。总营收 1072 亿元，经调整净利润 49 亿元。 据介绍， 小米新能源汽车及 AI 等创新业务收入 239 亿元 ，季度内完成纯电、增程双系列布局；智能手机业务逐季改善， 收入 456 亿元，环比增长 8.2% ；全球平均售价（ASP）同比增长近 40%，创历史新高，国内 6000 元及以上价位销量份额同比提升 1.2 个百分点。全球份额连续 3 个季度环比提升，出货量在全球 55 个国家和地区排名前三，67 个国家和地区排名前五。 另外， 小米 AIoT 平台已连接 IoT 设备数首"
+  },
+  {
+   "title": "大促过后继续低过 5000 元：iPhone 17 手机国补后 4970 元近期好价",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/031/713.htm",
+   "published": "2026-11-24T09:37:23+00:00",
+   "age_hours": 4.4,
+   "score": 7.5,
+   "summary": "iPhone 17 手机 256G 版官网售价 6799 元，今日联通京东自营旗舰店补贴价 5699 元； 下单领取 200 元优惠券； 国补立减 500 元； PLUS 会员立减 28.49 元； 到手价为 4970.51 元： 京东 苹果 iPhone 17 256GB 白色 券后 4970.51 元 领 200 元券 所有颜色均可参与活动。京东发货 & 售后服务。 京东 11.11 无门槛红包 面额至高 26888 元，每天抽 3 次： 点此抽红包 。 淘宝 11.11 无门槛红包 面额至高 26888 元，每天抽 1 次： 点此抽红包 。"
+  },
+  {
+   "title": "诺华 CEO 泼冷水：AI 十年内治不好癌症，仅能缩短新药研发周期",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/031/705.htm",
+   "published": "2026-11-24T09:19:16+00:00",
+   "age_hours": 4.7,
+   "score": 7.5,
+   "summary": "IT之家 11 月 24 日消息，诺华首席执行官、Anthropic 董事会成员瓦斯 · 纳拉辛汉（Vas Narasimhan）并不认同人工智能将在五到十年内治愈癌症的说法，他认为，就算再过十年，人工智能也只能把新药研发周期缩短四年。纳拉辛汉表示，科技行业看待这个问题带着一套“工程思维”，但临床医生和制药企业清楚，人类对人体的了解其实十分有限。 “我们面临的核心问题是，坦白说，我们只弄懂了人体运转机制大约百分之五的内容。”他说，“在代码和语言领域，我们掌握的知识比例要高得多，因此人工智能模型的学习和预测能力也会强很多。” Anthropic 首席执行官达里奥 · 阿莫代伊（Dario Amo"
+  }
+ ]
+}
