@@ -1,0 +1,281 @@
+{
+ "date": "2026-11-25",
+ "weekday": "星期三",
+ "window_hours": 24,
+ "fetched_at": "2026-11-25T14:01:02.975276+00:00",
+ "failed_feeds": [
+  "Reddit r/technology: network: HTTPError: HTTP Error 404: Not Found"
+ ],
+ "candidates": [
+  {
+   "title": "网警公开典型案例：一网民针对华为手机 / 鸿蒙 / 问界持续发布数百条不实评论、捏造“千亿营销”等虚假信息，已被行政处罚",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/032/371.htm",
+   "published": "2026-11-25T09:29:14+00:00",
+   "age_hours": 4.5,
+   "score": 10.0,
+   "summary": "IT之家 11 月 25 日消息，在网络传播高速化的当下，一条未经核实的言论、一段刻意编造的虚假视频，无需成本，却能在短时间内快速发酵传播，摧毁企业积攒多年的品牌口碑。 IT之家注意到，湖南网警聚焦涉企造谣抹黑类违法案件，今日公开了一起“ 恶意抹黑知名企业产品，散布数百条不实言论 ”典型案例： 2026 年以来，网民李某峰在多个主流短视频平台评论区，依托碎片化网络信息，在无任何权威依据、未经核实的前提下，针对华为手机、鸿蒙系统、问界汽车等知名产品， 持续发布数百条不实评论 ， 捏造“千亿营销费用”“研发费用造假”等虚假信息 。 海量不实言论持续扩散，严重误导公众认知，对企业品牌形象造成极大负面"
+  },
+  {
+   "title": "A社Tibo被曝加盟OpenAI！上市前离职三人组异地团圆",
+   "source": "量子位",
+   "link": "https://www.qbitai.com/2026/11/512515.html",
+   "published": "2026-11-25T07:46:52+00:00",
+   "age_hours": 6.2,
+   "score": 10.0,
+   "summary": "OpenAI这下要有俩Tibo了"
+  },
+  {
+   "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+   "published": "2026-11-25T00:12:02+00:00",
+   "age_hours": 13.8,
+   "score": 10.0,
+   "summary": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal liability from a growing pile of lawsuits and raising the question of whether the"
+  },
+  {
+   "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+   "published": "2026-11-24T18:30:42+00:00",
+   "age_hours": 19.5,
+   "score": 10.0,
+   "summary": "Anthropic’s post-IPO slump could put pressure on AI startup valuations."
+  },
+  {
+   "title": "Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
+   "published": "2026-11-24T15:51:07+00:00",
+   "age_hours": 22.2,
+   "score": 10.0,
+   "summary": "Amazon’s decision to acquire Decart for a reported $7.5 billion is part of its efforts to improve the efficiency of its Trainium chips."
+  },
+  {
+   "title": "Meta 在美国地区为 Quest 3/3S 用户开放 3D 电影租赁购买服务，独家首发 Billie Eilish 演唱会电影",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/032/459.htm",
+   "published": "2026-11-25T10:59:52+00:00",
+   "age_hours": 3.0,
+   "score": 9.0,
+   "summary": "IT之家 11 月 25 日消息，Meta 现已面向美国地区的 Quest 3 和 Quest 3S 用户开放 3D 电影租赁和购买服务，用户可以通过设备上的 TV 应用观看 150 多部 3D 影片，包括《阿凡达》《蜘蛛侠：英雄远征》《侏罗纪世界：重生》和《魔法坏女巫：第二部》等。 Meta 建议用户在全新的 Theater（影院）环境中观看电影，该环境随 Horizon OS 2.10 开始逐步推送，启用后会暂时将用户的 VR Home 环境切换为一间大型影院风格的空间，并采用高分辨率材质。根据播放内容，影院环境似乎还会呈现实时动态光照效果。 外媒 UploadVR 表示，此次 3D 电影"
+  },
+  {
+   "title": "阿维塔 06T Max 先锋版上市：搭载 896 线激光雷达，限时权益价 19.99 万元",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/032/442.htm",
+   "published": "2026-11-25T10:28:49+00:00",
+   "age_hours": 3.5,
+   "score": 9.0,
+   "summary": "IT之家 11 月 25 日消息，阿维塔 06T Max 先锋版已上市，新车官方指导价为 21.99 万元，叠加限时权益后售价下探至 19.99 万元。新车定位中型纯电轿车，CLTC 工况纯电续航达 652 公里。作为车系新增版本，该车进一步拉低了阿维塔 06 的购入门槛。 IT之家注意到，阿维塔 06T Max 先锋版延续现款车型设计语言，采用低趴宽体车身姿态，配备标志性双层 LED 灯组，前包围两侧集成远近光灯组，并搭载主动式格栅。值得一提的是，该版本配备 896 线激光雷达，同步搭载华为乾崑 ADS 5 辅助驾驶系统，智能化配置向高阶版本看齐。 车身尺寸方面，新车长宽高分别为 4940/"
+  },
+  {
+   "title": "AirTag 2 has two big improvements that make it worth the upgrade - 9to5Mac",
+   "source": "Google News Tech",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRW1kVC1QZGJ6QXdEeUZpbUVTUHBOM01BMnFHbDcwLVRnTVRBTURuVFk1dVdRSlREdjNjSm5sRVY4NmlHb3dOX01VUGZCMXZpOHlENFNsQzd2T1A3eFNNM0VXWFlKM2NmMGZEbmd5UHpfcEFLTzdnSWJpYzdoOWxxMnRaMS14MkNTOGJwODdFeUdoRXF6WTM5QUVnMXU?oc=5",
+   "published": "2026-11-24T19:53:00+00:00",
+   "age_hours": 18.1,
+   "score": 8.5,
+   "summary": "AirTag 2 has two big improvements that make it worth the upgrade 9to5Mac Apple's AirTag 2 hits a record-low $18, making the 4-pack a worse deal AppleInsider Apple’s AirTags can save you from a travel nightmare. Here’s what you should know CNN Chipolo POP 4-pack drops to $66.75, $22.25 off and $12.25"
+  },
+  {
+   "title": "Flipkart CEO Kalyan Krishnamurthy to step down next week amid IPO uncertainty",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/25/flipkart-ceo-kalyan-krishnamurthy-to-step-down-next-week-amid-ipo-uncertainty/",
+   "published": "2026-11-25T13:08:19+00:00",
+   "age_hours": 0.9,
+   "score": 8.0,
+   "summary": "Flipkart's product and technology chief Balaji Thiagarajan will lead the company alongside its board until a successor is found."
+  },
+  {
+   "title": "Microsoft declares ‘Code Red’ after huge Outlook outage",
+   "source": "The Verge",
+   "link": "https://www.theverge.com/news/1042025/microsoft-code-red-outlook-outage",
+   "published": "2026-11-25T11:12:42+00:00",
+   "age_hours": 2.8,
+   "score": 8.0,
+   "summary": "This month's Exchange Online and Microsoft Outlook outage has prompted the software giant to declare an unusual \"Code Red\" internally, Reuters reports. The nearly 24-hour outage took down email for millions of customers, and was triggered by a bug that had been sitting on Microsoft 365 networking ga"
+  },
+  {
+   "title": "消息称支付技术企业 Stripe 估值有望在新一轮股票回购中突破 2000 亿美元",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/032/488.htm",
+   "published": "2026-11-25T12:37:30+00:00",
+   "age_hours": 1.4,
+   "score": 7.5,
+   "summary": "IT之家 11 月 25 日消息，《华尔街日报》当地时间昨日报道称，支付技术企业 Stripe 正在讨论新一轮的年度例行股票回购计划。 该企业的估值有望在本轮回购中突破 2,000 亿美元 （IT之家注：现汇率约合 1.34 万亿元人民币） 。 按照惯例， Stripe 将在新年初正式宣布回购计划 ，便于员工套现持股。知情人士透露，此次回购的出资方除 Stripe 自身外很可能还包括现有投资者。 Stripe 正积极涉足人工智能领域 ：该企业今年 8 月以超 70 亿美元收购 OpenRouter，并将自身技术栈与智能体消费市场整合。Stripe 还并购了软件按用量计费初创企业 Metrono"
+  },
+  {
+   "title": "华为 5A 通信技术支持设备上新，新增 Mate 90 Air、Mate X8 系列手机",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/032/478.htm",
+   "published": "2026-11-25T12:02:27+00:00",
+   "age_hours": 2.0,
+   "score": 7.5,
+   "summary": "IT之家 11 月 25 日消息，华为官网“悄悄”更新了 5A 相关问题的支持文档，公布了支持 5A 通信技术的最新机型清单， 新增 Mate 90 Air、Mate X8 系列等机型 。 华为明确，5A 只代表华为终端先进的通信技术，而非网络制式， 既不等同于 5G-A（5GA），也不等同于 5.5G 。5A 技术没有单独的开关，无需用户额外付费或手动设置，支持机型将在系统状态栏默认显示 5A 标识。 IT之家附支持 5A 通信技术的机型名单： Mate 60 系列 Mate 70 系列（包含优享版） Mate 70 Air Mate 80 系列 Pura 70 系列 Pura 80 系列 "
+  },
+  {
+   "title": "华为种菜游戏：鸿蒙星空元服务官宣上线，完成每日任务可抽会员等",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/032/472.htm",
+   "published": "2026-11-25T11:34:46+00:00",
+   "age_hours": 2.4,
+   "score": 7.5,
+   "summary": "IT之家 11 月 25 日消息，华为官方今日宣布，鸿蒙星空元服务正式上线，支持星球探索、花园养成、好友互动等玩法。 该元服务被称作华为手机 / 平板上的种菜游戏 。 据介绍，用户在鸿蒙星空元服务完成每日任务可以领取积分抽奖，有机会获得华为音乐、视频、阅读、主题会员，以及 Petal One 悦享套餐等权益。 IT之家注： 使用鸿蒙星空元服务需 HarmonyOS 6.1 及以上系统版本的手机或平板设备 。"
+  },
+  {
+   "title": "爆料人称《GTA 6》有望在 PS6、Xbox Project Helix 上实现 120 帧运行",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/032/470.htm",
+   "published": "2026-11-25T11:24:27+00:00",
+   "age_hours": 2.6,
+   "score": 7.5,
+   "summary": "IT之家 11 月 25 日消息，《GTA 6》 在本世代主机上的性能表现不算理想，不少玩家在等待 PC 版（包括非官方移植版本），也有人愿意继续等 Xbox Project Helix 与 PS6，希望在新主机上获得更高帧率体验。知名爆料人 Moore's Law Is Dead（MLID）判断 《GTA 6》 在次世代主机上的表现会很不错，但这和另一位爆料人 Kepler_L2 的看法相左。 MLID 认为 Xbox Helix 和 PS6 的硬件性能足够支撑 《GTA 6》 稳定 60 帧。他甚至提出，两款新机还有机会提供 120 帧模式，次世代主机 GPU 性能大致相当于 RTX 50"
+  },
+  {
+   "title": "特斯拉 FSD 欧盟审批会议推迟至 12 月 15 日举行",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/032/466.htm",
+   "published": "2026-11-25T11:13:50+00:00",
+   "age_hours": 2.8,
+   "score": 7.5,
+   "summary": "IT之家 11 月 25 日消息，据路透社报道，欧盟委员会一名发言人当地时间周三证实，原本将审议特斯拉自动驾驶辅助系统（FSD）在全欧盟获批申请的会议，推迟至 12 月 15 日举行。 IT之家注意到，今年 4 月荷兰先行给出初步批准后，机动车技术委员会（TCMV）前两次会议都没有安排投票，外界原本期待其能在 12 月的会议上对这套系统进行表决。 这场投票是特斯拉把该技术推向整个欧盟市场的关键关卡。目前已经有近十多个国家跟进荷兰的审批，其中人口最多的意大利已经落地启用。但想要拿到欧盟全境许可，需要 27 个成员国里至少 15 国投赞成票，且这些国家人口合计占欧盟总人口 65% 以上。 荷兰监管"
+  },
+  {
+   "title": "英伟达开放 Nemotron-Labs-Image-30B-A3B 生图 AI 模型权重：某些跑分超 GPT Image 2",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/032/444.htm",
+   "published": "2026-11-25T10:37:28+00:00",
+   "age_hours": 3.4,
+   "score": 7.5,
+   "summary": "IT之家 11 月 25 日消息，科技媒体 Wccftech 今天（11 月 25 日）发布博文，报道称英伟达在 Hugging Face 平台悄然公开了 Nemotron-Labs-Image-30B-A3B 模型的权重。该模型采用混合专家架构，总参数达 300 亿，使用时激活 30 亿参数，对本地硬件更友好。 Nemotron-Labs-Image-30B-A3B 是一款自回归图像生成模型，也是该公司新框架 Nemotron-Labs-VisualCreation 的核心光栅渲染引擎。该框架秉持“像素即代码”（Pixel as Code）的理念，不仅能生成富有表现力的图片，还能产出可编辑的"
+  },
+  {
+   "title": "7.8mm 厚度藏两个风扇：余承东揭秘华为风驰散热支架技术原理，喷口峰值风速达 30m/s",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/032/427.htm",
+   "published": "2026-11-25T10:22:26+00:00",
+   "age_hours": 3.6,
+   "score": 7.5,
+   "summary": "IT之家 11 月 25 日消息，在今年 10 月 28 日的华为双十一焕新季 · 全场景新品发布会上，华为董事、终端 BG CEO 何刚发布了华为风驰散热支架。 该支架厚度 7.8mm，藏有两个风扇，定价 299 元 。 华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东今日发布视频，揭秘了风驰散热支架的技术原理。 这款支架有一个亮点，可以粘住背板光滑表面的手机，但不黏纸张、手掌等粗糙表面物体，可以反复掰下来使用，同时还没有粘胶。 余承东透露，这是因为华为风驰散热支架采用了“壁虎胶”—— 借助壁虎脚掌的原理， 在小小的板面上塞入了近 40 万个吸盘 。而在这支架里，华为还藏了两个"
+  },
+  {
+   "title": "何小鹏谈特斯拉 FSD 实时渲染新功能：技术上并不是那么困难，要看值不值得用算力实现",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/032/381.htm",
+   "published": "2026-11-25T10:06:19+00:00",
+   "age_hours": 3.9,
+   "score": 7.5,
+   "summary": "IT之家 11 月 25 日消息，据新浪科技报道，2026 小鹏科技日后，小鹏集团董事长、CEO 何小鹏与媒体对话。 近日，特斯拉 FSD v15 推送后，全新 Reality View 实时渲染画面引起热议。它采用第三人称跟随视角，把道路、车辆、建筑、光影实时重建为立体 3D 场景，质感比较逼真。 何小鹏表示， 自己还没有用过那个版本 ，在互联网上看过视频，也许现在只是一个在科研中的过程，具体不太了解。 “我认为一个更好的世界模型的交互界面，最重要的是应该用在研发，用在评测上面。 从我的角度，它会消耗很多算力和电力 ，但是也许会有一个更好的情绪，一个更好的场景使用价值。”他说，也许明年有一些"
+  },
+  {
+   "title": "三星三折叠手机 Galaxy Z Trifold 2 曝光：代号 Q9m，基于 Z Fold9 Ultra 开发",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/032/380.htm",
+   "published": "2026-11-25T10:04:41+00:00",
+   "age_hours": 3.9,
+   "score": 7.5,
+   "summary": "IT之家 11 月 25 日消息，荷兰科技媒体 Galaxy Club 昨日（11 月 24 日）发布博文，报道称 三星正在酝酿三折叠手机继任者（上市后预估名为 Galaxy Z Trifold 2），内部开发代号为 Q9m，预估将于 2027 年发布，基于 Galaxy Z Fold9 系列折叠手机开发。 IT之家注：三星于 2025 年首次推出 Galaxy Z Trifold，采用三块屏幕面板和两个铰链。不过初代 Trifold 被视为较为实验性的产品，仅在韩国等少数市场发售，并未进入欧洲等更广泛的市场。 型号方面，初代 Trifold 的开发代号为 Q7m，基于 Galaxy Z Fo"
+  },
+  {
+   "title": "华为余承东解释为何 Mate X8 不标配“云晰柔光膜”：大多数人不喜欢，会少量牺牲分辨率",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/032/379.htm",
+   "published": "2026-11-25T10:02:01+00:00",
+   "age_hours": 4.0,
+   "score": 7.5,
+   "summary": "IT之家 11 月 25 日消息，在昨天下午的 HUAWEI Mate X8 及全场景新品发布会上， 华为 Mate X8 大折旗舰机正式发布 。 华为官方还为这款新机推出了云晰柔光膜 ，用户在华为授权服务中心可购买更换。 关于为何不标配“云晰柔光膜”，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东也给出了解释： 大多数人不太喜欢这种柔光膜 ，因为它（IT之家注：此处预计指 Mate X8）不像平板和 PC，尺寸大、人离得远。手机拿得离人近， 柔光这一块牺牲一定的（少量）分辨率 ，有些人不是很接受，因此我们（华为）没有把它做成标配，只让大家可选。 根据规划，云晰柔光膜预计 20"
+  },
+  {
+   "title": "8.99 万元起，奇瑞捷途环游者 EV 上市 20 小时大定破万",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/032/377.htm",
+   "published": "2026-11-25T09:51:37+00:00",
+   "age_hours": 4.2,
+   "score": 7.5,
+   "summary": "IT之家 11 月 25 日消息，奇瑞旗下捷途汽车今日宣布，捷途环游者 EV 上市 20 小时大定破 10,000 台。 据IT之家此前报道，新车长宽高分别为 4475/1880/1700 毫米，轴距 2735 毫米，共推出 5 款车型，售价区间为 8.99 万元至 12.59 万元。 车型 售价（万元） 550km 后驱畅行版 8.99 550km 后驱智行版 9.79 550km 后驱智臻版 10.79 550km 后驱智臻版 + 10.99 510kmXWD 四驱智臻版 12.59 辅助驾驶方面，高配车型搭载猎鹰 500+ 辅助驾驶系统，内置高通骁龙 8775 辅助驾驶芯片，可提供高速 "
+  },
+  {
+   "title": "HMD PureView 智能手机更多配置曝光，搭载高通骁龙 8 Elite Gen 5 处理器",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/032/372.htm",
+   "published": "2026-11-25T09:39:59+00:00",
+   "age_hours": 4.4,
+   "score": 7.5,
+   "summary": "IT之家 11 月 25 日消息，根据芬兰媒体 SuomiMobiili 的爆料，HMD 分享的 PureView 智能手机预告显示，这款主打拍摄的旗舰级设备将 采用高通骁龙 8 Elite Gen 5 处理器 。 HMD PureView 将 搭载圆形四摄背部 Deco 系统 ，包括两颗豪威 OV50X50-GA3A-004A-Z 主摄、6 倍潜望镜头、122° 50MP 超广角镜头。此外，其将 拥有 12GB 内存与 128GB 存储 ，支持存储扩展。 相关阅读： 《 HMD 预热影像定位新机：配四摄模组，将与施耐德合作带回 PureView 品牌 》 参考 https://suomimo"
+  },
+  {
+   "title": "亚马逊 Prime Air 送货无人机在美国密歇根州发生坠机事故，意外勾住光纤线路致坠落",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/032/355.htm",
+   "published": "2026-11-25T09:19:19+00:00",
+   "age_hours": 4.7,
+   "score": 7.5,
+   "summary": "IT之家 11 月 25 日消息，据外媒 WXYZ 7 报道，当地时间 11 月 20 日美国密歇根州出现一起亚马逊无人机送货事故，一架执行配送任务的 MK30 无人机在飞行过程中勾住光纤线路，导致螺旋桨受损，随后失控撞上居民车库屋顶，目前美国联邦航空管理局（FAA）正就此进行调查。 据报道，密歇根州亨廷顿伍兹市居民 Jim Brennan 于当地时间 11 月 20 日下单购买了一瓶洗发水，相应包裹使用无人机 Prime Air 服务配送，送货无人机成功将包裹投放到 Brennan 家后院，但返航过程中却勾住了一条光纤线路，导致一片螺旋桨脱落。无人机撞上邻居车库屋顶。 IT之家注意到，亚马逊"
+  },
+  {
+   "title": "华人计算机视觉泰斗二次创业！离开苹果下场，专注下一代空间与物理AI",
+   "source": "量子位",
+   "link": "https://www.qbitai.com/2026/11/512498.html",
+   "published": "2026-11-25T06:49:27+00:00",
+   "age_hours": 7.2,
+   "score": 7.5,
+   "summary": "复杂场景三维建模成本降至10美元以内"
+  },
+  {
+   "title": "Claude Opus 5.6灰测效果来了",
+   "source": "量子位",
+   "link": "https://www.qbitai.com/2026/11/512478.html",
+   "published": "2026-11-25T02:43:07+00:00",
+   "age_hours": 11.3,
+   "score": 7.5,
+   "summary": "整体效率大约是此前Opus版本的2到3倍。"
+  },
+  {
+   "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
+   "published": "2026-11-24T21:48:27+00:00",
+   "age_hours": 16.2,
+   "score": 7.5,
+   "summary": "The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company."
+  },
+  {
+   "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+   "published": "2026-11-24T21:32:38+00:00",
+   "age_hours": 16.5,
+   "score": 7.5,
+   "summary": "Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent."
+  },
+  {
+   "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
+   "published": "2026-11-24T17:00:00+00:00",
+   "age_hours": 21.0,
+   "score": 7.5,
+   "summary": "The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent."
+  },
+  {
+   "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
+   "published": "2026-11-24T16:46:00+00:00",
+   "age_hours": 21.3,
+   "score": 7.5,
+   "summary": "The company said it will still accept songs that were made with AI assistance, but not fully generated."
+  },
+  {
+   "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
+   "published": "2026-11-25T13:00:00+00:00",
+   "age_hours": 1.0,
+   "score": 7.0,
+   "summary": "Huang still faces questions from Congress and his own board about his romantic relationship with an alleged chip smuggler."
+  }
+ ]
+}

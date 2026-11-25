@@ -1,0 +1,56 @@
+{
+  "date": "2026-11-25",
+  "episode": 16,
+  "scenes": [
+    {
+      "type": "open",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "type": "story",
+      "start": 6,
+      "end": 37,
+      "title": "黄仁勋全员大会忏悔",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/"
+    },
+    {
+      "type": "story",
+      "start": 38,
+      "end": 54,
+      "title": "微软Code Red大整改",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/news/1042025/microsoft-code-red-outlook-outage"
+    },
+    {
+      "type": "story",
+      "start": 55,
+      "end": 70,
+      "title": "Flipkart CEO离职",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/11/25/flipkart-ceo-kalyan-krishnamurthy-to-step-down-next-week-amid-ipo-uncertainty/"
+    },
+    {
+      "type": "story",
+      "start": 71,
+      "end": 82,
+      "title": "Anthropic跌破发行价",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/"
+    },
+    {
+      "type": "story",
+      "start": 83,
+      "end": 93,
+      "title": "Tidal封杀AI音乐",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/"
+    },
+    {
+      "type": "outro",
+      "start": 94,
+      "end": 102
+    }
+  ]
+}
