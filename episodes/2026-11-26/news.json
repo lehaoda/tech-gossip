@@ -1,0 +1,281 @@
+{
+ "date": "2026-11-26",
+ "weekday": "星期四",
+ "window_hours": 24,
+ "fetched_at": "2026-11-26T14:01:06.256072+00:00",
+ "failed_feeds": [
+  "Reddit r/technology: network: HTTPError: HTTP Error 404: Not Found"
+ ],
+ "candidates": [
+  {
+   "title": "深蓝汽车成华为星驰首批合作伙伴，双 07 率先搭载全新辅助驾驶系统",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/033/100.htm",
+   "published": "2026-11-26T13:55:59+00:00",
+   "age_hours": 0.1,
+   "score": 10.0,
+   "summary": "IT之家 11 月 26 日现场消息，在今晚的 2026 华为乾崑生态大会上， 华为智能汽车解决方案 BU CEO 靳玉志正式发布了华为星驰辅助驾驶系统 。 深蓝汽车董事长邓承浩现场透露，全新深蓝 S07 AI 激光版和即将上市的全新深蓝 L07 AI 激光版 是行业首批搭载华为星驰驾驶辅助解决方案的车型 。 据介绍，这两台车是当前市面上唯一能体验星驰魅力的车型， 当前已经硬件预埋 ，所有新老用户，明年都将通过 OTA 免费升级为正式的华为星驰智能驾驶辅助。 IT之家了解到，在明日的广州车展，全新深蓝 L07 AI 激光版将正式上市，全面承接华为星驰的最新成果，瞄准 15 万级智能辅助驾驶市场"
+  },
+  {
+   "title": "华为星驰辅助驾驶发布：与乾崑智驾技术同源、资源共享，明年超 10 款车型量产上市",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/033/066.htm",
+   "published": "2026-11-26T11:43:27+00:00",
+   "age_hours": 2.3,
+   "score": 10.0,
+   "summary": "IT之家 11 月 26 日现场消息，在今晚的 2026 华为乾崑生态大会上， 华为智能汽车解决方案 BU CEO 靳玉志正式发布了华为星驰辅助驾驶 。 IT之家在大会现场了解到， 新版的华为星驰辅助驾驶将只专注于辅助驾驶领域 ，与面向自动驾驶的乾崑智驾技术同源（WEWA 架构）、资源共享（云端训练算力 | 高质量训练里程数据）、流程 & 质量（IPD 研发流程 | 车规质量管理体系）。 此外，靳玉志还宣布， 2027 年，超 10 款车型将搭载星驰辅助驾驶量产上市 ，品牌覆盖深蓝汽车、上汽通用五菱、广汽传祺、极狐、东风奕派。"
+  },
+  {
+   "title": "iPhone 16 AI 功能宣传涉嫌画大饼，苹果在韩国遭正式调查",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/033/059.htm",
+   "published": "2026-11-26T11:29:36+00:00",
+   "age_hours": 2.5,
+   "score": 10.0,
+   "summary": "IT之家 11 月 26 日消息，苹果在韩国正面临一项正式调查，调查指控其 iPhone 16 的广告宣传就 Apple Intelligence 功能的可用性误导了消费者。 韩国公平交易委员会（FTC）的调查人员已将苹果及苹果韩国公司移交审查，称 Apple Intelligence 有多项功能未能按宣传兑现，包括 Genmoji、图像游乐场（Image Playground），以及 Siri 理解个人上下文和识别屏幕内容的能力。 这些指控的核心在于，苹果是否充分说明了哪些功能可用、其余功能何时推出。举例来说，FTC 的报告指出，Siri 的个人上下文能力曾被宣传为将于 2025 年 4 月"
+  },
+  {
+   "title": "FCC approves SpaceX plan to put AI data centers in space",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/",
+   "published": "2026-11-25T20:56:44+00:00",
+   "age_hours": 17.1,
+   "score": 10.0,
+   "summary": "The FCC dismissed some of the key concerns raised by opponents, including potential threats to scientific research, because the agency determined they fell outside its regulatory authority."
+  },
+  {
+   "title": "华为乾崑 × 奕境汽车 × 宁德时代：全球首款智能换电车型官宣落地奕境品牌",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/033/081.htm",
+   "published": "2026-11-26T12:39:19+00:00",
+   "age_hours": 1.4,
+   "score": 9.0,
+   "summary": "IT之家 11 月 26 日现场消息，在今晚的 2026 华为乾崑生态大会上，奕境汽车董事长汪俊君宣布， 华为乾崑 × 奕境汽车 × 宁德时代将共建新一代智能换电生态 。 汪俊君还宣布， 全球首款智能换电车型官宣落地奕境品牌 。 据IT之家此前报道，10 月 19 日， 华为乾崑智能汽车解决方案宣布 ，引望与宁德时代、时代电服开展智能换电合作，打造乾崑智驾完整智能充换电生态，引望智能技术有限公司与宁德时代新能源科技股份有限公司、时代电服科技有限公司将就新能源汽车智能换电生态开展全面合作。 在今晚的华为乾崑生态大会上，华为智能汽车解决方案 BU CEO 靳玉志正式官宣华为乾崑智驾 × 宁德时代巧"
+  },
+  {
+   "title": "全球首款搭载华为乾崑和宁德时代换电轿跑：东风奕派 EP7 官宣明日首发亮相",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/033/075.htm",
+   "published": "2026-11-26T12:24:31+00:00",
+   "age_hours": 1.6,
+   "score": 9.0,
+   "summary": "IT之家 11 月 26 日消息，东风奕派刚刚发布预告，宣布全球首款搭载华为乾崑和宁德时代换电轿跑 —— 东风奕派 EP7 明日 9 点首发亮相 。 据IT之家此前报道，东风奕派 EP7 采用全新设计语言，配备封闭式前格栅与星环式灯组，识别特征明确。车身侧面装配半隐藏式门把手以及双五辐轮圈。车尾搭载贯穿式尾灯，与前脸造型形成呼应。 规格方面，该车长宽高分别为 4910x1930x1478mm，轴距为 2920mm。车辆总质量为 2458kg，整备质量 2058kg。换电版本搭载由智新科技股份有限公司所生产型号为 TZ225XYH02 的单电机，最大功率为 215 千瓦。车辆匹配宁德时代（时代上"
+  },
+  {
+   "title": "鸿蒙智行官宣尊界汽车将亮相广州车展，消息称 SUV 车型会在“小黑屋”展示",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/033/047.htm",
+   "published": "2026-11-26T10:44:40+00:00",
+   "age_hours": 3.3,
+   "score": 9.0,
+   "summary": "IT之家 11 月 26 日消息，鸿蒙智行官方今日宣布，尊界汽车将亮相广州车展， 包含尊界 S800 典藏大观、尊界 V800 和尊界 V680 。地点位于广州琶洲广交会展馆 18-2 馆 18204 鸿蒙智行展台。 据IT之家此前报道，博主 @电车总裁 在 11 月 23 日发文透露，鸿蒙智行尊界 SUV 将亮相广州车展， 不过该车预计是在“小黑屋”展示 ，仅部分受邀人士可提前参观。 今年 9 月，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东现身合肥鸿蒙智行门店。 在接受门店工作人员提问时，余承东表示， 这台新车“快了”，明年年初可能就要陆续上市，大概在 2、3 月份 。他"
+  },
+  {
+   "title": "早报｜手机厂商集体下调明年出货目标，曝小米降幅达25%/小鹏悠游开启主驾无人载客/宕机后，微软进入「红色警报」",
+   "source": "爱范儿",
+   "link": "https://www.ifanr.com/1695128?utm_source=rss&utm_medium=rss&utm_campaign",
+   "published": "2026-11-26T00:02:57+00:00",
+   "age_hours": 14.0,
+   "score": 9.0,
+   "summary": "· Counterpoint：2027 年全球智能手机出货量预计再降 6%，2028 年反弹 6% · 理想汽车 2026 年 Q3 营收 288.34 亿元，经营与自由现金流转正 · 26.99 万元起，宝马首款国产新世代车型 iX3 上市并开始交付 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+  },
+  {
+   "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+   "source": "The Verge",
+   "link": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+   "published": "2026-11-26T09:54:40+00:00",
+   "age_hours": 4.1,
+   "score": 8.0,
+   "summary": "A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings. In a deluge of nearly identical press releases, the various AGs accuse the company of planning to auction off \"the private chat histories of more "
+  },
+  {
+   "title": "小米人事调整曝光：王晓雁分管生态链部与大家电部",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/033/097.htm",
+   "published": "2026-11-26T13:35:00+00:00",
+   "age_hours": 0.4,
+   "score": 7.5,
+   "summary": "IT之家 11 月 26 日消息，据界面新闻今晚消息，小米集团发布最新人事任命，集团高级副总裁王晓雁 分管生态链部、大家电部 ，向集团总裁卢伟冰汇报，同时继续 兼任中国区总裁 。 任命张雷担任生态链部总经理，向王晓雁汇报；张雷同时兼任武汉区域总部总经理，向集团副总裁刘伟汇报。 任命陈波担任可穿戴部总经理，向集团总裁、手机部总裁卢伟冰汇报。 接近小米的人士透露， 此次调整与“人车家全生态”产品加速向渠道端汇聚有关 ，手机、汽车、生态链与大家电产品越来越多地进入同一批小米之家门店，融合大店数量持续增加，渠道端需要一个兼具新零售和全品类操盘经验的高管统一拉通产销，进一步释放人车家全生态产品的生态协同"
+  },
+  {
+   "title": "Counterpoint：2026 年第三季度美国智能手机出货量同比下降 9%，苹果份额升至 57%",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/033/093.htm",
+   "published": "2026-11-26T13:32:16+00:00",
+   "age_hours": 0.5,
+   "score": 7.5,
+   "summary": "IT之家 11 月 26 日消息，根据 Counterpoint Research 最新发布的美国市场监测报告，2026 年第三季度（7 — 9 月），美国智能手机整体出货量同比下降 9%。全球存储芯片供应紧张、物料成本上升，对安卓阵营尤其是低端机型造成明显挤压， 而苹果凭借较强韧性，将市场份额推高至 57% 。 来源：Counterpoint Research 2026 年第三季度市场监测（由于四舍五入，百分比总和可能不等于 100%） Counterpoint Research 高级分析师 Emily Herbert 表示：零部件成本上升对美国智能手机市场产生了重大影响，存储价格上涨对安卓"
+  },
+  {
+   "title": "启境汽车发布全新品牌 LOGO，寓意“一枚守护美好生活的徽章”",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/033/091.htm",
+   "published": "2026-11-26T13:12:37+00:00",
+   "age_hours": 0.8,
+   "score": 7.5,
+   "summary": "IT之家 11 月 26 日消息， 启境汽车官方刚刚正式发布了全新品牌 LOGO ，寓意是一枚守护美好生活的徽章。 据IT之家昨日报道，工信部发布第 414 批《道路机动车辆生产企业及产品公告》新产品公示，广汽埃安新能源汽车股份有限公司启境 GX7 共 6 款车型完成申报，涵盖纯电动单电机、纯电动双电机四驱以及插电式增程混合动力多种动力版本。 本次申报的启境 GX7 整体外观保持统一设计语言，车尾采用贯穿式尾灯组，中央排布 AISTALAND 字母标识，左侧为“启境”字样，右侧标注“GX7”车型名称，下方配备运动化扩散器造型。 另外，在选装照片中，还有启境的图形车标 。"
+  },
+  {
+   "title": "未来汽车可以自己去换电池！华为乾崑智驾与宁德时代巧克力换电打通，智能补能解决方案发布",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/033/074.htm",
+   "published": "2026-11-26T12:18:17+00:00",
+   "age_hours": 1.7,
+   "score": 7.5,
+   "summary": "IT之家 11 月 26 日现场消息，在今晚的 2026 华为乾崑生态大会上，华为智能汽车解决方案 BU CEO 靳玉志正式官宣华为乾崑智驾 × 宁德时代巧克力换电达成合作， 并发布了智能补能解决方案 。 IT之家从大会现场了解到，智能补能解决方案支持智能补能体系，可提供电池安全服务。 智能补能体系 补能预约，一键直达 园区内 / 跨园区代客补能 智能补能规划 电池安全服务 共建电池安全标准 双重 BMS 检验 + 四层安全防护 实时健康监测与故障诊断 宁德时代市场联席总裁杨峻提到，等以后到了自动驾驶时代，汽车还可以实现自己去换电补能，车主不用担心汽车没电的情况发生。"
+  },
+  {
+   "title": "华为乾崑 App 2.0 版本发布：新增一键智能报险功能、云瞰升级 3.0 支持双向实时对讲等",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/033/072.htm",
+   "published": "2026-11-26T12:05:04+00:00",
+   "age_hours": 1.9,
+   "score": 7.5,
+   "summary": "IT之家 11 月 26 日现场消息，在今晚的 2026 华为乾崑生态大会上，华为智能汽车解决方案 BU CEO 靳玉志发布了华为乾崑 App 2.0 版本。 据介绍，华为乾崑 App 2.0 版本提供云瞰、智能报险、AI 助手、云畅听、达人 Club、乾智驾公开赛、乾智驾学堂、用户共创等功能。 其中，云瞰升级至 3.0 版本， 带来了远程回看、行车录像、远程查看、双向对讲等功能 ；新增智能报险功能， 支持一键直连保司，3 分钟快速报险 。 据IT之家了解，华为乾崑 App 是专为乾崑用户打造的交流互动平台，有社区、探索、ADS、展厅、爱车、商城六大核心板块；支持心愿单共创、答复车机语音助手反"
+  },
+  {
+   "title": "靳玉志：华为乾崑总搭载 26 个品牌 62 款车型",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/033/070.htm",
+   "published": "2026-11-26T12:02:34+00:00",
+   "age_hours": 2.0,
+   "score": 7.5,
+   "summary": "IT之家 11 月 26 日现场消息，华为公司高级副总裁、引望公司 CEO 靳玉志在华为乾崑生态大会上披露，截至 11 月 25 日，华为乾崑总搭载车型品牌数量 26 个，总搭载车型数量 62 款，华为智能汽车解决方案部件发货量超过 1 亿件。 此外，乾崑智驾、鸿蒙座舱搭载量双双突破 200 万台，乾崑 App 用户超 280 万。今年前三季度乾崑 ADS 新车销量超 50 万台，城区领航辅助国内市场第一。 靳玉志明确乾崑智驾 ADS 5 为自动驾驶而来，可支撑 L3、L4 高阶自动驾驶落地，目前其云端算力达 60EFLOPS，累计辅助驾驶里程已突破 183 亿公里。 IT之家注意到，靳玉志此"
+  },
+  {
+   "title": "横跨 L2、L3、L4：华为靳玉志重申乾崑智驾 HUAWEI ADS 5 为自动驾驶而来",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/033/057.htm",
+   "published": "2026-11-26T11:16:48+00:00",
+   "age_hours": 2.7,
+   "score": 7.5,
+   "summary": "IT之家 11 月 26 日现场消息，在今晚的 2026 华为乾崑生态大会上，华为智能汽车解决方案 BU CEO 靳玉志登台发表主题演讲。他重申， 华为乾崑智驾 HUAWEI ADS 5 为自动驾驶而来 。 据IT之家此前报道，去年 11 月，在华为乾崑生态大会上，靳玉志宣布：华为乾崑智驾 ADS 高速 L3 解决方案的商用之路即将启程， 并公开了华为乾崑智驾 ADS 的 L3 专属人机交互页面 。 今年 4 月 23 日晚，华为乾崑智驾 ADS 5 正式发布 。算法层面，华为发布了面向自动驾驶的 AI 智能体 WEWA 2.0 架构。该架构在云端引入 Multi-Agent 博弈技术与在线强"
+  },
+  {
+   "title": "OpenAI 再度抛出重要数学成果：宣称证明矩阵乘法指数为 9/4",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/033/050.htm",
+   "published": "2026-11-26T10:52:40+00:00",
+   "age_hours": 3.1,
+   "score": 7.5,
+   "summary": "IT之家 11 月 26 日消息，OpenAI 本月 24 日再度抛出一项重要数学成果， 宣称其已证明矩阵乘法指数 ω 恰好为 9/4 。该企业已在今年 10 月证得 ω≤9/4，此次则证得 ω≥9/4，从而得到 ω=9/4。 矩阵乘法指数 ω 描述的是：当 n 足够大时，两个 n×n 矩阵相乘最优算法所需算术运算次数随 n 增长的渐进幂指数；更严格地说，ω 是所有可达复杂度指数的下确界。 矩阵乘法 应用广泛 ，在机器学习、图像处理等领域都可以找到其身影。ω 不仅刻画矩阵乘法理论算法在渐进意义下的最优指数，也 与其它一系列重要复杂度问题相关 。 若 OpenAI 的证明无误，则： 对任意 X＞"
+  },
+  {
+   "title": "Meta Refused to Share Muse for Testing, UK Financial Watchdog Complains",
+   "source": "WIRED",
+   "link": "https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/",
+   "published": "2026-11-26T10:51:27+00:00",
+   "age_hours": 3.2,
+   "score": 7.5,
+   "summary": "The FCA warned against “another force of attack” from agents after the company declined a request to work on joint testing ahead of rolling out its personal agent in the UK on Tuesday."
+  },
+  {
+   "title": "华为鸿蒙星河互联“碰哪传哪”揭秘：行业首创屏幕智感交互，三大技术协同工作",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/032/996.htm",
+   "published": "2026-11-26T10:08:30+00:00",
+   "age_hours": 3.9,
+   "score": 7.5,
+   "summary": "IT之家 11 月 26 日消息，去年 6 月，在 HDC 2025 主题演讲中，华为终端 BG 首席执行官何刚宣布 HarmonyOS 6 将推出全新“碰一碰”功能 —— 通过屏幕智感技术，华为手机用户只需轻贴电脑屏幕即可实现文件秒传，且支持碰哪里就传在哪里的效果。 在昨日下午的 HarmonyOS 创新技术沟通会上，华为 Fellow、HarmonyOS 首席架构师李世军揭秘了鸿蒙星河互联“碰哪传哪”功能背后的技术原理。 据介绍，华为鸿蒙电脑为实现设备融合感知， 通过微电容测量、IMU、近距感知三大技术联合检测 ，行业首创屏幕智感交互，并带来了一碰传、键鼠共享、跨设备剪贴板、接续等功能。 "
+  },
+  {
+   "title": "微软新专利公布：将天线阵列集成到手机屏幕玻璃内部，或为 Surface Phone 铺路",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/032/985.htm",
+   "published": "2026-11-26T09:56:36+00:00",
+   "age_hours": 4.1,
+   "score": 7.5,
+   "summary": "IT之家 11 月 26 日消息，美国专利商标局于 11 月 12 日披露了微软一项手机屏幕专利 US 2026/0360990 A1，微软在该专利中提出“将天线阵列直接集成到屏幕玻璃内部”， 有望在不增加机身厚度的情况下，为手机容纳下尺寸更大的天线阵列，以改善信号情况 。 众所周知，智能手机内部空间十分有限，厂商通常需要通过缩小天线尺寸、让不同无线通信功能共用天线，或者直接取消毫米波（mmWave）、超宽带（UWB）等功能来控制内部空间占用。微软此次提出的方案则尝试利用屏幕玻璃本身，为天线提供额外的安装位置。 根据专利描述，该方案首先在屏幕玻璃背面加工出一处局部减薄区域，再将天线层安装在玻璃"
+  },
+  {
+   "title": "WhatsApp’s new scheduled messages let you choose the right time to send",
+   "source": "The Verge",
+   "link": "https://www.theverge.com/tech/1042532/whatsapp-scheduled-messages",
+   "published": "2026-11-25T20:31:48+00:00",
+   "age_hours": 17.5,
+   "score": 7.5,
+   "summary": "WhatsApp's 3 billion users are getting an option that Meta says is one of the most requested features, with the ability to schedule messages in advance for both private conversations and group chats. Most messaging platforms have had this for a very long time, but now it's on WhatsApp too. If you th"
+  },
+  {
+   "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+   "published": "2026-11-25T20:03:27+00:00",
+   "age_hours": 18.0,
+   "score": 7.5,
+   "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences."
+  },
+  {
+   "title": "The canceled Tesla Cybertruck is the fastest-selling used truck in America",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/25/the-canceled-tesla-cybertruck-is-the-fastest-selling-used-truck-in-america/",
+   "published": "2026-11-25T19:54:32+00:00",
+   "age_hours": 18.1,
+   "score": 7.5,
+   "summary": "The Tesla Cybertruck was the fastest-selling used truck last month, averaging just 39.1 days on the market compared to 65.5 days for trucks overall."
+  },
+  {
+   "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+   "published": "2026-11-25T19:44:24+00:00",
+   "age_hours": 18.3,
+   "score": 7.5,
+   "summary": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development."
+  },
+  {
+   "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+   "published": "2026-11-25T18:11:46+00:00",
+   "age_hours": 19.8,
+   "score": 7.5,
+   "summary": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development."
+  },
+  {
+   "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+   "published": "2026-11-25T17:35:58+00:00",
+   "age_hours": 20.4,
+   "score": 7.5,
+   "summary": "The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said."
+  },
+  {
+   "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+   "published": "2026-11-25T14:10:18+00:00",
+   "age_hours": 23.8,
+   "score": 7.5,
+   "summary": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse."
+  },
+  {
+   "title": "网易《逆水寒》手游 4.2.2 版本更新：年终出货节，两大赛事开赛，联动霸王茶姬",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/033/095.htm",
+   "published": "2026-11-26T13:33:14+00:00",
+   "age_hours": 0.5,
+   "score": 6.5,
+   "summary": "IT之家 11 月 26 日消息，网易《逆水寒》手游将迎来 4.2.2 版本更新 ，将于 2026 年 11 月 27 日早 4:55 停机进行维护工作，预计维护到上午 10:00。 维护结束后，登录游戏可在主界面领取更新奖励：500 绑玉和精美配饰【焦糖曲奇】（每个账号仅可领取一次）。 IT之家附重点更新内容如下： 【年终出货节】 逆水寒出货节 11 月 27 日开启，出货大吉薅寒毛： 年末大集出好货，出摊做老板，2 套时装免费薅。 霸王茶姬出好货，419 万张好茶券免费等你抽，坐骑免费薅。 秋冬丰收出好货，菠萝农场种苹果抽苹果 18Pro。 登录签到出好货，赶集先领礼，每日薅寒毛。 扭蛋加"
+  },
+  {
+   "title": "蔚来乐道 L90 达成 7 万台交付，用时近 16 个月",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/033/090.htm",
+   "published": "2026-11-26T13:09:49+00:00",
+   "age_hours": 0.9,
+   "score": 6.5,
+   "summary": "IT之家 11 月 26 日消息，蔚来乐道汽车今日宣布，11 月 26 日，乐道 L90 正式达成 7 万台交付。 蔚来乐道 L90 于 2025 年 7 月 31 日上市，整车购买价格为 26.58 万元起，采用租电方案则是 17.98 万元起。按此计算， 这款车型用时近 16 个月完成了 7 万台交付 。 据IT之家此前报道， 2026 款乐道 L90 于今年 4 月上市 ，整车购买价格依旧为 26.58 万元起、电池租用方式购买 17.98 万元起。 2026 款乐道 L90 沿用家族式设计风格，除岩脊棕、辰辉银、云曦金、静岳黑、雪峰白、凝夜紫外，本次新增「银辉紫霄」和「紫韵金晖」两款全"
+  },
+  {
+   "title": "全球首个乙肝功能性治愈新药在中国获批上市",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/033/089.htm",
+   "published": "2026-11-26T13:03:50+00:00",
+   "age_hours": 1.0,
+   "score": 6.5,
+   "summary": "IT之家 11 月 26 日消息，国家药品监督管理局官网显示， 批准贝普若韦生（英文名：Bepirovirsen；商品名：贺舒可）上市 。该药品联合核苷（酸）类似物（NAs）用于慢性乙型肝炎病毒感染的功能性治愈。 近日，国家药品监督管理局通过优先审评审批程序，批准 GlaxoSmithKline Trading Services Limited 申报的 1 类创新药贝普若韦生钠注射液（商品名称：贺舒可）上市，该药品联合核苷（酸）类似物（NAs）用于慢性乙型肝炎病毒感染的功能性治愈，适用于以下人群： 已接受 NAs 治疗至少 6 个月、HBV DNA<90 IU / mL、HBsAg≤3000I"
+  }
+ ]
+}

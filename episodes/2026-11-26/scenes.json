@@ -1,0 +1,13 @@
+{
+  "date": "2026-11-26",
+  "episode": "第17期",
+  "scenes": [
+    {"type": "open", "start": 0, "end": 5},
+    {"type": "story", "start": 6, "end": 31, "title": "四十二州拦截私聊拍卖", "source": "The Verge", "link": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats"},
+    {"type": "story", "start": 32, "end": 47, "title": "苹果韩国AI画饼被立案", "source": "IT之家", "link": "https://www.ithome.com/1/033/059.htm"},
+    {"type": "story", "start": 48, "end": 53, "title": "OpenAI破矩阵乘法难题", "source": "IT之家", "link": "https://www.ithome.com/1/033/050.htm"},
+    {"type": "story", "start": 54, "end": 62, "title": "SpaceX天上有数据中心", "source": "TechCrunch", "link": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/"},
+    {"type": "story", "start": 63, "end": 73, "title": "华为发布星驰辅助驾驶", "source": "IT之家", "link": "https://www.ithome.com/1/033/066.htm"},
+    {"type": "outro", "start": 74, "end": 80}
+  ]
+}
