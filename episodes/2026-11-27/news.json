@@ -1,0 +1,281 @@
+{
+ "date": "2026-11-27",
+ "weekday": "星期五",
+ "window_hours": 24,
+ "fetched_at": "2026-11-27T14:01:07.246735+00:00",
+ "failed_feeds": [
+  "Reddit r/technology: network: HTTPError: HTTP Error 404: Not Found"
+ ],
+ "candidates": [
+  {
+   "title": "Is Alice Huang a spy or not?",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/26/is-alice-huang-a-spy-or-not/",
+   "published": "2026-11-26T20:00:00+00:00",
+   "age_hours": 18.0,
+   "score": 10.0,
+   "summary": "The central, still-unproven claim in the Nvidia scandal is that Alice Huang, the former Megaspeed exec with whom Nvidia CEO Jensen Huang had an extramarital affair, is a Chinese spy."
+  },
+  {
+   "title": "消息称某厂子系 2027 年新机有 7 英寸超大屏、阔直板等多形态，预计小米 REDMI 旗下",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/033/569.htm",
+   "published": "2026-11-27T08:41:22+00:00",
+   "age_hours": 5.3,
+   "score": 9.0,
+   "summary": "IT之家 11 月 27 日消息，博主 @数码闲聊站 今日爆料，某厂子系 2027 年新机的屏幕形态非常丰富，7 英寸超大屏、6.59 英寸中屏、6.3 英寸小屏、阔直板，全都有新机评估测试中。结合该博主此前的爆料习惯，预计为小米 REDMI 旗下。 IT之家注意到，该博主 10 月曾透露某神秘“子系旗舰线”开案一块 7 英寸 2K 大直屏 ，支持超高刷，支持 LIPO 四等边技术，该机定位为“七英寸大旗舰”。该博主上个月继续爆料某厂子系测试了 4 台 7 英寸大屏 + 万级大电池，包含有 2nm 旗舰机，预计明年上半年都能见到。 阔直板方面，爆料显示小米 REDMI 阔直板确定评估中，202"
+  },
+  {
+   "title": "Our favorite headphones and earbuds are cheaper than ever for Black Friday",
+   "source": "The Verge",
+   "link": "https://www.theverge.com/gadgets/1040292/best-black-friday-headphone-earbud-deals-2026",
+   "published": "2026-11-27T10:30:00+00:00",
+   "age_hours": 3.5,
+   "score": 8.0,
+   "summary": "If you haven’t already caved and bought a fresh set of wireless earbuds, over-ear headphones, or bone conduction headphones this year, Black Friday is rewarding you with a colossal amount of deals, including discounts on the best models available. Apple, Beats, Soundcore, Sony, Nothing, and other ma"
+  },
+  {
+   "title": "千里科技印奇：智驾业务将聚焦两至三家头部车企，从车型定义阶段参与开发",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/033/753.htm",
+   "published": "2026-11-27T13:47:28+00:00",
+   "age_hours": 0.2,
+   "score": 7.5,
+   "summary": "IT之家 11 月 27 日消息，据界面新闻报道，千里科技董事长、阶跃星辰董事长印奇在投资者交流会上表示， 千里科技未来将聚焦两至三家头部车企客户 ，从车型定义阶段参与开发，与车企共同设计智驾算法及芯片、传感器、域控制器等硬件配置。 印奇称 吉利是这一合作模式的代表性客户 。印奇表示，千里科技正与吉利推进不同品牌和车型的智驾硬件标准化，以减少重复开发，并利用量产车辆回传的数据迭代模型。 据IT之家此前报道， 千里科技 2026 年上半年实现营业收入 51.20 亿元 ，同比增长 22.36%；归属于上市公司股东的净利润为 0.78 亿元，同比增长 151.25%。 相关阅读： 《 千里科技：子"
+  },
+  {
+   "title": "小米智能门锁 5 单摄版 / 大屏猫眼版预售，到手价 1199 / 1399 元",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/033/740.htm",
+   "published": "2026-11-27T12:25:51+00:00",
+   "age_hours": 1.6,
+   "score": 7.5,
+   "summary": "IT之家 11 月 27 日消息，小米智能生态今日宣布，小米智能门锁 5 系列两款新品开启预售。 小米智能门锁 5 单摄版新增 2K 超清智能猫眼，升级支持微信小程序开锁、视频通话远程开锁，支持猫眼遮挡提醒， 到手价 1199 元 。 小米智能门锁 5 单摄版搭载新一代 AI 半导体指纹识别技术，识别速度 ≤0.7 秒，识别率 ≥99.53%，支持关门疾速自动上锁；搭配直插式 C 级锁芯，锁体内置 4 个检测开关，可全天候监测锁体状态。 京东 小米智能门锁 5 单摄版 到手价 1199 元 领 0.9 元券 小米智能门锁 5 大屏猫眼版门锁内面板嵌入 3.97 英寸高清可视大屏，访客按响门铃后"
+  },
+  {
+   "title": "网信办：我国超 64% 成年公民具备初级及以上数字素养与技能，近半数具备人工智能素养",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/033/732.htm",
+   "published": "2026-11-27T11:25:43+00:00",
+   "age_hours": 2.6,
+   "score": 7.5,
+   "summary": "IT之家 11 月 27 日消息，国家互联网信息办公室今日发布《全民数字素养与技能调查报告（2026 年）》。 《报告》从总体情况、地区情况、群体情况等方面，系统分析了我国公民数字素养与技能发展水平及变化趋势。调查结果显示， 2026 年我国成年公民中具备初级及以上数字素养与技能的占比为 64.69% ，高级水平占比为 17.65%，较 2024 年分别增长 4.08 个和 1.39 个百分点，全民数字素养与技能发展总体呈良好态势。 从区域维度看，我国公民数字素养与技能发展水平呈现东部地区持续领跑、中部地区稳步跟进、西部地区加速追赶的发展态势。从城乡、年龄、受教育程度、职业等群体维度看，各群体"
+  },
+  {
+   "title": "小鹏 MONA 全系累计交付汽车突破 40 万台，平均月交付近 1.5 万台",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/033/721.htm",
+   "published": "2026-11-27T11:12:31+00:00",
+   "age_hours": 2.8,
+   "score": 7.5,
+   "summary": "IT之家 11 月 27 日消息，在 2026 广州车展上，小鹏汽车公布 MONA 系列市场数据： 全系累计交付量突破 40 万辆 ，平均月交付量接近 1.5 万辆。 此外，MONA L03 海外订单已突破 3.4 万辆，并在欧洲、亚太、中东和拉美等地区同步交付。MONA L05 即将开启海外上市，预计今年 12 月登陆泰国，明年 1 月于布鲁塞尔车展开启全欧上市。 据IT之家此前报道，2024 年 4 月 25 日， 小鹏汽车公布全新品牌 MONA ，寓意 Made Of New AI，定位全球 AI 智驾汽车普及者。 2024 年 8 月 27 日，小鹏 MONA M03 上市，售价 11"
+  },
+  {
+   "title": "已深度服务微信电商数百个业务流程，微信开源 WeMM-Ecom 多模态基础模型家族",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/033/649.htm",
+   "published": "2026-11-27T10:05:40+00:00",
+   "age_hours": 3.9,
+   "score": 7.5,
+   "summary": "IT之家 11 月 27 日消息，腾讯微信视觉团队开源 WeMM-Ecom —— 兼顾前沿电商理解与领先通用能力的多模态基础模型家族，涵盖 0.8B、2B、4B、9B 四款稠密模型和 35B-A3B 混合专家模型。 全系列模型原生支持“快速直答”与“深度思考”双模式，并同步开放 BF16、FP8、GPTQ、GGUF 全套权重。 在覆盖 8 大电商场景的 28 项电商基准与 64 项公开通用基准中，WeMM-Ecom-35B-A3B 在电商榜单以 74.4 分领先数百 B 旗舰模型 。在 64 项通用基准上，WeMM-Ecom-2B 在轻量级模型中排名第一。目前，WeMM-Ecom 已深度服务微"
+  },
+  {
+   "title": "曝谷歌第 10 代 TPU 芯片将配备 512GB 定制 HBM5 内存",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/033/624.htm",
+   "published": "2026-11-27T09:54:37+00:00",
+   "age_hours": 4.1,
+   "score": 7.5,
+   "summary": "IT之家 11 月 27 日消息，韩媒 Economy Tribune 当地时间今日爆料称， Google（谷歌）计划为其第 10 代 TPU 芯片配备 512GB 的定制 HBM5 内存 。 谷歌 TPU 是当前最主要的 AI ASIC 产品，其规格可作为窥视未来 AI 芯片竞争的窗口。 从各位消息人士的近期泄露来看， TPU 10 当下指的是代号 \"Quillfish\" 的项目 ，预计由联发科技 (MediaTek) 负责设计服务工作，有望继续采用 Intel（英特尔）的 EMIB-T 先进封装，量产时间点落在 2029 年。由于还有约 3 年的时间，一切情况都可能发生变化。 谷歌近期在原"
+  },
+  {
+   "title": "李健：荣耀 700 系列手机销量已打破 2026 年安卓新品首销日纪录",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/033/622.htm",
+   "published": "2026-11-27T09:43:19+00:00",
+   "age_hours": 4.3,
+   "score": 7.5,
+   "summary": "IT之家 11 月 27 日消息，荣耀终端股份有限公司 CEO 李健宣布， 荣耀 700 系列今天 10:08 开售以来， 销量已打破 2026 年安卓新品首销日纪录 ，成功登顶安卓首销排行榜第一。 据IT之家此前报道， 荣耀 700 系列手机于 11 月 23 日发布 ，包含 荣耀 700S 、荣耀 700、 荣耀 700 Pro 三款产品，首销 3399 元起，国补到手价 2899-5099 元。 荣耀 700 系列配备一块 6.57 英寸 1.5K 120Hz LTPS 绿洲护眼屏，配备 1.59 英寸 AI 灵动背屏；搭载 200Mp 1/1.56\" 主摄（荣耀 700 / Pro）、"
+  },
+  {
+   "title": "消息称韩国政府要求三星电子开发 Jetson Thor 竞品，企业方反应谨慎",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/033/619.htm",
+   "published": "2026-11-27T09:30:54+00:00",
+   "age_hours": 4.5,
+   "score": 7.5,
+   "summary": "IT之家 11 月 27 日消息，韩媒 MTN 近日报道称，韩国政府今年 10 月对三星电子提出要求，希望这家本土企业能 开发一款可在机器人算力芯片领域与 NVIDIA（英伟达）Jetson Thor 竞争的产品 ，但三星电子的反应谨慎。 韩国将物理 AI 视为自身国家战略的关键部分。在增强机器人整机制造能力外，实现算力基座的国产化也是韩国政府的目标之一。英伟达的 Jetson 系列平台目前是物理 AI 和机器人领域的主导方案。 不过对于三星而言，这一任务并不轻松：韩国国内市场有限，如果想要在该项目盈利必须扩展全球销路；英伟达一路走来，在物理 AI 生态上具备显著的先发优势；三星电子负责芯片设"
+  },
+  {
+   "title": "苹果官网上架 mophie Frost 支架保护壳：适用于 iPhone 17 / 18 Pro / Air 系列机型，398 元",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/033/618.htm",
+   "published": "2026-11-27T09:28:55+00:00",
+   "age_hours": 4.5,
+   "score": 7.5,
+   "summary": "IT之家 11 月 27 日消息，苹果中国官网现已上架 mophie Frost 支架保护壳（ 点此访问 ），提供 iPhone 17e/17/18 Pro/18 Pro Max / Air 版本，定价为 398 元。 系列保护壳重量约 63g，提供 4 种半透明雾面配色，自带一体式支架，同时提供了相机控制按钮和挂绳孔，IT之家附官方介绍： mophie Frost 支架保护壳以浓郁的半透明色彩，为你的 iPhone 增添别样质感。染色背板让色彩自然透出，同时柔和地散射光线；雾面外观则令日常的磨损和划痕不易显现。贴合手型的侧边设计带来稳固的握持感，出色的防摔保护可从容应对日常使用。 保护壳自带"
+  },
+  {
+   "title": "小米汽车世界模型 2.0 发布，已在实际业务场景中落地",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/033/614.htm",
+   "published": "2026-11-27T09:13:11+00:00",
+   "age_hours": 4.8,
+   "score": 7.5,
+   "summary": "IT之家 11 月 27 日消息，小米汽车今日正式发布 Xiaomi Auto World Model 2.0（小米汽车世界模型 2.0）。 官方称小米汽车世界模型 2.0 进一步将多视角视频生成、物理交互建模、三维场景重建与动作建模连接起来，为辅助驾驶和具身智能统一因果世界模型带来新的范式。 据介绍，模型支持 1—7 路摄像头视角 ，训练语料规模达到 1,260 万段视频片段 ，并展示了从辅助驾驶、机器人场景生成，到闭环仿真与 World Action Model 的多项结果，在多个主流基准测试中全面取得 SOTA，并已在小米汽车合成数据、仿真测试等核心场景完成业务落地应用。 在 PAI-B"
+  },
+  {
+   "title": "小米推出 REDMI 电视 A55 2027 一级能效版：4K 165Hz、内置小爱同学 AI 助手，1599 元",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/033/542.htm",
+   "published": "2026-11-27T08:23:06+00:00",
+   "age_hours": 5.6,
+   "score": 7.5,
+   "summary": "IT之家 11 月 27 日消息，小米现已在有品上架 REDMI 电视 A55 2027 一级能效版（ 点此访问 ），该机为 4K 165Hz 规格，定价为 1999 元，首发价 1599 元。 该机采用黑色窄边框设计，匹配一块 3840×2160 分辨率 165Hz 直下式背光面板，支持 4K 60Hz MEMC 运动补偿。机身底部两侧设有扬声器开孔，内置 2×10W（Max 12W）立体声双扬声器及低音双风管。 该机搭载五核 A55 处理器，配 1.5GB RAM 与 32GB 存储空间，支持 Wi-Fi 6、蓝牙 5.4。提供双 HDMI 2.0、双 USB-A 2.0 以及 AV、以太"
+  },
+  {
+   "title": "钛动科技 × 腾讯云达成战略合作，用AI打开企业全球增长新空间",
+   "source": "量子位",
+   "link": "https://www.qbitai.com/2026/11/513194.html",
+   "published": "2026-11-27T04:05:56+00:00",
+   "age_hours": 9.9,
+   "score": 7.5,
+   "summary": "企业需要有用的 AI"
+  },
+  {
+   "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+   "published": "2026-11-26T20:03:54+00:00",
+   "age_hours": 18.0,
+   "score": 7.5,
+   "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China."
+  },
+  {
+   "title": "A month with the iPhone Duo has changed how I use my phone",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/26/a-month-with-the-iphone-duo-has-changed-how-i-use-my-phone/",
+   "published": "2026-11-26T17:00:00+00:00",
+   "age_hours": 21.0,
+   "score": 7.5,
+   "summary": "From reading more books to breaking mindless scrolling habits, Apple's foldable has changed my daily routines in ways I didn't anticipate."
+  },
+  {
+   "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+   "published": "2026-11-26T16:00:00+00:00",
+   "age_hours": 22.0,
+   "score": 7.5,
+   "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time."
+  },
+  {
+   "title": "The SE 3 is the Apple Watch most people should buy on Black Friday",
+   "source": "The Verge",
+   "link": "https://www.theverge.com/gadgets/1040313/apple-watch-se-3-black-friday-2026-deal-sale",
+   "published": "2026-11-27T11:30:00+00:00",
+   "age_hours": 2.5,
+   "score": 7.0,
+   "summary": "During Black Friday, the Apple Watch SE 3 is on sale in the 40mm / GPS configuration at Amazon, Walmart, and Target starting around $179 ($70 off), $20 less than its previous lowest price. The 44mm variant, meanwhile, is on sale at Amazon, Walmart, and Target starting at around $209 (also $70 off), "
+  },
+  {
+   "title": "Claude Opus 5.6 做出了史上最牛的 PPT，直接杀死比赛？",
+   "source": "爱范儿",
+   "link": "https://www.ifanr.com/1695831?utm_source=rss&utm_medium=rss&utm_campaign",
+   "published": "2026-11-27T09:06:19+00:00",
+   "age_hours": 4.9,
+   "score": 7.0,
+   "summary": "这可能是我们见过最离谱的 AI 生成 PPT。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+  },
+  {
+   "title": "小米澎程 OTA 1.20 开启全量推送：新增 iPhone 数字钥匙功能，城区领航辅助解锁门槛降至 100 公里",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/033/747.htm",
+   "published": "2026-11-27T13:02:20+00:00",
+   "age_hours": 1.0,
+   "score": 6.5,
+   "summary": "IT之家 11 月 27 日消息，小米澎程今日宣布 OTA 1.20 已经开始全量推送，本次更新主要适配 N70、N90 全系车型，涉及辅助驾驶、智能座舱与日常用车体验。 IT之家从官方公告获悉，辅助驾驶方面，城区领航辅助功能的使用体验得到优化：加减速更平稳，变道选道更准确，避障绕行的横纵向协同更连贯，路口左转、右转及合流的博弈能力提升。小爱行车播报取消了变道语音提示，减少辅助驾驶过程中的打扰。 城区领航辅助安全里程门槛由 300 公里降低至 100 公里 ，使用 ACC、LCC、HNOA 累计里程达到 100 公里即可解锁 CNOA。 高速领航辅助同步优化，对周边车辆的响应更平顺，减少急刹与"
+  },
+  {
+   "title": "上汽大通 2027 款大家 7 MPV 上市：CLTC 续航至高 570km，售价 16.98 万元起",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/033/742.htm",
+   "published": "2026-11-27T12:37:00+00:00",
+   "age_hours": 1.4,
+   "score": 6.5,
+   "summary": "IT之家 11 月 27 日消息，2026 广州车展今日开幕，上汽大通 27 款大家 7 上市，权益价 16.98 万元起，定位“品质出行豪华 MPV”。 IT之家从官方介绍获悉， 该车轴距为 2975mm ，轴长比 61%、内外宽比 82%。新车提供多种座椅布局，其中 2+2+3 七座布局兼顾载客与商务接待；二排腿部空间 947mm、三排 761mm， 第三排支持滑动与放倒 ，滑轨行程总计 145mm，满员状态下后备箱仍可容纳 4 个 20 寸行李箱。车辆配备双侧 710mm 大开度电动侧滑门。 座舱方面，27 款大家 7 采用 Quapact 多连杆独立悬架，全车提供 7 个 Type A"
+  },
+  {
+   "title": "The 50+ Best Apple Black Friday Deals on AirPods, iPads, MacBooks, and More - MacRumors",
+   "source": "Google News Tech",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1CaXRWM21oOVhEVHpxaVZiWDJ0ak95Q0ZqcjV1d3BacXBJNGlZS2tuYTV4V2N1VDEtQkM3Nk1zdW5qd2ZwOTZEazQ2MDhIRlRrcGE5RU9lNlVsNjJ3eFlNNjdWTGUwYXl5QmpLdVROdjQxVGlqVTI1QUNR?oc=5",
+   "published": "2026-11-27T12:28:30+00:00",
+   "age_hours": 1.5,
+   "score": 6.5,
+   "summary": "The 50+ Best Apple Black Friday Deals on AirPods, iPads, MacBooks, and More MacRumors New low prices just landed on AirTags, AirPods and MacBooks for Black Friday CNN Black Friday Apple deals 2026: Record prices on AirPods, MacBooks, Apple Watch Mashable Apple's Official 2026 Black Friday Offer Star"
+  },
+  {
+   "title": "16 Best Black Friday Headphone Deals (2026): Up to 57% Off",
+   "source": "WIRED",
+   "link": "https://www.wired.com/story/best-black-friday-headphone-deals-11-27-2026/",
+   "published": "2026-11-27T11:58:32+00:00",
+   "age_hours": 2.0,
+   "score": 6.5,
+   "summary": "Get up to 57 percent off some of my favorite headphones and earbuds from Apple, Sony, Nothing, and more."
+  },
+  {
+   "title": "The Best Black Friday iPad Deals On the Latest 2026 Models: Get $100 Off",
+   "source": "WIRED",
+   "link": "https://www.wired.com/story/best-black-friday-ipad-deals-11-27-2026/",
+   "published": "2026-11-27T11:03:21+00:00",
+   "age_hours": 3.0,
+   "score": 6.5,
+   "summary": "Many of Apple's best iPads are discounted for Black Friday, including $100 off on the latest iPad Mini."
+  },
+  {
+   "title": "奇瑞捷途环游者 EV 上市 48 小时订单突破 2 万台，8.99 万元起",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/033/719.htm",
+   "published": "2026-11-27T10:49:48+00:00",
+   "age_hours": 3.2,
+   "score": 6.5,
+   "summary": "IT之家 11 月 27 日消息，奇瑞旗下捷途汽车今日宣布，捷途环游者 EV 全球上市 48 小时突破 20,000 台。 官方此前还曾宣布，捷途环游者 EV 上市 20 小时大定破 10,000 台。 据IT之家此前报道，新车长宽高分别为 4475/1880/1700 毫米，轴距 2735 毫米，共推出 5 款车型，售价区间为 8.99 万元至 12.59 万元。 车型 售价（万元） 550km 后驱畅行版 8.99 550km 后驱智行版 9.79 550km 后驱智臻版 10.79 550km 后驱智臻版 + 10.99 510kmXWD 四驱智臻版 12.59 动力方面，两驱版车型电机"
+  },
+  {
+   "title": "安克太阳能板外观设计专利国内获批：折叠设计、自带支架",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/033/703.htm",
+   "published": "2026-11-27T10:17:15+00:00",
+   "age_hours": 3.7,
+   "score": 6.5,
+   "summary": "IT之家 11 月 27 日消息，安克创新科技股份有限公司旗下一项名为“太阳能板的主体”的外观设计专利于 11 月 13 日正式获国家知识产权局授权，授权公告号为 CN310315381S。 根据专利说明，该产品用于将太阳能转化为电能，设计要点在于形状，涉及太阳能板框架的局部外观设计。可以看出这是一批便于折叠、自带支架的太阳能板。 目前，安克旗下 Anker SOLIX 已在海外市场布局多种功率规格的便携式太阳能板，主要为户外露营、自驾旅行及应急备电等场景提供光伏补能支持。本次相应专利在国内获批，一方面可以看作是安克为了在全球市场保证自身专利产权，一方面也可能是为相应产品登陆国内市场铺路。"
+  },
+  {
+   "title": "I Found the Best Black Friday Streaming Deals (2026): Apple TV, Disney, and Paramount Over Half Off",
+   "source": "WIRED",
+   "link": "https://www.wired.com/story/black-friday-streaming-deals-11-27-2026/",
+   "published": "2026-11-27T10:04:47+00:00",
+   "age_hours": 3.9,
+   "score": 6.5,
+   "summary": "Streaming apps are offering their biggest subscription deals of the year. Here’s how to take advantage."
+  },
+  {
+   "title": "消息称 vivo X500 Ultra 已定版，或成安卓阵营的超大杯独苗",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/033/611.htm",
+   "published": "2026-11-27T09:12:25+00:00",
+   "age_hours": 4.8,
+   "score": 6.5,
+   "summary": "IT之家 11 月 27 日消息，据博主 @数码闲聊站 今日爆料，vivo 或是安卓阵营的超大杯独苗，X500 Ultra 已定版，X600 Ultra 立项规划中。 IT之家注意到，vivo 副总裁、产品副总裁黄韬此前已确认，X500 Ultra 机型会正常迭代， 预计明年 3-4 月发布 ，影像会拉开和 Pro Max 的差距，主打先锋用户与专业创作者。 爆料显示，vivo X500 Ultra 有望搭载第六代骁龙 8 超级至尊版处理器，采用 6.85 英寸 BOE 2K+144Hz LTPO 屏幕，LIPO 四等边大 R 角直屏，配备 3D 超声波指纹，前摄为常规 5000 万像素传感器"
+  },
+  {
+   "title": "宝马计划推出新一轮员工自愿离职补偿方案，首轮有部分员工获 65 万欧元补偿金",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/033/608.htm",
+   "published": "2026-11-27T09:00:57+00:00",
+   "age_hours": 5.0,
+   "score": 6.5,
+   "summary": "IT之家 11 月 27 日消息，据德国媒体《商报》从宝马集团内部人士处获悉，宝马将面向德国员工推出新一轮自愿离职补偿方案。继本月提前结束的首轮大规模裁员计划后，宝马正就此展开新一轮动作。 宝马在回应该媒体问询时证实了上述消息 ，公司已于 11 月完成员工结构调整计划，并提前实现既定目标。为推进下一步重组，公司将更多依靠现有的人力资源管理工具，包括个别协商离职协议。 据悉，新一轮方案仍仅适用于非生产岗位员工，宝马将直接联系相关人员，但员工离职仍须双方达成一致。 此前，第一轮方案向宝马股份公司（BMW AG）非生产部门的所有员工开放。10 月 8 日，数万名职员收到了一封附有内部人事门户网站链接"
+  }
+ ]
+}

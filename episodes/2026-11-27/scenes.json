@@ -1,0 +1,56 @@
+{
+  "date": "2026-11-27",
+  "episode": "第18期",
+  "scenes": [
+    {
+      "type": "open",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "type": "story",
+      "start": 6,
+      "end": 31,
+      "title": "Nvidia间谍案新进展",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/11/26/is-alice-huang-a-spy-or-not/"
+    },
+    {
+      "type": "story",
+      "start": 32,
+      "end": 49,
+      "title": "史上最大IPO遇上GTA6",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/"
+    },
+    {
+      "type": "story",
+      "start": 50,
+      "end": 59,
+      "title": "Opus 5.6灰度传闻",
+      "source": "爱范儿",
+      "link": "https://www.ifanr.com/1695831"
+    },
+    {
+      "type": "story",
+      "start": 60,
+      "end": 66,
+      "title": "微信开源WeMM-Ecom模型",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/033/649.htm"
+    },
+    {
+      "type": "story",
+      "start": 67,
+      "end": 70,
+      "title": "谷歌十代TPU内存曝光",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/033/624.htm"
+    },
+    {
+      "type": "outro",
+      "start": 71,
+      "end": 76
+    }
+  ]
+}
