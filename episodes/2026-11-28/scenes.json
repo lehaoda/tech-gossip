@@ -1,0 +1,56 @@
+{
+  "date": "2026-11-28",
+  "episode": "第19期",
+  "scenes": [
+    {
+      "type": "open",
+      "start": 0,
+      "end": 3
+    },
+    {
+      "type": "story",
+      "start": 4,
+      "end": 30,
+      "title": "Claude破黎曼猜想引威胁",
+      "source": "量子位",
+      "link": "https://www.qbitai.com/2026/11/513463.html"
+    },
+    {
+      "type": "story",
+      "start": 31,
+      "end": 43,
+      "title": "雷军现身喝小米粥",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/034/000.htm"
+    },
+    {
+      "type": "story",
+      "start": 44,
+      "end": 54,
+      "title": "广电新规仅小米留开机广告",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/034/011.htm"
+    },
+    {
+      "type": "story",
+      "start": 55,
+      "end": 66,
+      "title": "马斯克称谷歌要租更多算力",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/033/898.htm"
+    },
+    {
+      "type": "story",
+      "start": 67,
+      "end": 77,
+      "title": "冯骥长文智力变资本",
+      "source": "IT之家",
+      "link": "https://www.ithome.com/1/033/986.htm"
+    },
+    {
+      "type": "outro",
+      "start": 78,
+      "end": 88
+    }
+  ]
+}

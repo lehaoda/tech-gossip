@@ -1,0 +1,282 @@
+{
+ "date": "2026-11-28",
+ "weekday": "星期六",
+ "window_hours": 24,
+ "fetched_at": "2026-11-28T14:01:37.394797+00:00",
+ "failed_feeds": [
+  "Reddit r/technology: network: HTTPError: HTTP Error 404: Not Found",
+  "Google News Tech: network: HTTPError: HTTP Error 429: Too Many Requests"
+ ],
+ "candidates": [
+  {
+   "title": "华境 S 五座版 SUV 官宣下个月上市，标配华为乾崑智驾 ADS 5 Pro 与宁德时代电芯",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/033/959.htm",
+   "published": "2026-11-28T10:08:49+00:00",
+   "age_hours": 3.9,
+   "score": 9.0,
+   "summary": "IT之家 11 月 28 日消息，五菱品牌与市场总监 @思行Si-Hang 今日宣布， 华境 S 大五座 SUV 将在下个月正式上市 （具体日期暂未公布）。 据IT之家此前报道， 华境 S 已于 11 月 25 日正式开启预订 ，可享限时 1000 元抵 3000 元权益。 新车全系标配华为乾崑科技与宁德时代电芯 ，并提供后排一键纯平功能，放倒后可形成约两米的平整空间。 尺寸方面，华境 S 五座版车长 5235mm、车宽 1999mm、车高 1800mm，轴距 3105mm。五座版外观提供日照金山、沧海悬月等配色方案，其中日照金山采用金色车顶搭配黑色车身，沧海悬月采用银色车顶搭配蓝色车身，内饰"
+  },
+  {
+   "title": "苹果 (PRODUCT)RED 红色版 HomePod mini 2 音箱实物曝光",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/033/899.htm",
+   "published": "2026-11-28T07:32:42+00:00",
+   "age_hours": 6.5,
+   "score": 8.5,
+   "summary": "IT之家 11 月 28 日消息，彭博社的马克 · 古尔曼（Mark Gurman）今天（11 月 28 日）在 X 平台发布推文， 爆料称部分线下门店已展示 (PRODUCT)RED 版 HomePod mini 2。 该款智能音箱预计 12 月 1 日星期二发售，这一天恰好是世界艾滋病日。 相关实物照片有两张，其中一张最初由 X 平台用户 @s_s_s_t_x（IT之家发稿前，该推文已删除）分享，古尔曼随后通过其账号再次发布： 另一张由 Reddit 用户 mateograph 发布。从照片来看，这款 HomePod mini 2 采用红色网状面板，包装盒上似乎还贴有 (RED) 标识。外"
+  },
+  {
+   "title": "用Claude证明黎曼猜想的90后数学家，收到了致命威胁",
+   "source": "量子位",
+   "link": "https://www.qbitai.com/2026/11/513463.html",
+   "published": "2026-11-28T12:25:48+00:00",
+   "age_hours": 1.6,
+   "score": 8.0,
+   "summary": "为了证明黎曼猜想，他已经准备了十几年"
+  },
+  {
+   "title": "荣耀 X90 Pro Max 手机三证齐全，消息称下个月发布",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/034/008.htm",
+   "published": "2026-11-28T13:01:49+00:00",
+   "age_hours": 1.0,
+   "score": 7.5,
+   "summary": "IT之家 11 月 28 日消息，据博主 @体验more 今日爆料，荣耀 X90 Pro Max 手机已经三证齐全，支持 90W 快充以及 13300mAh 额定电池容量、支持 N79 频段，下个月发布。 据IT之家 11 月 16 日报道，博主 @数码闲聊站 透露， 荣耀正试产 13300mAh 新电池 ，典型值预计在 13500mAh±。他认为，这块电池有可能在接下来的 7 英寸大屏中端机 采用。博主还透露，2027 年还有更大的电池方案。 目前，荣耀已推出多款万级容量电池手机，包括 WIN / WIN RT / WIN Turbo（以及二代新机）、Power2、X80 Pro Max 等"
+  },
+  {
+   "title": "利用 NFC 贴卡转账，虚假投资理财诈骗新套路曝光",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/034/002.htm",
+   "published": "2026-11-28T12:32:46+00:00",
+   "age_hours": 1.5,
+   "score": 7.5,
+   "summary": "IT之家 11 月 28 日消息，据央视新闻 11 月 28 日报道，北京市西城区一位市民在社交平台咨询炒股时被诈骗分子盯上，后被诱导以手机 NFC 贴卡方式转账， 实际损失 15.8 万元 。 报道称，为规避侦查、掩盖作案痕迹，诈骗分子没有使用主流聊天软件，而是诱导当事人下载一款 小众阅读类 App 作为专属联络工具，并将其拉入所谓“证券内部拉升交流群”。群内不断发布虚假盈利截图、收益晒单，营造全员盈利、手握内幕消息的假象。 随后，骗子发送陌生链接，诱导当事人下载名为“YH 天王星”的虚假炒股平台，声称是券商内部专属交易系统，先以小额投入、小额返利和小额提现成功打消其防备。待其准备追加大额投"
+  },
+  {
+   "title": "小米武汉科技园开园：雷军现身，与嘉宾一起喝小米粥",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/034/000.htm",
+   "published": "2026-11-28T12:26:02+00:00",
+   "age_hours": 1.6,
+   "score": 7.5,
+   "summary": "IT之家 11 月 28 日消息，11 月 28 日，小米武汉科技园举行开园活动，小米创办人、董事长兼 CEO 雷军现身活动现场， 和嘉宾一起举杯共饮小米粥 。 据介绍，开园启动装置设有 9 条启动线，既代表目前已有九大业务板块落地小米武汉区域总部，也象征着小米扎根武汉持续成长的 9 年。 IT之家从公开信息获悉，小米武汉科技园是小米集团在武汉东湖高新区（光谷）重点建设的研发与产业园区，目前已基本建成并投入使用，承载小米在人工智能、大数据、智能硬件及家电业务等方面的重要布局。 延伸阅读 小米与武汉的渊源可追溯至 2017 年：当年 6 月 29 日，小米武汉总部正式揭牌，同年 11 月 18 "
+  },
+  {
+   "title": "游戏党痛点问题解决！QQ 鸿蒙版 App 新增支持添加未登录的账号用于三方应用登入",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/033/997.htm",
+   "published": "2026-11-28T11:56:01+00:00",
+   "age_hours": 2.1,
+   "score": 7.5,
+   "summary": "IT之家 11 月 28 日消息，QQ 鸿蒙版 App 已于 11 月 20 日在华为应用市场（App Gallery）开启 9.2.90 (3680) 版本邀测升级（需收到短信通知后点击链接跳转安装）。 IT之家实测，在该版本中，QQ 鸿蒙版新增一项新特性解决了游戏党的一大痛点 —— 支持添加未登录的账号进行三方 App 登录 。这意味着使用华为鸿蒙系统手机的游戏玩家，在切换账号时，无需再通过扫码或来回在 QQ App 登录不同 QQ 进行切换操作，可以在游戏登录环节就直接添加新账号。 此外， 不仅是游戏，QQ 音乐、腾讯视频等三方 App 也均支持该特性 。IT之家另附 QQ 鸿蒙版 Ap"
+  },
+  {
+   "title": "《黑神话：悟空》制作人冯骥：AI 正在改写一条数百年未变的硬边界，智力首次脱离肉身变资本要素",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/033/986.htm",
+   "published": "2026-11-28T11:32:55+00:00",
+   "age_hours": 2.5,
+   "score": 7.5,
+   "summary": "IT之家 11 月 28 日消息，11 月 27 日，游戏科学创始人 / CEO、《黑神话：悟空》制作人冯骥在其个人公众号“冯骥 Yocar”发表了一篇名为《 后 AI 时代最重要的问题 》的长文，全文约 8000 字。文章发出后，引发全网热议。 冯骥表示，最让自己忧心忡忡的，是 AI 正在改写一条数百年未变的硬边界 —— 智力在历史上第一次脱离肉身，从劳动要素变成了资本要素 。 他称，在此之前，无论多高深的学问、多老辣的判断与直觉，统统长在活生生的人脑里。只要长在肉身里，就摆脱不了生老病死； 任你天赋再高，一天真正的巅峰状态也就几个小时 。 人就是这样，困了要睡，病了要歇，受了委屈会辞职，作"
+  },
+  {
+   "title": "消息称苹果 iPhone Duo 销量突破 40 万台，国行定价 15,999 元起",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/033/979.htm",
+   "published": "2026-11-28T10:36:26+00:00",
+   "age_hours": 3.4,
+   "score": 7.5,
+   "summary": "IT之家 11 月 28 日消息，长期关注国内手机市场份额的数码博主 @RD观测 今日发文，曝光了苹果 iPhone Duo 折叠屏手机的最新销量数据， 截至 2026 年第 46 周（11 月 9 日-11 月 15 日）约 43.57 万台 。 作为参考，苹果在 2026 年秋季发布会上 发布了旗下首款折叠屏手机 iPhone Duo ，10 月 23 日正式发售，国行定价 15,999 元起。 该机型首销期（首销日 + 后三天）销量接近 20 万台 。 IT之家注：iPhone Duo 采用可折叠设计，配备了苹果迄今面积最大的 iPhone 显示屏。展开状态下，它是迄今最薄的 iPhon"
+  },
+  {
+   "title": "网友反馈 OSTA O1 Pro 华为商城断货，星芒刘赫回应“在补货了，这两天整的鸡飞狗跳”",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/033/976.htm",
+   "published": "2026-11-28T10:20:53+00:00",
+   "age_hours": 3.7,
+   "score": 7.5,
+   "summary": "IT之家 11 月 28 日消息，首款为 AI 而生的鸿蒙手机 —— 华为星芒 OSTA O1 Pro 已于 11 月 20 日下午正式发布 ，叠加国补后 4999 元起。华为星芒品牌总经理刘赫也已开通微博，持续解答网友疑惑。 ▲ IT之家开箱：华为全新子品牌星芒 OSTA O1 Pro 手机实拍 有网友昨日在刘赫微博评论区反馈，领取补贴想在华为商城购买新机时，却遇到了断货问题。对此，刘赫当晚回应称：“ 在补货了，这两天整的鸡飞狗跳... ” 截至发文， 华为星芒 OSTA O1 Pro 手机在华为商城、京东等平台均可正常购买 ，支持现货发货、至高 12 期 0 分期利息。 作为参考，博主 @"
+  },
+  {
+   "title": "999 → 789 元：苹果 AirPods 5 降噪耳机京东久违发车",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/033/930.htm",
+   "published": "2026-11-28T09:15:26+00:00",
+   "age_hours": 4.8,
+   "score": 7.5,
+   "summary": "今日京东自营 AirPods 大促加码，AirPods 5 支持主动降噪，官方定价 999 元，长续航 + 无线充电盒版定价 1149 元。 今日 PLUS 国补后低至 789 元起，此优惠限账号： 京东 Apple AirPods 5 支持主动降噪 国补后 789 元 直达链接 京东 Apple AirPods 5 搭配无线充电盒 增强续航 国补后 917 元 直达链接 AirPods 京东保价 7 天，一周内下单的 PLUS 会员都可保价哦： 点此保价 。 AirPods Pro 3 定价 1899 元，今日京东 PLUS 国补后 1265 元也是好价： 京东 AirPods Pro 第三"
+  },
+  {
+   "title": "南京发布鸿蒙智能体三年行动计划：2028 年营收破千亿，集聚企业超 100 家",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/033/920.htm",
+   "published": "2026-11-28T08:15:41+00:00",
+   "age_hours": 5.8,
+   "score": 7.5,
+   "summary": "IT之家 11 月 28 日消息，《科创板日报》今日报道，南京市今日发布《开源鸿蒙智能体发展行动计划（2026—2028 年）》，部署九项重点任务，涵盖鸿蒙智能体产品发展、生态企业培育、公共服务体系完善、产业园区建设、特色 OPC 社区打造、安全可信技术支撑体系构建、标杆场景打造及人才体系培育等。 按照该行动计划，目标到 2028 年，打造标杆场景超 10 个，集聚生态企业超 100 家， 企业营收规模超 1000 亿元 ，建成全国领先的鸿蒙智能体创新高地。 IT之家注意到，11 月 28 日，2026 开源鸿蒙技术大会在南京举行。华为公司常务董事、终端 BG 董事长余承东视频致辞称，开源鸿蒙"
+  },
+  {
+   "title": "亏贼！卡帕西用Claude搓出“美国版《文明》”，网友直接玩成全球接力赛",
+   "source": "量子位",
+   "link": "https://www.qbitai.com/2026/11/513428.html",
+   "published": "2026-11-28T05:54:46+00:00",
+   "age_hours": 8.1,
+   "score": 7.5,
+   "summary": "这种大模型现做的即时交互工具，能不能来一波知识付费？"
+  },
+  {
+   "title": "The M5 MacBook Air just got its biggest discount since Apple raised the price",
+   "source": "The Verge",
+   "link": "https://www.theverge.com/gadgets/1044771/m5-macbook-air-black-friday-2026-deal-sale",
+   "published": "2026-11-28T03:30:00+00:00",
+   "age_hours": 10.5,
+   "score": 7.5,
+   "summary": "If you’ve been holding off on buying a new MacBook Air since Apple raised prices by $200 in June, you’re in luck. The 13-inch M5 MacBook Air is on sale at Amazon and Best Buy with 16GB of RAM and 512GB of storage starting at $999 ($300 off) for Black Friday, which is the lowest […]"
+  },
+  {
+   "title": "The best Black Friday deals you can still get on AirPods, Macs, and other Apple gear",
+   "source": "The Verge",
+   "link": "https://www.theverge.com/gadgets/1043935/best-black-friday-apple-deals-2026",
+   "published": "2026-11-27T23:53:19+00:00",
+   "age_hours": 14.1,
+   "score": 7.5,
+   "summary": "Black Friday is entering the evening, which means one of the best times of the year to save some cash on a new pair of AirPods or the latest Apple Watch is coming to a close. After all, the holiday savings can help offset the unfortunate price hikes from earlier this year, when Apple raised […]"
+  },
+  {
+   "title": "Show HN: Luciole Mono – terminal font designed for legibility",
+   "source": "Hacker News (frontpage)",
+   "link": "https://scriptor-pro.github.io/luciole-mono/",
+   "published": "2026-11-28T12:50:15+00:00",
+   "age_hours": 1.2,
+   "score": 7.0,
+   "summary": "TLDR : Atkinson Hyperlegible Mono alternative Luciole Mono is a vibe-clauded derivative of Luciole.Luciole was designed for visually impaired readers by Laurent Bourcellier and Jonathan Perez, at the Centre Technique Régional pour la Déficience Visuelle (typographies.fr) Please tell me what you thin"
+  },
+  {
+   "title": "Claude Code sabotage: preliminary benchmarking",
+   "source": "Hacker News (frontpage)",
+   "link": "https://xinyadu.github.io/blog/claude-code-sabotage.html",
+   "published": "2026-11-28T10:37:40+00:00",
+   "age_hours": 3.4,
+   "score": 7.0,
+   "summary": "Article URL: https://xinyadu.github.io/blog/claude-code-sabotage.html Comments URL: https://news.ycombinator.com/item?id=50676390 Points: 99 # Comments: 33"
+  },
+  {
+   "title": "Show HN: Fleetlayer – Framework for running many AI agents on multiple machines",
+   "source": "Hacker News (frontpage)",
+   "link": "https://fleetlayer.ai/",
+   "published": "2026-11-28T08:37:09+00:00",
+   "age_hours": 5.4,
+   "score": 7.0,
+   "summary": "Hi HN! I ran into many problems when I started running lots of Claude Code sessions in parallel. I quickly ran out of usage, so I signed up for more Claude subs (which Anthropic terms allow.) Running so many different accounts meant that I couldn't use claude.ai artifacts anymore, because the browse"
+  },
+  {
+   "title": "雅砻江公司与华为获联合国“全球可持续工业 AI 解决方案奖”，方案落地于全球最大水光互补电站",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/033/914.htm",
+   "published": "2026-11-28T07:52:37+00:00",
+   "age_hours": 6.2,
+   "score": 7.0,
+   "summary": "IT之家 11 月 28 日消息，据华为数字能源分享，在联合国工业发展组织 60 周年纪念活动期间，雅砻江流域水电开发有限公司（简称“雅砻江公司”）与华为联合打造的“AI 赋能绿色能源方案”荣获“2026 年全球可持续工业 AI 解决方案奖”。 ▲ 雅砻江公司与华为联合荣获“2026 年全球可持续工业 AI 解决方案奖” 据介绍，该奖项由联合国工业发展组织（UNIDO）、联合国贸易和发展会议（UNCTAD）、联合国数字与新兴技术办公室（ODET）、国际电信联盟（ITU）、联合国发展协调办公室（UNDCO）以及世界机器人合作组织（WRCO）面向全球首次发起， 共收到来自 61 个国家 220 余"
+  },
+  {
+   "title": "马斯克：谷歌已表示有兴趣从 SpaceX 租用更多算力",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/033/898.htm",
+   "published": "2026-11-28T07:31:08+00:00",
+   "age_hours": 6.5,
+   "score": 7.0,
+   "summary": "IT之家 11 月 28 日消息，马斯克在 X 上透露，目前尚不确定哪家客户会采购更多算力， 但谷歌已表示有兴趣从 SpaceX 租用更多算力 。 马斯克表示，面向高带宽训练配置的大规模连续算力集群，其租赁价格正在走高，有时甚至大幅上涨。而小规模算力（约 5,000 张 GPU 以内）的租金则在下滑。总体来看， SpaceX 算力的单张 GPU 平均租赁价格正呈上升趋势 。 IT之家注意到，据纽约时报报道，马斯克近日向员工表示，公司在人工智能研发方面正落后于 Anthropic、OpenAI 等竞争对手。因此， 与其将数据中心算力全部用于自研 AI 产品，不如出租给竞争对手，以获得更高的商业回"
+  },
+  {
+   "title": "华为 HarmonyOS 7 系统 AI 快捷栏逐步放量，8GB 内存手机、折叠屏、平板均在支持范围内",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/033/890.htm",
+   "published": "2026-11-28T07:26:38+00:00",
+   "age_hours": 6.6,
+   "score": 7.0,
+   "summary": "IT之家 11 月 28 日消息，华为 Mate 90 系列手机已于 11 月 18 日率先开启鸿蒙 HarmonyOS 7.0.0.115 SP11 版本升级，系统包大小约 10.31GB，带来了 AI 快捷栏等功能。 据实测， Mate 90 系列手机的 AI 快捷栏拥有全新交互体验 —— 它会维持 5 个应用图标的宽度，不会缩小。另外，长按 AI 圆环可进入 AI 屏，获取更多服务，例如行业趋势解读、AI 分析、智能记忆助手等。 IT之家注意到，目前华为官方已公开 AI 快捷栏功能详情信息。据介绍， 该功能是 HarmonyOS 7.0 及以上版本在桌面底部区域新增的系统级 AI 入口 "
+  },
+  {
+   "title": "俄罗斯 AI 模型续写果戈理《死魂灵》第二卷，读者反应不一",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/033/875.htm",
+   "published": "2026-11-28T07:17:26+00:00",
+   "age_hours": 6.7,
+   "score": 7.0,
+   "summary": "IT之家 11 月 28 日消息，1852 年，俄国作家尼古拉 · 果戈理因精神崩溃，将未完成的小说《死魂灵》部分手稿投入火中，几天之后，果戈理与世长辞。《死魂灵》至今仍被视为俄罗斯文学杰作，但果戈理始终没能完成全书。原计划中的三卷， 最终只有一卷完整留存 。 据路透社 27 日报道，由俄罗斯金融与科技集团 Sber 开发的 AI 模型 GigaChat，为被果戈理烧毁的第二卷 生成了一个续写版本 。这项大胆实验试图回答一个问题：人工智能能否真正捕捉伟大作家的创作风格与文学神韵？ 新书《死魂灵：复活》引起了部分读者的兴趣，却没有得到评论界的认可。这项实验汇集了语言学家、工程师和历史学家。项目负"
+  },
+  {
+   "title": "Apple Black Friday Deals (2026): AirPods, iPads, MacBooks, and More",
+   "source": "WIRED",
+   "link": "https://www.wired.com/story/black-friday-apple-deals-11-27-2026/",
+   "published": "2026-11-27T16:24:22+00:00",
+   "age_hours": 21.6,
+   "score": 7.0,
+   "summary": "Save on AirPods, iPads, MacBooks, and tons of accessories for Black Friday."
+  },
+  {
+   "title": "记者实测十品牌仅小米电视有开机广告：客服回应称属互联网电视（OTT），用户只能向其申请关闭",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/034/011.htm",
+   "published": "2026-11-28T13:30:44+00:00",
+   "age_hours": 0.5,
+   "score": 6.5,
+   "summary": "IT之家 11 月 28 日消息，昨日（11 月 27 日），国家广播电视总局第 17 号令与第 18 号令正式施行。两项规定均明确， 有线电视与 IPTV 运营服务提供者应坚持直播优先原则 ，不得播放开机广告 。 图源：Pexels 据大风新闻今日报道，华商报大风新闻记者走访商场，实测 TCL、卡萨帝、创维、飞利浦、长虹、东芝、海信、华为、小米、三星等 10 个品牌的电视机，通过遥控器或电视机设置的开关按钮尝试， 仅小米电视仍存在开机广告 。 报道提到，小米客服对此表示， 小米电视属于互联网电视（OTT），用户只能向客服申请关闭开机广告 ，申请提交后，会在 24 小时内协助关闭。 参考IT之"
+  },
+  {
+   "title": "2990 → 749 元：添可芙万 Stretch Plus 无线洗地机再降价，躺平 0 缠毛 25000Pa",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/034/009.htm",
+   "published": "2026-11-28T13:15:24+00:00",
+   "age_hours": 0.8,
+   "score": 6.5,
+   "summary": "添可芙万 Stretch Plus 高能版支持 25000Pa 劲吸，平躺 0 缠毛。 上市定价 2980 元，今日仅需 749 元近期新低。 今日叠加 88VIP 消费券 + 淘金币后，国补 20% 实付 1239 元。 实付大于 1200 元返 490 元（详询客服），折合仅需 749 元： 点击下方卡片领券后 → 点击 宝贝右上角“ … ” → 点击弹出页面 右下角“ 淘金币 ” 点击宝贝。 选择以旧换新（旧物可选数据线）下单实付 1239 元： 天猫 添可 Stretch Plus 高能版 0 缠毛 躺平洗地机 换新国补 1239 元 直达链接 如果价格不对，大概率是淘金币不够 / 没"
+  },
+  {
+   "title": "I Found the Best Black Friday Streaming Deals (2026): Apple TV, Disney, HBO Max",
+   "source": "WIRED",
+   "link": "https://www.wired.com/story/black-friday-streaming-deals-11-28-2026/",
+   "published": "2026-11-28T09:32:04+00:00",
+   "age_hours": 4.5,
+   "score": 6.5,
+   "summary": "Streaming apps are offering their biggest subscription deals of the year. Here’s how to take advantage."
+  },
+  {
+   "title": "消息称华星 / 天马 / 京东方 / 维信诺都在测试 240Hz 超高刷，最高 2K+240Hz",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/033/933.htm",
+   "published": "2026-11-28T09:22:32+00:00",
+   "age_hours": 4.7,
+   "score": 6.5,
+   "summary": "IT之家 11 月 28 日消息，博主 @数码闲聊站 今日爆料称，国产屏还是更激进，华星 / 天马 / 京东方 / 维信诺都在测试 240Hz 超高刷，最高 2K+240Hz，子系下一代旗舰应该能见到。 早在上个月，该博主便爆料某屏厂正在做 2K+240Hz 显示屏， 预计 2027 年能上机 ，目前不暗指任何新机。 IT之家注意到，目前市面上的新机多采用 1.5K+ 高刷方案，兼顾流畅性与功耗，部分旗舰机型将屏幕分辨率提升至 2K 规格。如果爆料属实，2K+240Hz 方案在提升清晰度与流畅性的同时，能否在功耗上取得理想效果，值得大家关注。 目前， 荣耀 WIN 平板 已官宣将业界首发 24"
+  },
+  {
+   "title": "消息称鸿蒙智行尊界 SUV 将归“X”序列，更易做好产品矩阵区分",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/033/929.htm",
+   "published": "2026-11-28T09:10:42+00:00",
+   "age_hours": 4.8,
+   "score": 6.5,
+   "summary": "IT之家 11 月 28 日消息，博主 @未来的学习笔记 今日发文透露， 尊界 SUV 将归“X”序列 。 目前鸿蒙智行在轿车 S 系列和 MPV V 系列是有跨界的产品，但是在 SUV 上，就是专属的系列了。尚界 H 和 Z 系列，享界 G 系列、智界 R 系列、尊界应该就是 X 系列了。这样以后也更容易做好产品矩阵的区分。 据IT之家此前报道，博主 @电车总裁 在 11 月 23 日发文透露，鸿蒙智行尊界 SUV 将亮相广州车展，不过该车预计是在“小黑屋”展示，仅部分受邀人士可提前参观。 今年 9 月，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东现身合肥鸿蒙智行门店。 在"
+  },
+  {
+   "title": "神舟二十三号和神舟二十四号航天员完成在轨交接，首名外籍航天员将返回",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/033/924.htm",
+   "published": "2026-11-28T08:50:05+00:00",
+   "age_hours": 5.2,
+   "score": 6.5,
+   "summary": "IT之家 11 月 28 日消息，据央视新闻报道，北京时间 2026 年 11 月 28 日，神舟二十三号和神舟二十四号航天员进行交接仪式，移交了中国空间站的钥匙。根据任务计划安排， 首名外籍航天员穆罕默德 · 齐尚 · 阿里将乘坐神舟二十三号飞船返回 ，航天员朱杨柱将留轨完成一年期在轨驻留试验，与指令长汤洪波、航天员武毅共同执行神舟二十四号载人飞行任务。 截至目前，航天员张志远、黎家盈、穆罕默德 · 齐尚 · 阿里已完成全部既定任务，航天员张志远将担任神舟二十三号返回任务指令长。 3 名航天员将于近日搭乘飞船返回东风着陆场 ，还将带回来自“天宫”的“神秘礼物”。 目前，着陆场及各参试系统正在"
+  },
+  {
+   "title": "20 Best Black Friday Headphone Deals (2026): Up to 57% Off",
+   "source": "WIRED",
+   "link": "https://www.wired.com/story/black-friday-headphone-deals-11-28-26/",
+   "published": "2026-11-28T08:43:46+00:00",
+   "age_hours": 5.3,
+   "score": 6.5,
+   "summary": "Get up to 57 percent off some of my favorite headphones and earbuds from Apple, Sony, Nothing, and more."
+  }
+ ]
+}
